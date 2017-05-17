@@ -1,0 +1,76 @@
+Invaders of Texas,,,,,,,,,,,,,,,,,
+www.texasinvasives.org,,,,,,,,,,,,,,,,,
+Exported: 2017-05-17 15:23 ,,,,,,,,,,,,,,,,,
+Obs_ID,Date,USDA,Species,Time_Spent,Satellite,Collector,Lat,Long,Location_Error,Loc_Err_Units, Disturbance,Patch_Type,Abundance,Validated,Valid_Name,Valid_Date,Notes
+7365,4/13/09,CEME2,Centaurea melitensis,5,Highland Lake Invaders,351,30.6141,-98.07993,,,Roadside,Linear,Rare,Yes,Travis Gallo,4/21/09,near entrance of Whitewater Springs on FM 1174
+7367,4/13/09,CEME2,Centaurea melitensis,5,Highland Lake Invaders,351,30.67073,-98.07756,,,Roadside,Linear,Common,Yes,Travis Gallo,4/21/09,"Along FM 243 near Oatmeal, TX"
+7372,4/13/09,CEME2,Centaurea melitensis,5,Highland Lake Invaders,351,30.70779,-98.00182,,,Roadside,Linear,Common,Yes,Travis Gallo,4/21/09,Hwy 29 east of Bertram near exit to S. San Gabriel Cemetery
+7375,4/13/09,CEME2,Centaurea melitensis,90,Highland Lake Invaders,351,30.61268,-98.08878,,,Roadside,Linear,Common,Yes,Travis Gallo,4/21/09,"Along Ashe Juniper, Bertram, TX"
+7491,4/21/09,CEME2,Centaurea melitensis,15,Highland Lake Invaders,351,30.61597,-98.109,,,Roadside,Point,Rare,Yes,Travis Gallo,4/27/09,"east side of Chaneys Crossing, Bertram, TX (subdivision off FM 1174)"
+7563,5/3/09,CEME2,Centaurea melitensis,5,Highland Lake Invaders,9,30.74308,-98.3681,,,None,Polygon,Common,Yes,Karan Rawlins,5/9/09,In Inks Lake State Park. Large area close to shoreline.
+7568,5/4/09,CEME2,Centaurea melitensis,5,Highland Lake Invaders,351,30.61744,-98.10913,,,Cleared brush,Point,Rare,Yes,Karan Rawlins,5/11/09,"In septic field at 708 Chaney's Crossing, Bertram, off of Hwy 1174."
+7607,5/9/09,CEME2,Centaurea melitensis,5,Highland Lake Invaders,9,30.74696,-98.36798,,,None,Polygon,Common,Yes,Karan Rawlins,5/16/09,Located in non-public area of Inks Lake State Park. Malta Star Thistle is widespread over the area.
+7765,5/23/09,CEME2,Centaurea melitensis,5,Highland Lake Invaders,351,30.61652,-98.10908,,,Roadside,Polygon,Common,Yes,Karan Rawlins,5/30/09,Near 990 Chaney's Crossing.
+7766,5/23/09,CEME2,Centaurea melitensis,5,Highland Lake Invaders,351,30.61597,-98.1218,,,Roadside,Polygon,Common,Yes,Karan Rawlins,5/30/09,Along Whitewater Drive at far southwest corner in Whitewater Springs.
+7767,5/23/09,CEME2,Centaurea melitensis,5,Highland Lake Invaders,351,30.61251,-98.1111,,,Roadside,Linear,Common,Yes,Karan Rawlins,5/30/09,East side of Balcones Ridgeway.
+7769,5/23/09,CEME2,Centaurea melitensis,5,Highland Lake Invaders,351,30.62086,-98.10368,,,Roadside,Linear,Rare,Yes,Karan Rawlins,5/30/09,Few plants along drainage for creek under Chaney's Crossing.
+7770,5/23/09,CEME2,Centaurea melitensis,5,Highland Lake Invaders,351,30.62584,-98.11033,,,Roadside,Linear,Common,Yes,Karan Rawlins,5/30/09,Along east side of Spring Hollow.
+7771,5/23/09,CEME2,Centaurea melitensis,5,Highland Lake Invaders,351,30.62374,-98.11422,,,Roadside,Point,Rare,Yes,Karan Rawlins,5/30/09,Along west side of Whitewater Drive.
+7774,5/23/09,CEME2,Centaurea melitensis,5,Highland Lake Invaders,351,30.61399,-98.0988,,,Roadside,Point,Rare,Yes,Karan Rawlins,5/30/09,South side of Wagon Wheel Trail near Westcreek.
+8135,6/11/09,CEME2,Centaurea melitensis,5,City of Austin Invaders,517,30.24412635,-97.81005487,,,Other,Polygon,Common,Yes,Karan Rawlins,6/27/09,"Just inside the entrance to the Barton Creek Greenbelt, Gaines/Twin Falls Access (3900 W. Mopac Frontage) -- I pulled up what I could of it."
+10546,4/25/10,CEME2,Centaurea melitensis,15,City of Austin Invaders,547,30.38109,-97.80883,,,Roadside,Linear,Common,Yes,Travis Gallo,6/2/10,All along north side of Highway 2222 at Tract C Ivanhoe.
+10460,5/14/10,CEME2,Centaurea melitensis,5,City of Austin PARD,1011,30.34488,-97.70489,,,None,Linear,Rare,Yes,Travis Gallo,6/2/10,"Georgian at W. Anderson, behind Austin Humane Society"
+10492,5/15/10,CEME2,Centaurea melitensis,15,Cross Timbers Invaders,396,30.17714441,-97.7252984,,,Roadside,Polygon,Common,Yes,Travis Gallo,6/2/10,"McKinney Falls State Park, Travis County. In large patch along paved trail and road at south end of park."
+10488,5/17/10,CEME2,Centaurea melitensis,5,Hill Country Invaders,123,30.27778495,-99.21572685,,,Flood,Linear,Rare,Yes,Travis Gallo,6/2/10,on Pedernales River 2 mi SE of Harper
+10654,6/6/10,CEME2,Centaurea melitensis,5,Voyager,1023,29.99199873,-99.40815926,,,Cleared brush,Polygon,Rare,Yes,Travis Gallo,6/10/10,"Malta star thistle seems to be increasing in number over the years.  Homeowner has been trying to pull it up and burn the plants.  Hopes to get a handle on it soon.  Located off HIghway 39 about 10 miles west of Hunt, Texas."
+10666,6/7/10,CEME2,Centaurea melitensis,5,Voyager,1023,30.37246791,-97.96455145,,,Other,Polygon,Common,Yes,Travis Gallo,6/10/10,"The Malta star thistle is scattered throughout the Lohmann\\\'s Crossing Estates park located off Ladin Lane in Lakeway, Texas."
+10904,6/27/10,CEME2,Centaurea melitensis,5,Cross Timbers Invaders,396,32.70650354,-100.9209144,,,Roadside,Point,Rare,Yes,Travis Gallo,7/6/10,"Texas, Scurry Co., Snyder, front yard of house on south side of 35th St between Ave U and Ave T"
+15876,5/3/12,CEME2,Centaurea melitensis,15,Hill Country Invaders,1623,29.800927,-98.734984,3,m,Other,Point,Rare,Yes,JDS,5/8/12,Mature 'weedy' plant growing in landscape garden next to parking lot
+15909,5/5/12,CEME2,Centaurea melitensis,30,Hill Country Invaders,123,30.27815556,-99.21594143,,,Flood,Polygon,Common,Yes,JDS,5/14/12,removed ~40 plants
+15992,5/16/12,CEME2,Centaurea melitensis,15,Balcones Invaders,1379,29.6803,-98.4692,,,Flood,Linear,Common,Yes,JDS,8/13/12,"On Mud Creek, just north of the power lines, off the end of Pinnacle Falls Road."
+16125,6/5/12,CEME2,Centaurea melitensis,5,Hill Country Invaders,123,30.27646,-99.21565175,8,m,Graded,Linear,Rare,Yes,JDS,10/6/12,
+16308,7/3/12,CEME2,Centaurea melitensis,15,Hill Country Invaders,1623,29.60547,-98.68099,3,m,Roadside,Linear,Common,Yes,Eric Knight,10/9/12,Along both sides of graded roadway within the Senator Frank L. Madla Jr. Natural Area
+20421,8/31/12,CEME2,Centaurea melitensis,5,Voyager,2264,30.9454869,-97.53354192,3,m,Cleared brush,Point,Rare,Yes,JDB,2/23/15,There are several plants growing in the large gravel alongside the creek.
+17521,6/16/13,CEME2,Centaurea melitensis,10,Voyager,497,30.4138924,-97.73701069,5,m,Other,Point,Rare,Yes,Kathryn D'Amico,7/29/13,Schroeter  park
+17523,6/16/13,CEME2,Centaurea melitensis,30,Voyager,1990,30.192557,-97.898585,0,m,Other,Point,Rare,Yes,Kathryn D'Amico,7/29/13,"Edge, park land, Helscher tract, 11001 Sierra Ridge Court, Austin, TX"
+17525,6/16/13,CEME2,Centaurea melitensis,30,Voyager,1990,30.193072,-97.897887,0,m,Roadside,Polygon,Common,Yes,Kathryn D'Amico,7/29/13,"Along old road in Helscher Tract, Austin Parks, 11001 Sierra Ridge Ct, Austin, TX"
+18978,4/15/14,CEME2,Centaurea melitensis,15,Travis County Invaders,306,30.1835147,-97.72510847,5,m,Other,Polygon,Common,Yes,JDB,4/15/14,Mfsp
+19019,4/20/14,CEME2,Centaurea melitensis,60,Walnut Creek Wild,1440,30.40333346,-97.68629774,5,m,Roadside,Polygon,Rare,Yes,JDB,4/23/14,"In drainage to culvert at westernmost entrance to parking lot for softball fields, opposite entrance to off-leash area. Dozens of individual plants in this location. Although I quickly identified the plant as a potential invasive species, it took a great deal of research to identify the species."
+19040,4/24/14,CEME2,Centaurea melitensis,60,Walnut Creek Wild,1440,30.353507,-97.690862,100000,m,Roadside,Polygon,Common,Yes,JDB,5/1/14,"In right-of-way on east side of I-35, between main lane and northbound service road, between Little Walnut Creek and entrance ramp between US 183 and Rundberg Lane. Because getting photos at this location is dangerous, photo shown is of plants in Walnut Creek Metropolitan Park. Identification is certain: plants were seen up close at speed below 10 mph."
+19039,4/29/14,CEME2,Centaurea melitensis,5,Walnut Creek Wild,1440,30.40760805,-97.67422915,20,f,Roadside,Polygon,Common,Yes,JDB,5/7/14,Scattered throughout the right-of-way on the east side of I-35 south of Parmer Lane. (Photo is of a patch in Walnut Creek Metropolitan Park because it's not easy to safely get a photo at this site. But the distinct yellow blossoms were also showing here.)
+19110,4/30/14,CEME2,Centaurea melitensis,5,Walnut Creek Wild,1440,30.374613,-97.677394,50,f,Roadside,Polygon,Common,Yes,JDB,5/7/14,Scattered throughout this embankment between the northbound main lanes of I-35 and the service road. (Photo is from another site because of the hazards of getting a picture at this location.)
+19243,5/14/14,CEME2,Centaurea melitensis,30,El Camino Real Invaders,884,30.81112,-97.03348,,,Roadside,Polygon,Common,Yes,JDB,5/26/14,"4405 Hwy 1600, corner of County Road 208 and Hwy 1600"
+19291,6/4/14,CEME2,Centaurea melitensis,30,Balcones Invaders,2072,29.55258488,-98.52886476,10,m,None,Polygon,Rare,Yes,JDB,6/30/14,PHP with Wendy Leonard.  Weed Wednesday Malta star hand pulled and bagged.  10 volunteers.
+19324,6/15/14,CEME2,Centaurea melitensis,15,Voyager,497,30.413293,-97.737731,0,m,Other,Linear,Common,Yes,JDB,7/7/14,Schroeter along and in sw trail
+19415,6/22/14,CEME2,Centaurea melitensis,15,Hays County Invaders,1247,29.88049,-97.910122,5,m,Flood,Linear,Common,Yes,JDB,7/19/14,Approximately two miles east of San Marcos.  Blanco River north of Highway 80 overpass.
+20525,3/13/15,CEME2,Centaurea melitensis,5,Balcones Invaders,2072,29.57542468,-99.72991713,5,m,Other,Polygon,Rare,Yes,TNL,5/19/15,Garner State Park
+"On top of \"Old Baldy\"""n top of \"""",,,,,,,,,,,,,,,,,
+20526,3/13/15,CEME2,Centaurea melitensis,30,Balcones Invaders,2072,29.57588883,-99.73035316,5,m,Other,Polygon,Rare,Yes,TNL,5/19/15,Garner State Park.
+"On top of \"Old Baldy\"""n top of \"""",,,,,,,,,,,,,,,,,
+20564,3/25/15,CEME2,Centaurea melitensis,5,Balcones Invaders,2072,29.55180607,-98.53212775,5,m,Other,Polygon,Rare,Yes,TNL,5/19/15,Phil Hardberger Park.
+Eradication efforts in progress by Weed Wednesday Warriors.,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+20.654,4/12/15,CEME2,Centaurea melitensis,5,Voyager,2826,29.8273489,-98.7130616,55,m,Roadside,Linear,Common,Yes,TNL,5/19/15,On the public access to the Guadalupe river at FM474
+20655,4/12/15,CEME2,Centaurea melitensis,5,Voyager,2826,29.802398,-98.7534726,5722,m,Roadside,Linear,Common,Yes,HFL,6/8/15,Spring Creek Rd at FM474
+20738,4/15/15,CEME2,Centaurea melitensis,5,Voyager,2826,29.8101817,-98.7140001,96,m,Roadside,Polygon,Common,Yes,HFL,6/2/15,Herff Ranch entrance at FM474
+20739,4/15/15,CEME2,Centaurea melitensis,5,Voyager,2826,29.8124288,-98.7141195,96,m,Roadside,Linear,Common,Yes,HFL,7/14/15,FM474 at North Essex Rd
+20740,4/15/15,CEME2,Centaurea melitensis,5,Voyager,2826,29.8158666,-98.7105972,96,m,Roadside,Linear,Common,Yes,HFL,7/14/15,FM 474
+20741,4/15/15,CEME2,Centaurea melitensis,15,Voyager,2826,29.7958495,-98.7269891,96,m,Roadside,Linear,Common,Yes,HFL,7/14/15,By Boerne Post Office
+20742,4/15/15,CEME2,Centaurea melitensis,15,Voyager,2826,29.7979755,-98.7317031,96,m,Other,Polygon,,Yes,HFL,7/14/15,Prolific in the Boerne Public Library gardens
+20747,4/15/15,CEME2,Centaurea melitensis,15,Voyager,2826,29.7736358,-98.7214673,12,m,Roadside,Linear,Common,Yes,HFL,7/14/15,South Main St. Boerne
+20748,4/15/15,CEME2,Centaurea melitensis,5,Voyager,2826,29.7744276,-98.721005,15,m,Graded,Point,Common,Yes,HFL,7/14/15,Recently graded parking lot
+20749,4/15/15,CEME2,Centaurea melitensis,10,Voyager,2826,29.779032,-98.7232657,96,m,Roadside,Polygon,Common,Yes,HFL,7/14/15,Walmart lawn
+20750,4/15/15,CEME2,Centaurea melitensis,10,Voyager,2826,29.7808819,-98.7150305,96,m,Other,Point,Common,Yes,HFL,7/14/15,Herff Farm
+20751,4/15/15,CEME2,Centaurea melitensis,10,Voyager,2826,29.7892029,-98.7145866,96,m,Roadside,Polygon,Common,Yes,HFL,6/2/15,South Esser Rd at 46
+20799,4/16/15,CEME2,Centaurea melitensis,5,Balcones Invaders,2800,29.5711433,-98.525747,52,m,Roadside,Linear,Rare,Yes,HFL,7/14/15,Several plants along path
+20779,4/21/15,CEME2,Centaurea melitensis,15,Voyager,2826,29.7914577,-98.7146529,96,m,Roadside,Linear,Common,Yes,HFL,7/14/15,In front of the Boerne school bus yard.
+20780,4/21/15,CEME2,Centaurea melitensis,30,Voyager,2826,29.7804718,-98.7137199,6,m,Other,Polygon,Common,Yes,HFL,7/14/15,"Herff Farm, Cibolo Nature Center"
+20806,4/25/15,CEME2,Centaurea melitensis,5,Blackland Prairies Invaders,1749,32.036614,-102.069699,5,f,Cleared brush,Polygon,Common,Yes,TNL,5/19/15,Along a trail near an area in the Sibley Nature Center (Midland) that had been cleared for habitat restoration; this plant is common throughout the Midland area and along the main road leading to the nature center and Hwy. 250 on the way into town.
+20821,5/3/15,CEME2,Centaurea melitensis,5,Hays County Invaders,1321,29.9034943,-97.9299902,6,m,Graded,Polygon,Common,Yes,HFL,6/2/15,SpringLake natural area
+,,,,,,,,,,,,,,,,,
+21122,5/21/15,CEME2,Centaurea melitensis,5,Balcones Invaders,2800,29.5710825,-98.525848,5,m,Other,Polygon,Rare,Yes,TNL,7/15/15,Cluster
+23399,4/9/16,CEME2,Centaurea melitensis,23,Walnut Creek Wild,1440,30.403945,-97.687213,0,m,Roadside,Linear,Common,Yes,TNL,4/12/16,
+23599,4/10/16,CEME2,Centaurea melitensis,5,Walnut Creek Wild,1440,30.40490833,-97.6848,3,m,Other,Polygon,Common,Yes,HFL,11/23/16,One of many large plants growing from an old mulch pile beyond the fences of the softball fields near the Willow Wild end of Walnut Creek Metropolitan Park.
+23600,4/10/16,CEME2,Centaurea melitensis,5,Walnut Creek Wild,1440,30.40579167,-97.6857,3,m,Other,Polygon,Common,Yes,mab,12/23/16,Small patch growing in Walnut Creek Metropolitan Park alongside the park road just inside the Willow Wild entrance.
+23601,4/10/16,CEME2,Centaurea melitensis,5,Walnut Creek Wild,1440,30.40579167,-97.6857,3,m,Other,Polygon,Common,Yes,HFL,12/21/16,Small patch growing in Walnut Creek Metropolitan Park alongside the park road just inside the Willow Wild entrance.
+23602,4/10/16,CEME2,Centaurea melitensis,5,Walnut Creek Wild,1440,30.40534722,-97.68612778,3,m,Other,Polygon,Common,Yes,HFL,12/21/16,Small patch growing in Walnut Creek Metropolitan Park alongside the park road just inside the Willow Wild entrance.

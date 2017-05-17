@@ -1,6 +1,6 @@
-## Newline to comma
+## CVS parser
 
-1. Put newline delimited text into scrape.txt
-2. Ensure that result.csv is an empty file
-3. Run $ node creat_csv.js
+1. Put CSVs into raw.csv
+2. Ensure that result.csv is empty
+3. Run $ node create_csv.js
 4. Your results are in result.csv
