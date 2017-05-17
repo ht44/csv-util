@@ -12,8 +12,9 @@ fs.readFile('./raw.csv', 'utf8', (err, data) => {
     }
   });
   results.pop();
-  result = results.join(',')
+  console.log(results.length);
 
+  result = results.join(',')
   console.log(result);
 
   fs.writeFile('./result.csv', result, (err) => {

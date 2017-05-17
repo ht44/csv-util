@@ -1,6 +1,6 @@
 Invaders of Texas,,,,,,,,,,,,,,,,,
 www.texasinvasives.org,,,,,,,,,,,,,,,,,
-Exported: 2017-05-17 15:23 ,,,,,,,,,,,,,,,,,
+Exported: 2017-05-17 16:00 ,,,,,,,,,,,,,,,,,
 Obs_ID,Date,USDA,Species,Time_Spent,Satellite,Collector,Lat,Long,Location_Error,Loc_Err_Units, Disturbance,Patch_Type,Abundance,Validated,Valid_Name,Valid_Date,Notes
 7365,4/13/09,CEME2,Centaurea melitensis,5,Highland Lake Invaders,351,30.6141,-98.07993,,,Roadside,Linear,Rare,Yes,Travis Gallo,4/21/09,near entrance of Whitewater Springs on FM 1174
 7367,4/13/09,CEME2,Centaurea melitensis,5,Highland Lake Invaders,351,30.67073,-98.07756,,,Roadside,Linear,Common,Yes,Travis Gallo,4/21/09,"Along FM 243 near Oatmeal, TX"
@@ -50,7 +50,7 @@ Obs_ID,Date,USDA,Species,Time_Spent,Satellite,Collector,Lat,Long,Location_Error,
 20564,3/25/15,CEME2,Centaurea melitensis,5,Balcones Invaders,2072,29.55180607,-98.53212775,5,m,Other,Polygon,Rare,Yes,TNL,5/19/15,Phil Hardberger Park.
 Eradication efforts in progress by Weed Wednesday Warriors.,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,
-20.654,4/12/15,CEME2,Centaurea melitensis,5,Voyager,2826,29.8273489,-98.7130616,55,m,Roadside,Linear,Common,Yes,TNL,5/19/15,On the public access to the Guadalupe river at FM474
+20654,4/12/15,CEME2,Centaurea melitensis,5,Voyager,2826,29.8273489,-98.7130616,55,m,Roadside,Linear,Common,Yes,TNL,5/19/15,On the public access to the Guadalupe river at FM474
 20655,4/12/15,CEME2,Centaurea melitensis,5,Voyager,2826,29.802398,-98.7534726,5722,m,Roadside,Linear,Common,Yes,HFL,6/8/15,Spring Creek Rd at FM474
 20738,4/15/15,CEME2,Centaurea melitensis,5,Voyager,2826,29.8101817,-98.7140001,96,m,Roadside,Polygon,Common,Yes,HFL,6/2/15,Herff Ranch entrance at FM474
 20739,4/15/15,CEME2,Centaurea melitensis,5,Voyager,2826,29.8124288,-98.7141195,96,m,Roadside,Linear,Common,Yes,HFL,7/14/15,FM474 at North Essex Rd
