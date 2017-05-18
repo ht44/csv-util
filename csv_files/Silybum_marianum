@@ -1,0 +1,5 @@
+Invaders of Texas,,,,,,,,,,,,,,,,,
+www.texasinvasives.org,,,,,,,,,,,,,,,,,
+Exported: 2017-05-18 13:50 ,,,,,,,,,,,,,,,,,
+Obs_ID,Date,USDA,Species,Time_Spent,Satellite,Collector,Lat,Long,Location_Error,Loc_Err_Units, Disturbance,Patch_Type,Abundance,Validated,Valid_Name,Valid_Date,Notes
+18917,3/30/14,SIMA3,Silybum marianum,30,Voyager,2327,30.197162,-97.719624,10,m,Other,Point,Rare,Yes,JDB,3/31/14,

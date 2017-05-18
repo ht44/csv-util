@@ -1,0 +1,8 @@
+Invaders of Texas,,,,,,,,,,,,,,,,,
+www.texasinvasives.org,,,,,,,,,,,,,,,,,
+Exported: 2017-05-18 13:55 ,,,,,,,,,,,,,,,,,
+Obs_ID,Date,USDA,Species,Time_Spent,Satellite,Collector,Lat,Long,Location_Error,Loc_Err_Units, Disturbance,Patch_Type,Abundance,Validated,Valid_Name,Valid_Date,Notes
+11178,7/21/10,SAMI7,Salvinia minima,30,Piney Wood Lakes,1102,30.614822,-95.528065,,,Other,Polygon,Common,Yes,Travis Gallo,9/8/10,In Lake Raven at the East fishing pier
+11653,8/20/10,SAMI7,Salvinia minima,5,Piney Wood Lakes,1102,30.615792,-95.532153,,,None,Point,Rare,Yes,Travis Gallo,8/26/10,At base of boat house in Huntsville State Park
+11656,8/20/10,SAMI7,Salvinia minima,5,Piney Wood Lakes,1102,30.612985,-95.533397,,,None,Point,Rare,Yes,Travis Gallo,8/26/10,At base of Lodge in Huntsville State Park
+21364,7/19/15,SAMI7,Salvinia minima,5,Voyager,2334,32.698369,-94.111397,10,f,Other,Polygon,Rare,Yes,TNL,7/22/15,Plants found growing on the edge of Caddo Lake around the boat ramp at the end of Starr Ranch Road at Caddo NWR.

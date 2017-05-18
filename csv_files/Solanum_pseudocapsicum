@@ -1,0 +1,7 @@
+Invaders of Texas,,,,,,,,,,,,,,,,,
+www.texasinvasives.org,,,,,,,,,,,,,,,,,
+Exported: 2017-05-18 13:49 ,,,,,,,,,,,,,,,,,
+Obs_ID,Date,USDA,Species,Time_Spent,Satellite,Collector,Lat,Long,Location_Error,Loc_Err_Units, Disturbance,Patch_Type,Abundance,Validated,Valid_Name,Valid_Date,Notes
+19871,7/19/14,SOPS,Solanum pseudocapsicum,5,Houston Arboretum and Nature Center,2118,29.76575,-95.44909,10,f,Cleared brush,Point,Rare,Yes,JDB,8/28/14,it is growing 40 east of the outer loop trail near the property's fence line
+20303,11/29/14,SOPS,Solanum pseudocapsicum,15,Heartwood Invaders,1837,30.08041339,-95.39096653,5,m,Roadside,Point,Common,Yes,JDB,12/17/14,Spring Creek Greenway Trail  Spring  TX
+22685,5/15/15,SOPS,Solanum pseudocapsicum,5,Houston Arboretum and Nature Center,2118,29.76386,-95.4548,4.4,f,None,Point,Rare,Yes,MAB,3/18/16,under water out/along the edge of the old Outer Loop

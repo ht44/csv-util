@@ -1,0 +1,17 @@
+Invaders of Texas,,,,,,,,,,,,,,,,,
+www.texasinvasives.org,,,,,,,,,,,,,,,,,
+Exported: 2017-05-18 13:56 ,,,,,,,,,,,,,,,,,
+Obs_ID,Date,USDA,Species,Time_Spent,Satellite,Collector,Lat,Long,Location_Error,Loc_Err_Units, Disturbance,Patch_Type,Abundance,Validated,Valid_Name,Valid_Date,Notes
+18989,4/16/14,PYCA80,Pyrus calleryana,5,Connemara Conservancy,2330,33.08517738,-96.7040205,3,f,None,Linear,Common,Yes,JDB,4/18/14,"Within Connemara Meadow Preserve.  Scatterings of callery pear saplings along wooded fenceline and also scattered within the grasslands.  Many have been cut down in past, but new saplings have recently been observed."
+20062,10/1/14,PYCA80,Pyrus calleryana,5,Walnut Creek Wild,1440,30.4001667,-97.687,15,f,Other,Point,Rare,Yes,JDB,10/13/14,Growing from the base of a rotted trunkâ€”a trunk much too old to have been a Bradford pear of the 80s or 90s. Not quite 5 feet tall.
+20356,12/6/14,PYCA80,Pyrus calleryana,5,Cradle of Texas Invaders,2505,28.98219146,-95.68998029,5,m,Other,Polygon,Common,Yes,JDB,12/17/14,"The mapped specimen is one of many on the property of Phil Huxford, where he estimates at least 70 specimens are found in the immediate area.  This species is not common in the woods of this area; however, in this one area it has begun propagating itself in the wooded areas."
+22527,12/8/15,PYCA80,Pyrus calleryana,5,San Antonio Invaders,327,29.5035745,-98.397259,31,m,Other,Linear,Common,Yes,TNL,12/9/15,
+22528,12/8/15,PYCA80,Pyrus calleryana,5,San Antonio Invaders,327,29.5035692,-98.3972784,19,m,Other,Linear,Common,Yes,TNL,12/9/15,
+22529,12/8/15,PYCA80,Pyrus calleryana,5,San Antonio Invaders,327,29.5035678,-98.3973035,19,m,Other,Linear,Common,Yes,TNL,12/9/15,
+22530,12/8/15,PYCA80,Pyrus calleryana,5,San Antonio Invaders,327,29.5035694,-98.3973161,21,m,Other,Linear,Common,Yes,TNL,12/9/15,
+22531,12/8/15,PYCA80,Pyrus calleryana,5,San Antonio Invaders,327,29.5035791,-98.3973245,28,m,Other,Linear,Common,Yes,TNL,12/9/15,
+22532,12/8/15,PYCA80,Pyrus calleryana,5,San Antonio Invaders,327,29.503576,-98.3973481,12,m,Other,Linear,Common,Yes,TNL,12/9/15,
+22895,2/7/16,PYCA80,Pyrus calleryana,5,San Antonio Invaders,327,29.6275383,-98.493563,12,m,Other,Point,Common,Yes,TNL,2/9/16,
+23404,4/10/16,PYCA80,Pyrus calleryana,5,San Antonio Invaders,327,29.5646558,-98.5862739,4,m,Other,Point,Common,Yes,TNL,4/15/16,
+23405,4/10/16,PYCA80,Pyrus calleryana,5,San Antonio Invaders,327,29.5647009,-98.5862336,18,m,Other,Point,Common,Yes,mab,12/23/16,
+23869,6/5/16,PYCA80,Pyrus calleryana,5,San Antonio Invaders,327,29.3428001,-98.4497943,17,m,Other,Linear,Common,Yes,mab,12/28/16,

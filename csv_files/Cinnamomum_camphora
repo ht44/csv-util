@@ -1,0 +1,11 @@
+Invaders of Texas,,,,,,,,,,,,,,,,,
+www.texasinvasives.org,,,,,,,,,,,,,,,,,
+Exported: 2017-05-18 13:52 ,,,,,,,,,,,,,,,,,
+Obs_ID,Date,USDA,Species,Time_Spent,Satellite,Collector,Lat,Long,Location_Error,Loc_Err_Units, Disturbance,Patch_Type,Abundance,Validated,Valid_Name,Valid_Date,Notes
+9400,11/17/09,CICA,Cinnamomum camphora,5,Voyager,593,29.7829,-95.37032,,,None,Linear,Common,Yes,Travis Gallo,11/30/09,Very common in the understory with large and small trees found throughout the area of Woodland Park.
+10314,4/12/10,CICA,Cinnamomum camphora,5,Voyager,593,29.80671192,-95.43262929,,,Flood,Linear,Common,Yes,Travis Gallo,4/22/10,"A lot of medium size Camphor trees, shading out other species at Little Thicket park"
+10691,6/8/10,CICA,Cinnamomum camphora,5,Voyager,593,29.72495054,-95.29419512,,,Cleared brush,Linear,Common,Yes,Travis Gallo,6/10/10,Common here in this patch of forest in Mason Park.  Area drains down into the bayou.
+10696,6/8/10,CICA,Cinnamomum camphora,5,Voyager,593,29.72686519,-95.29075384,,,Cleared brush,Linear,Common,Yes,Travis Gallo,6/10/10,Common on the north side of Mason park near the wetland ponds.
+10915,6/14/10,CICA,Cinnamomum camphora,5,Voyager,593,29.79060055,-95.42321205,,,Cleared brush,Point,Common,Yes,Travis Gallo,7/9/10,There are several pockets of these plants through W. 11th St. park.
+19930,8/23/14,CICA,Cinnamomum camphora,5,Cradle of Texas Invaders,2505,28.96826522,-95.56717602,5,m,Roadside,Polygon,Common,Yes,JDB,9/9/14,One small specimen and one large multi-trunked specimen are found alongside a drainage ditch which crosses under County Road 309 near to its interesection with County Road 310 in Brazoria Co.  Camphor trees are not terribly common but are occasionally found growing all through the local woods in this area.
+22575,12/15/15,CICA,Cinnamomum camphora,5,Voyager,593,29.731322,-95.3011079,9,m,Roadside,Point,Common,Yes,TNL,12/17/15,Common off in woods from Brays Bayou trail behind Gus Wortham golf course 
