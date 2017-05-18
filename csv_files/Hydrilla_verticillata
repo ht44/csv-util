@@ -1,0 +1,108 @@
+Invaders of Texas,,,,,,,,,,,,,,,,,
+www.texasinvasives.org,,,,,,,,,,,,,,,,,
+Exported: 2017-05-17 16:53 ,,,,,,,,,,,,,,,,,
+Obs_ID,Date,USDA,Species,Time_Spent,Satellite,Collector,Lat,Long,Location_Error,Loc_Err_Units, Disturbance,Patch_Type,Abundance,Validated,Valid_Name,Valid_Date,Notes
+13510,3/5/11,HYVE3,Hydrilla verticillata,5,Hays County Invaders,1318,29.89167,-97.93154,,,Flood,Polygon,Common,Yes,Travis Gallo,3/28/11,"Wetlands boardwalk at Aquarena Center, San Marcos"
+17780,12/31/11,HYVE3,Hydrilla verticillata,5,Texas Parks and Wildlife Department,2114,29.45030975,-101.0574875,0,m,,Polygon,,Yes,Earl Chilton,12/31/11,Amistad
+17781,12/31/11,HYVE3,Hydrilla verticillata,5,Texas Parks and Wildlife Department,2114,33.45869,-97.85758,0,m,,Polygon,,Yes,Earl Chilton,12/31/11,Amon G. Carter
+17782,12/31/11,HYVE3,Hydrilla verticillata,5,Texas Parks and Wildlife Department,2114,31.89884,-97.20697,0,m,,Polygon,Uncommon,Yes,Earl Chilton,12/31/11,Aquilla; Very small amount currently present
+17783,12/31/11,HYVE3,Hydrilla verticillata,5,Texas Parks and Wildlife Department,2114,32.72111,-97.19945,0,m,,Polygon,,Yes,Earl Chilton,12/31/11,Arlington
+17784,12/31/11,HYVE3,Hydrilla verticillata,5,Texas Parks and Wildlife Department,2114,32.2046,-95.7253,0,m,,Polygon,,Yes,Earl Chilton,12/31/11,Athens
+17787,12/31/11,HYVE3,Hydrilla verticillata,5,Texas Parks and Wildlife Department,2114,30.29437,-97.78613,0,m,,Polygon,,Yes,Earl Chilton,12/31/11,Austin
+17789,12/31/11,HYVE3,Hydrilla verticillata,5,Texas Parks and Wildlife Department,2114,32.25126,-96.64037,0,m,,Polygon,Rare,Yes,Earl Chilton,12/31/11,Bardwell; No hydrilla detected in the last survey
+17790,12/31/11,HYVE3,Hydrilla verticillata,5,Texas Parks and Wildlife Department,2114,30.15589,-97.29105,0,m,,Polygon,,Yes,Earl Chilton,12/31/11,Bastrop
+17792,12/31/11,HYVE3,Hydrilla verticillata,5,Texas Parks and Wildlife Department,2114,32.33096,-95.36847,0,m,,Polygon,,Yes,Earl Chilton,12/31/11,Bellwood
+17793,12/31/11,HYVE3,Hydrilla verticillata,5,Texas Parks and Wildlife Department,2114,31.81747,-96.04173,0,m,,Polygon,Common,Yes,Earl Chilton,12/31/11,Fairfield; Tier III
+17794,12/31/11,HYVE3,Hydrilla verticillata,5,Texas Parks and Wildlife Department,2114,33.39208,-95.69466,0,m,,Polygon,,Yes,Earl Chilton,12/31/11,Big Creek Reservoir
+17795,12/31/11,HYVE3,Hydrilla verticillata,5,Texas Parks and Wildlife Department,2114,33.08214951,-95.04360962,0,m,,Polygon,,Yes,Earl Chilton,12/31/11,Monticello
+17797,12/31/11,HYVE3,Hydrilla verticillata,5,Texas Parks and Wildlife Department,2114,29.24247932,-98.37518311,0,m,,Polygon,,Yes,Earl Chilton,12/31/11,Braunig; extirpated
+17798,12/31/11,HYVE3,Hydrilla verticillata,5,Texas Parks and Wildlife Department,2114,33.22108,-97.83101,0,m,,Polygon,,Yes,Earl Chilton,12/31/11,Bridgeport
+17799,12/31/11,HYVE3,Hydrilla verticillata,5,Texas Parks and Wildlife Department,2114,32.43124008,-94.4852829,0,m,,Polygon,,Yes,Earl Chilton,12/31/11,Brandy Branch
+17802,12/31/11,HYVE3,Hydrilla verticillata,5,Texas Parks and Wildlife Department,2114,33.51028061,-94.1048584,0,m,,Polygon,,Yes,Earl Chilton,12/31/11,Bringle
+17803,12/31/11,HYVE3,Hydrilla verticillata,5,Texas Parks and Wildlife Department,2114,32.69023132,-94.04385376,0,m,,Polygon,,Yes,Earl Chilton,12/31/11,Caddo
+17808,12/31/11,HYVE3,Hydrilla verticillata,5,Texas Parks and Wildlife Department,2114,29.27943039,-98.3035965,0,m,,Polygon,,Yes,Earl Chilton,12/31/11,Calaveras; extirpated
+17809,12/31/11,HYVE3,Hydrilla verticillata,5,Texas Parks and Wildlife Department,2114,32.55917328,-95.87195705,0,m,,Polygon,,Yes,Earl Chilton,12/31/11,Canton City
+17810,12/31/11,HYVE3,Hydrilla verticillata,5,Texas Parks and Wildlife Department,2114,29.86863,-98.19817,0,m,,Polygon,,Yes,Earl Chilton,12/31/11,Canyon; extirpated
+17811,12/31/11,HYVE3,Hydrilla verticillata,5,Texas Parks and Wildlife Department,2114,32.18075,-96.06779,0,m,,Polygon,,Yes,Earl Chilton,12/31/11,Cedar Creek (Henderson)
+17813,12/31/11,HYVE3,Hydrilla verticillata,5,Texas Parks and Wildlife Department,2114,29.94655,-99.040203,0,m,,Polygon,,Yes,Earl Chilton,12/31/11,Center Point
+17814,12/31/11,HYVE3,Hydrilla verticillata,5,Texas Parks and Wildlife Department,2114,28.4825,-98.24354,0,m,,Polygon,,Yes,Earl Chilton,12/31/11,Choke Canyon
+17816,12/31/11,HYVE3,Hydrilla verticillata,5,Texas Parks and Wildlife Department,2114,30.35873,-95.56057,0,m,,Polygon,,Yes,Earl Chilton,12/31/11,Conroe
+17819,12/31/11,HYVE3,Hydrilla verticillata,5,Texas Parks and Wildlife Department,2114,33.33117,-95.62888,0,m,,Polygon,,Yes,Earl Chilton,12/31/11,Cooper
+17822,12/31/11,HYVE3,Hydrilla verticillata,5,Texas Parks and Wildlife Department,2114,33.05889893,-95.14022064,0,m,,Polygon,,Yes,Earl Chilton,12/31/11,Cypress Springs
+17824,12/31/11,HYVE3,Hydrilla verticillata,5,Texas Parks and Wildlife Department,2114,30.285,-97.5967,0,m,,Polygon,,Yes,Earl Chilton,12/31/11,Walter E. Long
+17825,12/31/11,HYVE3,Hydrilla verticillata,5,Texas Parks and Wildlife Department,2114,32.323768,-96.659045,0,m,,Polygon,,Yes,Earl Chilton,12/31/11,Clark
+17826,12/31/11,HYVE3,Hydrilla verticillata,5,Texas Parks and Wildlife Department,2114,29.65377045,-98.0661087,0,m,,Polygon,,Yes,Earl Chilton,12/31/11,Dunlap
+17832,12/31/11,HYVE3,Hydrilla verticillata,5,Texas Parks and Wildlife Department,2114,32.92052841,-94.73062897,0,m,,Polygon,,Yes,Earl Chilton,12/31/11,Lone Star
+17835,12/31/11,HYVE3,Hydrilla verticillata,5,Texas Parks and Wildlife Department,2114,29.91483,-96.73246,0,m,,Polygon,,Yes,Earl Chilton,12/31/11,Fayette
+17837,12/31/11,HYVE3,Hydrilla verticillata,5,Texas Parks and Wildlife Department,2114,33.06952,-96.96682,0,m,,Polygon,,Yes,Earl Chilton,12/31/11,Lewisville
+17838,12/31/11,HYVE3,Hydrilla verticillata,5,Texas Parks and Wildlife Department,2114,30.61224,-96.05977,0,m,,Polygon,,Yes,Earl Chilton,12/31/11,Gibbons Creek
+17840,12/31/11,HYVE3,Hydrilla verticillata,5,Texas Parks and Wildlife Department,2114,30.69936,-97.33215,0,m,,Polygon,,Yes,Earl Chilton,12/31/11,Granger
+17842,12/31/11,HYVE3,Hydrilla verticillata,5,Texas Parks and Wildlife Department,2114,29.49607086,-97.62330627,0,m,,Polygon,,Yes,Earl Chilton,12/31/11,H-4
+17847,12/31/11,HYVE3,Hydrilla verticillata,5,Texas Parks and Wildlife Department,2114,32.61162,-95.25268,0,m,,Polygon,,Yes,Earl Chilton,12/31/11,Hawkins
+17851,12/31/11,HYVE3,Hydrilla verticillata,5,Texas Parks and Wildlife Department,2114,31.40804,-95.60174,0,m,,Polygon,,Yes,Earl Chilton,12/31/11,Houston County
+17853,12/31/11,HYVE3,Hydrilla verticillata,5,Texas Parks and Wildlife Department,2114,31.90567,-95.30952,0,m,,Polygon,Common,Yes,Earl Chilton,12/31/11,Jacksonville; Hydrilla under control by grass carp
+17855,12/31/11,HYVE3,Hydrilla verticillata,5,Texas Parks and Wildlife Department,2114,31.44915,-94.68923,0,m,,Polygon,,Yes,Earl Chilton,12/31/11,Kurth
+17858,12/31/11,HYVE3,Hydrilla verticillata,5,Texas Parks and Wildlife Department,2114,29.711612,-98.134947,0,m,,Polygon,,Yes,Earl Chilton,12/31/11,Comal River
+17859,12/31/11,HYVE3,Hydrilla verticillata,5,Texas Parks and Wildlife Department,2114,32.75043869,-94.5038681,0,m,,Polygon,,Yes,Earl Chilton,12/31/11,Lake O' the Pines
+17863,12/31/11,HYVE3,Hydrilla verticillata,5,Texas Parks and Wildlife Department,2114,32.80818,-95.53558,0,m,,Polygon,,Yes,Earl Chilton,12/31/11,Fork
+17867,12/31/11,HYVE3,Hydrilla verticillata,5,Texas Parks and Wildlife Department,2114,31.32581,-96.32141,0,m,,Polygon,Uncommon,Yes,Earl Chilton,12/31/11,"Limestone; Coverage varies by year, currently very low."
+17870,12/31/11,HYVE3,Hydrilla verticillata,5,Texas Parks and Wildlife Department,2114,30.62546,-95.02666,0,m,,Polygon,,Yes,Earl Chilton,12/31/11,Livingston
+17873,12/31/11,HYVE3,Hydrilla verticillata,5,Texas Parks and Wildlife Department,2114,33.24247,-98.11881,0,m,,Polygon,,Yes,Earl Chilton,12/31/11,Lost Creek
+17874,12/31/11,HYVE3,Hydrilla verticillata,5,Texas Parks and Wildlife Department,2114,30.55793,-98.33898,0,m,,Polygon,,Yes,Earl Chilton,12/31/11,LBJ
+17877,12/31/11,HYVE3,Hydrilla verticillata,5,Texas Parks and Wildlife Department,2114,30.9603,-95.90576,0,m,,Polygon,,Yes,Earl Chilton,12/31/11,Madisonville
+17878,12/31/11,HYVE3,Hydrilla verticillata,5,Texas Parks and Wildlife Department,2114,32.82893,-97.39953333,0,m,,Polygon,,Yes,Earl Chilton,12/31/11,Marine Creek
+17879,12/31/11,HYVE3,Hydrilla verticillata,5,Texas Parks and Wildlife Department,2114,32.2734,-94.54944,0,m,,Polygon,,Yes,Earl Chilton,12/31/11,Martin Creek
+17881,12/31/11,HYVE3,Hydrilla verticillata,5,Texas Parks and Wildlife Department,2114,29.59425926,-98.04049683,0,m,,Polygon,,Yes,Earl Chilton,12/31/11,McQueeney
+17885,12/31/11,HYVE3,Hydrilla verticillata,5,Texas Parks and Wildlife Department,2114,32.53855,-95.85407,0,m,,Polygon,,Yes,Earl Chilton,12/31/11,Mill Creek
+17886,12/31/11,HYVE3,Hydrilla verticillata,5,Texas Parks and Wildlife Department,2114,33.77515,-97.21442,0,m,,Polygon,,Yes,Earl Chilton,12/31/11,Hubert H. Moss
+17889,12/31/11,HYVE3,Hydrilla verticillata,5,Texas Parks and Wildlife Department,2114,32.03401947,-94.4211731,0,m,,Polygon,,Yes,Earl Chilton,12/31/11,Murvaul
+17893,12/31/11,HYVE3,Hydrilla verticillata,5,Texas Parks and Wildlife Department,2114,31.38663,-100.47803,0,m,,Polygon,,Yes,Earl Chilton,12/31/11,Nasworthy
+17894,12/31/11,HYVE3,Hydrilla verticillata,5,Texas Parks and Wildlife Department,2114,31.95324,-96.69646,0,m,,Polygon,,Yes,Earl Chilton,12/31/11,Navarro Mills
+17895,12/31/11,HYVE3,Hydrilla verticillata,5,Texas Parks and Wildlife Department,2114,33.8831,-97.64944,0,m,,Polygon,,Yes,Earl Chilton,12/31/11,Nocona
+17897,12/31/11,HYVE3,Hydrilla verticillata,5,Texas Parks and Wildlife Department,2114,32.94687,-96.97131,0,m,,Polygon,,Yes,Earl Chilton,12/31/11,North Lake
+17898,12/31/11,HYVE3,Hydrilla verticillata,5,Texas Parks and Wildlife Department,2114,32.05815,-95.43146,0,m,,Polygon,Common,Yes,Earl Chilton,12/31/11,Palestine; Hydrilla tier III
+17902,12/31/11,HYVE3,Hydrilla verticillata,5,Texas Parks and Wildlife Department,2114,32.64366,-96.99024,0,m,,Polygon,Common,Yes,Earl Chilton,12/31/11,Joe Pool; Tier III
+17903,12/31/11,HYVE3,Hydrilla verticillata,5,Texas Parks and Wildlife Department,2114,29.54854012,-97.9992981,0,m,,Polygon,,Yes,Earl Chilton,12/31/11,Placid
+17905,12/31/11,HYVE3,Hydrilla verticillata,5,Texas Parks and Wildlife Department,2114,32.35618,-95.99914,0,m,,Polygon,Common,Yes,Earl Chilton,12/31/11,Purtis Creek; Hydrilla currently controlled by grass carp.
+17907,12/31/11,HYVE3,Hydrilla verticillata,5,Texas Parks and Wildlife Department,2114,31.387219,-95.151772,0,m,,Polygon,,Yes,Earl Chilton,12/31/11,Ratcliff
+17908,12/31/11,HYVE3,Hydrilla verticillata,5,Texas Parks and Wildlife Department,2114,30.61044,-95.53413,0,m,,Polygon,,Yes,Earl Chilton,12/31/11,Raven
+17910,12/31/11,HYVE3,Hydrilla verticillata,5,Texas Parks and Wildlife Department,2114,32.80357,-96.51138,0,m,,Polygon,Common,Yes,Earl Chilton,12/31/11,Ray Hubbard; Hydrilla tier III
+17911,12/31/11,HYVE3,Hydrilla verticillata,5,Texas Parks and Wildlife Department,2114,31.95728,-96.09736,0,m,,Polygon,Common,Yes,Earl Chilton,12/31/11,Richland Chambers; Hydrilla tier III
+17912,12/31/11,HYVE3,Hydrilla verticillata,5,Texas Parks and Wildlife Department,2114,33.35353,-97.0545,0,m,,Polygon,,Yes,Earl Chilton,12/31/11,Ray Roberts
+17913,12/31/11,HYVE3,Hydrilla verticillata,5,Texas Parks and Wildlife Department,2114,31.06582,-94.08706,0,m,,Polygon,Common,Yes,Earl Chilton,12/31/11,Sam Rayburn; Hydrilla tier III
+17917,12/31/11,HYVE3,Hydrilla verticillata,5,Texas Parks and Wildlife Department,2114,31.506848,-94.1035281,0,m,,Polygon,,Yes,Earl Chilton,12/31/11,San Augustine City; extirpated
+17918,12/31/11,HYVE3,Hydrilla verticillata,5,Texas Parks and Wildlife Department,2114,33.0738,-95.00287,0,m,,Polygon,,Yes,Earl Chilton,12/31/11,Bob Sandlin
+17921,12/31/11,HYVE3,Hydrilla verticillata,5,Texas Parks and Wildlife Department,2114,31.70675,-94.36358,0,m,,Polygon,,Yes,Earl Chilton,12/31/11,Pinkston
+17924,12/31/11,HYVE3,Hydrilla verticillata,5,Texas Parks and Wildlife Department,2114,29.85412,-95.16708,0,m,,Polygon,,Yes,Earl Chilton,12/31/11,Sheldon
+17926,12/31/11,HYVE3,Hydrilla verticillata,5,Texas Parks and Wildlife Department,2114,30.32361,-96.52805,0,m,,Polygon,,Yes,Earl Chilton,12/31/11,Somerville
+17927,12/31/11,HYVE3,Hydrilla verticillata,5,Texas Parks and Wildlife Department,2114,31.50129,-99.66634,0,m,,Polygon,,Yes,Earl Chilton,12/31/11,O.H. Ivie
+17928,12/31/11,HYVE3,Hydrilla verticillata,5,Texas Parks and Wildlife Department,2114,32.29288,-97.7605,0,m,,Polygon,,Yes,Earl Chilton,12/31/11,"Squaw Creek; Extirpated, and has been gone a while.  Lake hasn't been actively managed since prior to 9/11/2001, so it has not been monitored until this year."
+17929,12/31/11,HYVE3,Hydrilla verticillata,5,Texas Parks and Wildlife Department,2114,30.8007,-94.17232,0,m,,Polygon,Common,Yes,Earl Chilton,12/31/11,Steinhagen; Hydrilla tier III
+17933,12/31/11,HYVE3,Hydrilla verticillata,5,Texas Parks and Wildlife Department,2114,31.02322,-97.53147,0,m,,Polygon,Common,Yes,Earl Chilton,12/31/11,Stillhouse Hollow; Present and expanding due to low water this year.
+17934,12/31/11,HYVE3,Hydrilla verticillata,5,Texas Parks and Wildlife Department,2114,31.9339,-94.97888,0,m,,Polygon,Common,Yes,Earl Chilton,12/31/11,Striker Creek; Hydrilla tier III
+17935,12/31/11,HYVE3,Hydrilla verticillata,5,Texas Parks and Wildlife Department,2114,32.82516,-95.90206,0,m,,Polygon,,Yes,Earl Chilton,12/31/11,Tawakoni
+17936,12/31/11,HYVE3,Hydrilla verticillata,5,Texas Parks and Wildlife Department,2114,28.88907,-96.57094,0,m,,Polygon,,Yes,Earl Chilton,12/31/11,Texana
+17939,12/31/11,HYVE3,Hydrilla verticillata,5,Texas Parks and Wildlife Department,2114,33.31271,-94.16244,0,m,,Polygon,,Yes,Earl Chilton,12/31/11,Wright Patman
+17941,12/31/11,HYVE3,Hydrilla verticillata,5,Texas Parks and Wildlife Department,2114,31.84445,-94.42772,0,m,,Polygon,,Yes,Earl Chilton,12/31/11,Timpson; extirpated
+17943,12/31/11,HYVE3,Hydrilla verticillata,5,Texas Parks and Wildlife Department,2114,31.17619,-93.5671,0,m,,Polygon,,Yes,Earl Chilton,12/31/11,Toledo Bend
+17948,12/31/11,HYVE3,Hydrilla verticillata,5,Texas Parks and Wildlife Department,2114,30.24645,-97.71551,0,m,,Polygon,,Yes,Earl Chilton,12/31/11,Town Lake
+17951,12/31/11,HYVE3,Hydrilla verticillata,5,Texas Parks and Wildlife Department,2114,31.55667,-96.9792,0,m,,Polygon,Uncommon,Yes,Earl Chilton,12/31/11,"Tradinghouse Creek; Present in low density, mixed with native vegetation."
+17952,12/31/11,HYVE3,Hydrilla verticillata,5,Texas Parks and Wildlife Department,2114,30.39138,-97.90615,0,m,,Polygon,,Yes,Earl Chilton,12/31/11,Travis; extirpated
+17953,12/31/11,HYVE3,Hydrilla verticillata,5,Texas Parks and Wildlife Department,2114,32.478379,-95.298371,0,m,,Polygon,,Yes,Earl Chilton,12/31/11,Tyler State park
+17954,12/31/11,HYVE3,Hydrilla verticillata,5,Texas Parks and Wildlife Department,2114,32.21104,-95.17404,0,m,,Polygon,,Yes,Earl Chilton,12/31/11,Tyler West
+17955,12/31/11,HYVE3,Hydrilla verticillata,5,Texas Parks and Wildlife Department,2114,31.58108,-97.19953,0,m,,Polygon,Uncommon,Yes,Earl Chilton,12/31/11,Waco; Small amounts expanding very slowly since the floods of 2007.
+17956,12/31/11,HYVE3,Hydrilla verticillata,5,Texas Parks and Wildlife Department,2114,33.740124,-96.56888,0,m,,Polygon,,Yes,Earl Chilton,12/31/11,Waterloo
+17957,12/31/11,HYVE3,Hydrilla verticillata,5,Texas Parks and Wildlife Department,2114,32.3419,-96.80665,0,m,,Polygon,Rare,Yes,Earl Chilton,12/31/11,Waxahachie; Hydrilla not detected in last survey
+17959,12/31/11,HYVE3,Hydrilla verticillata,5,Texas Parks and Wildlife Department,2114,32.79061,-97.41508,0,m,,Polygon,Common,Yes,Earl Chilton,12/31/11,Worth; Hydrilla tier III
+17960,12/31/11,HYVE3,Hydrilla verticillata,5,Texas Parks and Wildlife Department,2114,33.04474,-94.83034,0,m,,Polygon,,Yes,Earl Chilton,12/31/11,Welsh
+17962,12/31/11,HYVE3,Hydrilla verticillata,5,Texas Parks and Wildlife Department,2114,32.21337,-95.14537,0,m,,Polygon,,Yes,Earl Chilton,12/31/11,Tyler East
+17964,12/31/11,HYVE3,Hydrilla verticillata,5,Texas Parks and Wildlife Department,2114,28.7236,-97.1662,0,m,,Polygon,,Yes,Earl Chilton,12/31/11,Coleto Creek
+17967,12/31/11,HYVE3,Hydrilla verticillata,5,Texas Parks and Wildlife Department,2114,32.8258,-98.9617,0,m,,Polygon,,Yes,Earl Chilton,12/31/11,Hubbard Creek
+17968,12/31/11,HYVE3,Hydrilla verticillata,5,Texas Parks and Wildlife Department,2114,32.7627,-94.981,0,m,,Polygon,,Yes,Earl Chilton,12/31/11,Gilmer
+17969,12/31/11,HYVE3,Hydrilla verticillata,5,Texas Parks and Wildlife Department,2114,32.307828,-95.215287,0,m,,Polygon,,Yes,Earl Chilton,12/31/11,Tyler Nature Center
+17970,12/31/11,HYVE3,Hydrilla verticillata,5,Texas Parks and Wildlife Department,2114,30.439572,-97.571468,0,m,,Polygon,,Yes,Earl Chilton,12/31/11,Pflugerville
+17971,12/31/11,HYVE3,Hydrilla verticillata,5,Texas Parks and Wildlife Department,2114,31.767873,-94.574733,0,m,,Polygon,,Yes,Earl Chilton,12/31/11,Naconiche
+17776,6/20/13,HYVE3,Hydrilla verticillata,15,Voyager,1663,30.25499,-97.725192,0,m,Other,Polygon,Common,Yes,Kathryn D'Amico,8/26/13,Pond
+20401,1/21/15,HYVE3,Hydrilla verticillata,14,Hays County Invaders,1247,29.868501,-97.931003,0,m,None,Linear,Common,Yes,JDB,2/22/15,
+22542,8/31/15,HYVE3,Hydrilla verticillata,5,Voyager,2334,32.69809828,-94.1114831,0,f,None,Polygon,Rare,Yes,TNL,12/9/15,around boat dock of Caddo Lake NWR.
+23921,8/4/16,HYVE3,Hydrilla verticillata,5,Guadalupe Invaders,662,29.74750003,-98.04091394,,,Other,Polygon,Common,Yes,mab,12/28/16,"In Freedom Lake, York Creek Site 4"
