@@ -1,0 +1,12 @@
+Invaders of Texas,,,,,,,,,,,,,,,,,
+www.texasinvasives.org,,,,,,,,,,,,,,,,,
+Exported: 2017-05-17 21:35 ,,,,,,,,,,,,,,,,,
+Obs_ID,Date,USDA,Species,Time_Spent,Satellite,Collector,Lat,Long,Location_Error,Loc_Err_Units, Disturbance,Patch_Type,Abundance,Validated,Valid_Name,Valid_Date,Notes
+18983,3/27/14,ALVI,Allium vineale ,5,Voyager,2293,32.68844,-97.365675,0,m,Roadside,Point,Rare,Yes,JDB,4/18/14,"South Fort Worth, Tarrant Co., Stadium Dr & Surrey St. Approximately 8 - 12 plants in residential lot. Introduced around 2009."
+18984,3/27/14,ALVI,Allium vineale ,10,Voyager,2293,32.69895,-97.344179,0,m,Roadside,Polygon,Rare,Yes,JDB,4/18/14,"South Fort Worth, Tarrant Co., Biddison St & 8th Ave. Roadside next to railroad R.O.W. Less than 18 plants. Introduced around 2009."
+18916,3/29/14,ALVI,Allium vineale ,15,Texas Gulf Region CWMA,2216,30.02412447,-95.29123303,5,m,Other,Point,Common,Yes,JDB,3/30/14,First!
+18985,4/13/14,ALVI,Allium vineale ,5,Voyager,2293,32.795906,-97.439738,0,m,None,Polygon,Rare,Yes,JDB,4/18/14,"6900 block of Cahoba Dr., Lake Worth, Tarrant Co. Patch among stand of Little Bluestem in sandy soils, slightly disturbed. Less than 20 plants. "
+18987,4/15/14,ALVI,Allium vineale ,5,Voyager,2293,32.58506606,-97.10192322,13,m,None,Point,Rare,Yes,JDB,4/18/14,"Rare on concrete multi-purpose trail in linear park on edge of Oliver Nature Park. Mansfield, Tarrant Co."
+19103,4/15/14,ALVI,Allium vineale ,5,Voyager,2267,30.18200893,-97.72892475,100,m,Other,Point,Rare,Yes,JDB,5/7/14,
+18991,4/16/14,ALVI,Allium vineale ,5,Voyager,2293,32.760185,-97.403895,0,m,Roadside,Polygon,Rare,Yes,JDB,4/18/14,"5500 block White Settlement Road, just west of Westfork Dr. Fort Worth. Tarrant Co. Approximately 100-150 plants in median of road."
+19013,4/17/14,ALVI,Allium vineale ,5,Voyager,2263,33.66380239,-96.89860659,3,m,Roadside,Polygon,Common,Yes,JDB,4/23/14,"Patch of ~50 clumps along east side of US 377 across from Dennards just south of Whitesboro, Grayson Co."
