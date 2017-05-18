@@ -1,0 +1,58 @@
+Invaders of Texas,,,,,,,,,,,,,,,,,
+www.texasinvasives.org,,,,,,,,,,,,,,,,,
+Exported: 2017-05-18 11:02 ,,,,,,,,,,,,,,,,,
+Obs_ID,Date,USDA,Species,Time_Spent,Satellite,Collector,Lat,Long,Location_Error,Loc_Err_Units, Disturbance,Patch_Type,Abundance,Validated,Valid_Name,Valid_Date,Notes
+527,9/13/06,BRPA4,Broussonetia papyrifera,60,Hill Country Invaders,117,30.0521,-99.14612,,,Other,Point,Uncommon,Yes,Phyllis Muska,9/15/06,
+,Southeast corner of Main and Francisco Lemos Sts; Double Finance Works parking lot.,,,,,,,,,,,,,,,,
+539,9/13/06,BRPA4,Broussonetia papyrifera,60,Hill Country Invaders,117,30.05033,-99.14268,,,None,Linear,Common,Yes,Phyllis Muska,9/15/06,
+,Alley and parking area behind Radio Shack (between Main and Jefferson Sts).,,,,,,,,,,,,,,,,
+546,9/13/06,BRPA4,Broussonetia papyrifera,60,Hill Country Invaders,117,30.04645,-99.14228,,,None,Point,Common,Yes,Phyllis Muska,9/15/06,
+,Parking lot behind 625 Water St.,,,,,,,,,,,,,,,,
+551,9/14/06,BRPA4,Broussonetia papyrifera,120,Hill Country Invaders,117,30.04619,-99.14271,,,None,Polygon,Abundant,Yes,Phyllis Muska,9/15/06,
+,Wooden walkway down to Guadalupe River (northwest end of Sidney-Baker Bridge).,,,,,,,,,,,,,,,,
+1514,10/20/07,BRPA4,Broussonetia papyrifera,90,City of Austin Invaders,312,30.37831,-97.78288,,,Cleared brush,Linear,Common,Yes,daniel dietz,10/30/07,
+,Lower Bull Creek,,,,,,,,,,,,,,,,
+1698,12/1/07,BRPA4,Broussonetia papyrifera,15,Cross Timbers Invaders,78,33.25308,-97.57121,,,Roadside,Point,Rare,Yes,Joe Marcus,12/7/07,
+,On west sid of Greenwood just west of driveway at 325 Greenwood Road.,,,,,,,,,,,,,,,,
+1657,12/2/07,BRPA4,Broussonetia papyrifera,30,Cross Timbers Invaders,49,32.34274,-97.66917,,,None,Point,Uncommon,Yes,Joe Marcus,12/3/07,
+,Undeveloped wooded area adjacent to Sandy Beach riverside park in Pecan Plantation,,,,,,,,,,,,,,,,
+7111,3/28/09,BRPA4,Broussonetia papyrifera,15,Cross Timbers Invaders,399,32.7025,-96.7046,,,Graded,Point,Rare,Yes,Karan Rawlins,4/4/09,"South Loop 12, East of I-45, behind TRAC, near pond, off trail, inches from methane vent or sprinkler head"
+9898,4/4/09,BRPA4,Broussonetia papyrifera,5,Cross Timbers Invaders,75,32.6737,-97.3085,,,Graded,Point,Rare,Yes,Travis Gallo,2/2/10,Ft Worth Resource Connection off Circle Drive.  Next to building.  Note: adjacent to Stella Rowen Prairie wild area .  Small tree (4 ft.) growing against wall by tank.
+7807,5/19/09,BRPA4,Broussonetia papyrifera,15,Texas High School Invaders,1036,30.2722,-97.76363,,,Roadside,Point,Rare,Yes,Travis Gallo,6/1/09,"Near animal shelter, on hillside by Austin High School and next to a road leading to Austin High School, 20 yards from a bridge"
+7942,6/4/09,BRPA4,Broussonetia papyrifera,15,Texas High School Invaders,1036,30.27263329,-97.76643276,,,Other,Point,Rare,Yes,Travis Gallo,6/5/09,Growing out of the stump of another Mulberry tree on the second terrace of the memorial garden behind the main building
+10580,12/3/09,BRPA4,Broussonetia papyrifera,5,Cross Timbers Invaders,75,32.82403,-97.25819,,,Roadside,Point,Rare,Yes,Travis Gallo,6/2/10,"Haltom City, Diamond Oaks Club, south of clubhouse.  Mulberry growing inside the trunk of Photinia.  Leaves yellowing in fall, but tree is healthy."
+10311,4/9/10,BRPA4,Broussonetia papyrifera,5,Voyager,593,29.63521953,-95.65190792,,,Roadside,Linear,Common,Yes,Travis Gallo,4/12/10,Very common at entrance to Cullinan park along Hwy 6.  Growing on the forest edge.
+10578,5/31/10,BRPA4,Broussonetia papyrifera,30,City of Austin PARD,1011,30.37891,-97.7795,,,None,Polygon,Common,Yes,Travis Gallo,6/2/10,Bull Creek entrance west of Hwy. 360
+10729,6/9/10,BRPA4,Broussonetia papyrifera,5,Cross Timbers Invaders,75,32.66476,-98.30547,,,Select Disturbance,Select Patch,Select Abundance,Yes,Travis Gallo,7/15/10,"Palo Pinto Reservoir, FM3137, berm across lake, NE end of land bridge.  Single small tree on south side of the berm embankment of roadside, along water edge."
+,,,,,,,,,,,,,,,,,
+10877,6/23/10,BRPA4,Broussonetia papyrifera,5,City of Austin PARD,1011,30.24227,-97.8059,,,None,Point,Rare,Yes,Travis Gallo,6/28/10,Barton Creek Wilderness Park
+11456,7/25/10,BRPA4,Broussonetia papyrifera,15,City of Austin Invaders,547,30.40219,-97.81072,,,Other,Point,Rare,Yes,Travis Gallo,8/10/10,
+11397,8/3/10,BRPA4,Broussonetia papyrifera,5,City of Austin PARD,1011,30.27685,-97.77227,,,None,Polygon,Common,Yes,Travis Gallo,8/11/10,Large patch.   Lady Bird Lake
+11427,8/6/10,BRPA4,Broussonetia papyrifera,15,City of Austin PARD,1011,30.23161,-97.74903,,,None,Polygon,Common,Yes,Travis Gallo,8/11/10,Thick patch to sw corner of preserve.  Blunn Creek NP.
+12107,9/18/10,BRPA4,Broussonetia papyrifera,5,City of Austin PARD,1011,30.24616,-97.69215,,,None,Polygon,Common,Yes,Travis Gallo,10/6/10,Colorado Basin Wildlife Sanctuary
+13606,3/18/11,BRPA4,Broussonetia papyrifera,5,Hays County Invaders,1318,29.87769,-97.93073,,,Other,Polygon,Common,Yes,Travis Gallo,4/1/11,"at Crook Park, San Marcos, along the river at Riverside and I35."
+14872,8/25/11,BRPA4,Broussonetia papyrifera,5,Hays County Invaders,1318,29.87617,-97.92918,,,Graded,Polygon,Rare,Yes,Travis Gallo,8/26/11,"About 6 trees at River Road and I35, San Marcos"
+15550,11/9/11,BRPA4,Broussonetia papyrifera,30,Hill Country Invaders,1623,29.964292,-98.898903,,,Flood,Polygon,Common,Yes,Travis Gallo,11/22/11,Several very large trees growing within the floodplain of the Guadalupe river visible south of High Street.
+15802,3/25/12,BRPA4,Broussonetia papyrifera,30,Blackland Prairies Invaders,1454,32.70646,-96.70794,7,f,Roadside,Polygon,Rare,Yes,JDS,5/8/12,"Trinity River Audubon Center (Dallas) roadside. Population on both sides of road, inside the second gate entrance near northern edge of parking lot. Photo shows male flowers."
+16292,6/29/12,BRPA4,Broussonetia papyrifera,15,Walnut Creek Wild,1440,30.393341,-97.676379,2,m,Roadside,Point,Rare,Yes,JDS,10/9/12,"About five or ten feet back in the woods along the east side of Walnut Crossing, opposite the north side of the drive for the apartments on the other side of Walnut Crossing. Approximately 5 inches DBH, but easily 30 feet tall!"
+17449,5/12/13,BRPA4,Broussonetia papyrifera,5,City of Austin Invaders,1863,30.27680527,-97.77222332,44.82,m,Other,Polygon,Common,Yes,JDS,6/24/13,50+ feet long line growing along informal path that cuts from road to Deep Eddy Pool's parking lot. On slope. Chinaberry & giant reed in area too but smaller amounts
+17474,5/24/13,BRPA4,Broussonetia papyrifera,5,City of Austin Invaders,1863,30.26765665,-97.71107018,,,Other,Polygon,Common,Yes,Kathryn D'Amico,7/13/13,growing in yard with branches overhanging right of way.  there appear to be 8 mature papermulberry trees in the yard but it's hard to tell because most are behind a fence
+17567,7/9/13,BRPA4,Broussonetia papyrifera,5,Voyager,2055,30.26771765,-97.73599774,10,m,Other,Polygon,Common,Yes,Kathryn D'Amico,7/13/13,"Waller Creek, between 7th & 8th Streets, ensconced with toxicodendron."
+17599,7/29/13,BRPA4,Broussonetia papyrifera,5,Voyager,2055,30.2252733,-97.7802577,52.208,m,Other,Polygon,Common,Yes,Kathryn D'Amico,8/8/13,"Casey St. N side, between Banister & Hank, very widespread in this neighborhood."
+17601,7/29/13,BRPA4,Broussonetia papyrifera,5,Voyager,2055,30.22279051,-97.77673566,3,m,Other,Polygon,Common,Yes,Kathryn D'Amico,8/8/13,"railroad siding, both sides of St. Elmo, west of Vinson Dr."
+17772,8/17/13,BRPA4,Broussonetia papyrifera,5,City of Austin Invaders,2090,30.24256549,-97.74550635,3,m,None,Point,Rare,Yes,Kathryn D'Amico,9/3/13,blunn creek @ Lockhart footbridge
+17761,8/19/13,BRPA4,Broussonetia papyrifera,5,Texas Parks and Wildlife Department,2003,30.34044486,-97.89020061,,,Roadside,Linear,Common,Yes,Kathryn D'Amico,9/3/13,Dirt road to pier/waterfront; found paper mulberry all along the road.
+19062,5/4/14,BRPA4,Broussonetia papyrifera,5,Balcones Invaders,2072,29.59376701,-98.48774859,5,m,Flood,Point,Rare,Yes,JDB,5/10/14,Mother tree with several babies coming up from root.  HP Creek near Cool Way.
+19071,5/4/14,BRPA4,Broussonetia papyrifera,5,Balcones Invaders,2072,29.59378927,-98.48772252,10,m,Flood,Point,Rare,Yes,JDB,5/15/14,Approx 50 foot.  HP creek between Antelope and El Cerrito (west crossing).
+19072,5/4/14,BRPA4,Broussonetia papyrifera,5,Balcones Invaders,2072,29.59376567,-98.48757156,10,m,Flood,Point,Rare,Yes,JDB,5/10/14,2 large trees.  HP creek near El Cerrito (west crossing).
+19538,7/6/14,BRPA4,Broussonetia papyrifera,15,Walnut Creek Wild,1440,30.40477511,-97.68982125,5,m,None,Point,Rare,Yes,JDB,7/19/14,"Was twice this size, but has died back to one trunk at BH, about 5 inches diameter. On north edge of Tar Branch. Perhaps as tall as 20 feet. Apparently male, as no fruit are in the vicinity."
+19873,8/18/14,BRPA4,Broussonetia papyrifera,5,Cradle of Texas Invaders,2505,29.069759,-95.417647,0,m,Cleared brush,Point,Common,Yes,JDB,9/9/14,"next to soccer field at Our Lady Queen Of Peace school (Richwood, Brazoria Co.)."
+19879,8/18/14,BRPA4,Broussonetia papyrifera,5,Cradle of Texas Invaders,2505,29.06960595,-95.41732796,5,m,Cleared brush,Point,Common,Yes,JDB,9/9/14,"behind soccer field at Our Lady Queen Of Peace school (Richwood, Brazoria Co.)."
+19880,8/18/14,BRPA4,Broussonetia papyrifera,5,Cradle of Texas Invaders,2505,29.0696614,-95.41833211,5,m,Cleared brush,Point,Common,Yes,JDB,9/9/14,"next to soccer field at Our Lady Queen Of Peace school (Richwood, Brazoria Co.)."
+21255,7/3/15,BRPA4,Broussonetia papyrifera,5,San Antonio Invaders,327,29.3971634,-98.4317621,37,m,Other,Point,Rare,Yes,TNL,12/8/15,
+21275,7/4/15,BRPA4,Broussonetia papyrifera,5,San Antonio Invaders,327,29.4595656,-98.4734702,17,m,Other,Polygon,Common,Yes,TNL,12/9/15,
+21306,7/4/15,BRPA4,Broussonetia papyrifera,5,San Antonio Invaders,327,29.4626127,-98.4880819,12,m,Other,Point,Rare,Yes,TNL,12/9/15,
+21346,7/10/15,BRPA4,Broussonetia papyrifera,5,San Antonio Invaders,327,30.0069815,-99.1131449,11,m,Other,Point,Rare,Yes,TNL,12/9/15,
+21439,8/1/15,BRPA4,Broussonetia papyrifera,5,Voyager,2917,29.88011819,-97.93341905,0,f,None,Point,Common,Yes,HFL,10/2/15,"Papermulberry is a common invasive in this general location, and has been removed and treated ongoing for 2 years now. The root system is expansive as evidence of new growth from root shoots is present."
+23418,4/10/16,BRPA4,Broussonetia papyrifera,5,San Antonio Invaders,327,29.5257664,-98.5381799,32,m,Other,Polygon,Common,Yes,TNL,4/12/16,
+24001,10/29/16,BRPA4,Broussonetia papyrifera,5,San Antonio Invaders,327,29.4626051,-98.4816016,96,m,Cleared brush,Point,Common,Yes,mab,12/28/16,

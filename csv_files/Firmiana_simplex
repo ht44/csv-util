@@ -1,0 +1,28 @@
+Invaders of Texas,,,,,,,,,,,,,,,,,
+www.texasinvasives.org,,,,,,,,,,,,,,,,,
+Exported: 2017-05-17 16:31 ,,,,,,,,,,,,,,,,,
+Obs_ID,Date,USDA,Species,Time_Spent,Satellite,Collector,Lat,Long,Location_Error,Loc_Err_Units, Disturbance,Patch_Type,Abundance,Validated,Valid_Name,Valid_Date,Notes
+1563,10/6/07,FISI2,Firmiana simplex,120,City of Austin Invaders,322,30.38698,-97.79169,,,None,Point,Common,Yes,daniel dietz,11/28/07,
+,Lower Bull Creek Macrosite - Zone A,,,,,,,,,,,,,,,,
+1908,12/27/07,FISI2,Firmiana simplex,120,City of Austin Invaders,322,30.37925,-97.78506,,,None,Point,Uncommon,Yes,daniel dietz,1/2/08,
+,Lower Bull Creek Macrosite - Area C,,,,,,,,,,,,,,,,
+8114,6/20/09,FISI2,Firmiana simplex,60,City of Austin Invaders,1086,30.2716,-97.77659,,,Flood,Point,Rare,Yes,Travis Gallo,6/29/09,Only saw one tree by the creek.
+9395,11/17/09,FISI2,Firmiana simplex,5,Voyager,593,29.76315,-95.43128,,,Cleared brush,Polygon,Common,Yes,Travis Gallo,11/30/09,There were large trees cleared behind the greenhouse and there are seedlings coming up now and much larger trees in the forest of Memorial Park.
+10356,5/2/10,FISI2,Firmiana simplex,15,City of Austin PARD,998,30.252882,-97.754817,,,Cleared brush,Point,Rare,Yes,Travis Gallo,5/5/10,Found in area where sewer work restoration occurred in Nicholas Dawson park.  Off the trail between West James St. & South First.
+11299,7/27/10,FISI2,Firmiana simplex,60,City of Austin PARD,1011,30.29223,-97.75113,,,None,Point,Rare,Yes,Travis Gallo,8/11/10,Near hiking path along Lamar Blvd.
+17496,6/1/13,FISI2,Firmiana simplex,5,City of Austin Invaders,1863,30.26516355,-97.7716717,,,Other,Point,Rare,Yes,Kathryn D'Amico,7/29/13,2 trees on the slope near an informal pathway that goes from the parking lot down to Barton Springs pool
+17529,6/15/13,FISI2,Firmiana simplex,5,City of Austin Invaders,1863,30.26716631,-97.7504468,,,Other,Point,Rare,Yes,Kathryn D'Amico,7/29/13,growing in creekbed.  photo taken from pedestrian/cycle bridge that goes over Shoal Creek.  young tree
+17773,8/21/13,FISI2,Firmiana simplex,5,City of Austin Invaders,2090,30.24823981,-97.74216808,3,m,None,Point,Rare,Yes,PA Turner,8/28/13,9 in Blunn Creek Greenblt
+18108,9/8/13,FISI2,Firmiana simplex,10,Walnut Creek Wild,1440,30.25737113,-97.75763218,10,m,Flood,Polygon,Common,Yes,Kathryn D'Amico,10/10/13,"At 3 feet, this is the tallest of 3 seedlings in this immediate area. Searching for source of seed."
+18109,9/8/13,FISI2,Firmiana simplex,10,Walnut Creek Wild,1440,30.25710023,-97.75803611,10,m,Flood,Polygon,Common,Yes,Kathryn D'Amico,10/10/13,"Two mature trees in photo. One about 6 inch dbh (in background), the other about 8 inch dbh. Several large dead specimens (girdled; cut and herbicided) in area, but aggressive follow-up needed."
+18110,9/8/13,FISI2,Firmiana simplex,15,Walnut Creek Wild,1440,30.25707449,-97.75805782,10,m,Flood,Point,Common,Yes,Kathryn D'Amico,10/10/13,A 6-foot seedling...
+18111,9/8/13,FISI2,Firmiana simplex,15,Walnut Creek Wild,1440,30.25684655,-97.75814348,5,m,Flood,Point,Common,Yes,Kathryn D'Amico,10/10/13,Seedling 2.5 feet tall
+19049,5/4/14,FISI2,Firmiana simplex,5,Balcones Invaders,2072,29.5980435,-98.4903976,10,m,Flood,Point,Rare,Yes,JDB,5/16/14,One very tall specimen. HP creek near Sky Forest .
+19052,5/4/14,FISI2,Firmiana simplex,5,Balcones Invaders,2072,29.59748941,-98.49009359,10,m,Flood,Point,Rare,Yes,JDB,5/16/14, One large specimen.  HP  Creek near Fleetwood. On or near property line.
+21031,6/11/15,FISI2,Firmiana simplex,5,San Antonio Invaders,327,29.4670648,-98.4654345,24,m,Other,Point,Rare,Yes,TNL,6/16/15,
+21194,6/26/15,FISI2,Firmiana simplex,5,San Antonio Invaders,327,29.4401731,-98.4582203,6,m,Other,Point,Rare,Yes,TNL,7/15/15,
+21373,7/25/15,FISI2,Firmiana simplex,5,San Antonio Invaders,327,29.4676266,-98.4652466,73,m,Other,,Rare,Yes,TNL,9/3/15,
+22390,10/25/15,FISI2,Firmiana simplex,14,Balcones Invaders,2811,29.47761781,-98.48168537,10,m,None,Point,Rare,Yes,TNL,10/30/15,
+22372,10/26/15,FISI2,Firmiana simplex,5,San Antonio Invaders,327,29.3902572,-98.4544531,35,m,Other,Point,Rare,Yes,TNL,10/30/15,Neighbor has one about 200 feet from spot; they show up regularly.
+22391,10/26/15,FISI2,Firmiana simplex,9,Balcones Invaders,2811,29.47510068,-98.48449172,5,m,None,Point,Rare,Yes,TNL,10/30/15,
+23472,4/17/16,FISI2,Firmiana simplex,5,San Antonio Invaders,327,29.453205,-98.4963735,7,m,Other,Point,Common,Yes,mab,12/23/16,
