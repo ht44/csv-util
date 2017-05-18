@@ -1,0 +1,492 @@
+Invaders of Texas,,,,,,,,,,,,,,,,,
+www.texasinvasives.org,,,,,,,,,,,,,,,,,
+Exported: 2017-05-18 14:06 ,,,,,,,,,,,,,,,,,
+Obs_ID,Date,USDA,Species,Time_Spent,Satellite,Collector,Lat,Long,Location_Error,Loc_Err_Units, Disturbance,Patch_Type,Abundance,Validated,Valid_Name,Valid_Date,Notes
+14,6/17/05,PADI3,Paspalum dilatatum,15,Travis County Invaders,286,30.14043,-97.82751,,,Urbanized,Linear,Uncommon,Yes,Damon Waitt,3/6/07,
+,Across from Manchaca Post Office,,,,,,,,,,,,,,,,
+19,6/18/05,PADI3,Paspalum dilatatum,15,Travis County Invaders,286,30.1382,-97.9702,,,Urbanized,Polygon,Uncommon,Yes,Damon Waitt,3/6/07,
+,Goldenwood West subdivision,,,,,,,,,,,,,,,,
+29,6/18/05,PADI3,Paspalum dilatatum,60,Travis County Invaders,304,30.1952,-98.05223,,,Graded,Point,Uncommon,Yes,Mark Simmons,3/6/07,
+,"290 W of Oak Hill, B of Dripping Springs",,,,,,,,,,,,,,,,
+34,6/18/05,PADI3,Paspalum dilatatum,90,Travis County Invaders,304,30.25998,-98.85591,,,Cleared brush,Polygon,Uncommon,Yes,Mark Simmons,3/6/07,
+,"1325 E Main, Fredricksburg, next to Peaches Unlimited",,,,,,,,,,,,,,,,
+55,6/20/05,PADI3,Paspalum dilatatum,10,Travis County Invaders,295,30.06195,-97.75407,,,Graded,Point,Rare,Yes,Mark Simmons,3/6/07,
+,Both sides of Graef Rd.,,,,,,,,,,,,,,,,
+57,6/20/05,PADI3,Paspalum dilatatum,15,Travis County Invaders,295,30.05825,-97.75644,,,Graded,Linear,Rare,Yes,Mark Simmons,3/6/07,
+,Outer front yard and curve in driveway,,,,,,,,,,,,,,,,
+61,6/28/05,PADI3,Paspalum dilatatum,30,Travis County Invaders,296,30.31046,-97.82358,,,Graded,Point,Uncommon,Yes,Mark Simmons,3/6/07,
+,Wild Basin Wilderness Preserve at 805 Capital of Texas HWY.  Near artificial water fall (pond) next to main building,,,,,,,,,,,,,,,,
+69,6/30/05,PADI3,Paspalum dilatatum,240,Travis County Invaders,288,30.32256,-98.25393,,,Select Disturbance,Linear,Uncommon,Yes,Mark Simmons,3/6/07,
+,Pedernales State Park.,,,,,,,,,,,,,,,,
+73,6/30/05,PADI3,Paspalum dilatatum,120,Travis County Invaders,288,30.24508,-98.89805,,,Graded,Linear,Common,Yes,Mark Simmons,3/6/07,
+,Texas 16 - South of Fredrickberg - across from fairgrounds.,,,,,,,,,,,,,,,,
+115,7/4/05,PADI3,Paspalum dilatatum,240,Travis County Invaders,289,32.76498,-96.71444,,,Urbanized,Polygon,Abundant,Yes,Damon Waitt/Sam Hermitte,3/6/07,
+,"6200 Scyene, Dallas, TX, 75227",,,,,,,,,,,,,,,,
+333,7/4/05,PADI3,Paspalum dilatatum,360,Travis County Invaders,289,32.76727,-96.7151,,,Urbanized,Point,Uncommon,Yes,Mark Simmons,3/6/07,
+,"6212 Hollis St.; Dallas, TX, 75227",,,,,,,,,,,,,,,,
+206,7/15/05,PADI3,Paspalum dilatatum,240,Travis County Invaders,288,29.98218,-98.15138,,,Graded,Linear,Common,Yes,Mark Simmons,3/6/07,
+,5K SSW of Wimberly on Wayside Rd.,,,,,,,,,,,,,,,,
+218,7/15/05,PADI3,Paspalum dilatatum,60,Travis County Invaders,288,29.92665,-98.57112,,,Graded,Linear,Uncommon,Yes,Damon Waitt,3/6/07,
+,On RR 3351 - Between RR 46 & RR 473.,,,,,,,,,,,,,,,,
+228,7/15/05,PADI3,Paspalum dilatatum,240,Travis County Invaders,288,30.0205,-98.15342,,,Cleared all,Linear,Common,Yes,Damon Waitt,3/6/07,
+,On corner of RR 2325 & Fischer Store Rd.,,,,,,,,,,,,,,,,
+127,7/18/05,PADI3,Paspalum dilatatum,10,Travis County Invaders,295,30.07657,-97.73862,,,Graded,Linear,Rare,Yes,Damon Waitt,3/6/07,
+,S. Turnersville Rd.  100 M from FM 1625,,,,,,,,,,,,,,,,
+132,7/18/05,PADI3,Paspalum dilatatum,10,Travis County Invaders,295,30.11309,-97.785,,,Cleared brush,Polygon,Common,Yes,Damon Waitt,3/6/07,
+,Approx. 30m N. of FM 1327 on Bradshaw Rd.,,,,,,,,,,,,,,,,
+138,7/18/05,PADI3,Paspalum dilatatum,10,Travis County Invaders,295,30.12852,-97.77794,,,Graded,Linear,Uncommon,Yes,Damon Waitt,3/6/07,
+,Bradshaw Rd.,,,,,,,,,,,,,,,,
+152,7/28/05,PADI3,Paspalum dilatatum,30,Travis County Invaders,296,30.48795,-97.76449,,,Cleared all,Polygon,Common,Yes,Damon Waitt,3/6/07,
+,"Off of W Parmer Lane, 9700 block of Neenah Ave. Davis Spring Subdivision",,,,,,,,,,,,,,,,
+162,7/30/05,PADI3,Paspalum dilatatum,10,Travis County Invaders,296,30.51273,-97.69012,,,Urbanized,Linear,Uncommon,Yes,Damon Waitt,3/6/07,
+,"Round Rock, Creekside Park behind Creekside Plaza off of FM 620",,,,,,,,,,,,,,,,
+175,8/4/05,PADI3,Paspalum dilatatum,10,Travis County Invaders,296,30.43137,-97.72709,,,Graded,Point,Uncommon,Yes,Damon Waitt,3/6/07,
+,5000 Block of W Parmer Lane across from Europa,,,,,,,,,,,,,,,,
+179,8/4/05,PADI3,Paspalum dilatatum,15,Travis County Invaders,296,30.45486,-97.74993,,,Select Disturbance,Point,Uncommon,Yes,Damon Waitt,3/6/07,
+,5800 block of W Parmer Lane on Freescale site across from Stepping Stone School,,,,,,,,,,,,,,,,
+181,8/4/05,PADI3,Paspalum dilatatum,15,Travis County Invaders,296,30.45818,-97.76164,,,Cleared all,Polygon,Abundant,Yes,Damon Waitt,3/6/07,
+,Lake Creek Greenbelt Park off of Anderson Mill Rd and Amasia,,,,,,,,,,,,,,,,
+188,8/6/05,PADI3,Paspalum dilatatum,5,Travis County Invaders,296,30.53257,-97.78135,,,Graded,Point,Uncommon,Yes,Damon Waitt,3/6/07,
+,"Along side of W Parmer Lane and tributary to Brushy Creek, just south of 1431 intersection",,,,,,,,,,,,,,,,
+191,8/6/05,PADI3,Paspalum dilatatum,5,Travis County Invaders,296,30.54433,-97.78571,,,Graded,Linear,Uncommon,Yes,Damon Waitt,3/6/07,
+,"CR 272 east of W Parmer Lane, across from cell phone tower",,,,,,,,,,,,,,,,
+195,8/6/05,PADI3,Paspalum dilatatum,5,Travis County Invaders,296,30.54534,-97.78242,,,Graded,Linear,Rare,Yes,Damon Waitt,3/6/07,
+,"CR 272 East of W Parmer Lane, across from Kingsbridge Horse farm entrance",,,,,,,,,,,,,,,,
+200,8/6/05,PADI3,Paspalum dilatatum,10,Travis County Invaders,296,30.55683,-97.76146,,,Cleared all,Polygon,Common,Yes,Damon Waitt,3/6/07,
+,CR 175 and Perry Mayfield Blvd.  Williamson County Regional Park on the backside of fields,,,,,,,,,,,,,,,,
+230,8/15/05,PADI3,Paspalum dilatatum,120,Travis County Invaders,288,29.84177,-98.69797,,,Graded,Linear,Common,Yes,Damon Waitt,3/6/07,
+,Texas RR 474 between Boerne & TX RR 473 - across from 306 TX RR 474.,,,,,,,,,,,,,,,,
+238,8/15/05,PADI3,Paspalum dilatatum,120,Travis County Invaders,288,29.71552,-98.69406,,,Graded,Linear,Common,Yes,Mark Simmons,3/6/07,
+,Scenic Loop Rd.  SE of Boerne - 100m NW of Dos Cerros Rd. intersection.,,,,,,,,,,,,,,,,
+242,8/15/05,PADI3,Paspalum dilatatum,120,Travis County Invaders,288,29.74619,-98.70548,,,Graded,Polygon,Common,Yes,Damon Waitt,3/6/07,
+,Scenic Loop Rd. - SE of Boerne - between I-10 & Dos Cerros Rd.,,,,,,,,,,,,,,,,
+246,8/15/05,PADI3,Paspalum dilatatum,30,Travis County Invaders,288,29.76819,-98.76281,,,Graded,Linear,Common,Yes,Damon Waitt,3/6/07,
+,306 TX 46 - 2 miles SW of Boerne.,,,,,,,,,,,,,,,,
+260,8/15/05,PADI3,Paspalum dilatatum,120,Travis County Invaders,288,29.87741,-99.28653,,,Graded,Linear,Uncommon,Yes,Damon Waitt,3/6/07,
+,TX 16 - North of Medina,,,,,,,,,,,,,,,,
+265,8/15/05,PADI3,Paspalum dilatatum,90,Travis County Invaders,288,29.9695,-99.20464,,,Graded,Linear,Common,Yes,Damon Waitt,3/6/07,
+,TX 16 - 8 miles South of Kerrville - ~ 1000m North of the TX 16/FM 1273 intersection.,,,,,,,,,,,,,,,,
+290,8/22/05,PADI3,Paspalum dilatatum,60,Travis County Invaders,288,29.99408,-97.60031,,,Graded,Polygon,Common,Yes,Damon Waitt,3/6/07,
+,FM 1854 - 5 miles West of Dale - 1 mile East of Lytton Springs.,,,,,,,,,,,,,,,,
+295,8/22/05,PADI3,Paspalum dilatatum,60,Travis County Invaders,288,30.00292,-97.63744,,,Graded,Linear,Common,Yes,Damon Waitt,3/6/07,
+,10811 FM 1854 - 1 mile West of junction with FM 1185.,,,,,,,,,,,,,,,,
+299,8/22/05,PADI3,Paspalum dilatatum,60,Travis County Invaders,288,30.07033,-97.81486,,,Graded,Linear,Common,Yes,Damon Waitt,3/6/07,
+,1030 FM 2001 ~ 5 miles West of Niederwald.,,,,,,,,,,,,,,,,
+307,8/25/05,PADI3,Paspalum dilatatum,10,Travis County Invaders,296,30.60102,-97.81513,,,Graded,Point,Uncommon,Yes,Damon Waitt,3/6/07,
+,CR 268 North of W Parmer Lane (734),,,,,,,,,,,,,,,,
+315,8/25/05,PADI3,Paspalum dilatatum,5,Travis County Invaders,296,30.56873,-97.80252,,,Graded,Point,Rare,Yes,Damon Waitt,3/6/07,
+,Area across from the CR 177 and W Parmer Lane intersection,,,,,,,,,,,,,,,,
+318,8/27/05,PADI3,Paspalum dilatatum,10,Travis County Invaders,296,30.51499,-97.8239,,,Graded,Polygon,Common,Yes,Damon Waitt,3/6/07,
+,"Park Place Park off of Vale Dr off of Park Place Rd in Cedar Park,",,,,,,,,,,,,,,,,
+324,8/28/05,PADI3,Paspalum dilatatum,30,Travis County Invaders,296,30.40559,-97.94792,,,Select Disturbance,Point,Uncommon,Yes,Damon Waitt,3/6/07,
+,Arkansas Bend Park on Lake Travis (LCRA) off of Lohman's Crossing in Lago Vista,,,,,,,,,,,,,,,,
+381,6/5/06,PADI3,Paspalum dilatatum,15,Pineywoods Invaders,236,32.30722,-95.21426,,,Graded,Polygon,Common,Yes,Joe Marcus,7/31/07,
+,"Tyler Nature Center.  Open field area along long driveway leading into center. Collection site about 45 meters from main road.  There is a small pond nearby, but has no apparent influence on site.",,,,,,,,,,,,,,,,
+375,6/6/06,PADI3,Paspalum dilatatum,30,Hill Country Invaders,123,30.23859,-98.9095,,,Other,Polygon,Common,Yes,Joe Marcus,7/27/06,
+,Lady Bird Johnson Municipal Park - Fredericksburg,,,,,,,,,,,,,,,,
+1356,6/2/07,PADI3,Paspalum dilatatum,5,Cross Timbers Invaders,75,32.727817,-97.599283,,,Roadside,Point,Rare,Yes,Damon waitt,7/21/07,
+,Aledo Park & Ride - FM1187 & I-30 SE Corner,,,,,,,,,,,,,,,,
+1976,7/5/07,PADI3,Paspalum dilatatum,10,Cross Timbers Invaders,75,32.696426,-97.60381,,,Other,Polygon,Uncommon,Yes,Joe Marcus,1/14/08,
+,Downtown Aledo - City Offices & Garden Park.  Old Annetta Road South of tracks,,,,,,,,,,,,,,,,
+1433,8/2/07,PADI3,Paspalum dilatatum,5,Cross Timbers Invaders,84,32.726317,-97.399742,,,Roadside,Linear,Abundant,Yes,Damon Waitt,8/21/07,
+,"Como Lake at the southwest corner at Come Park Drive in Fort Worth, TX 76107",,,,,,,,,,,,,,,,
+2020,10/14/07,PADI3,Paspalum dilatatum,5,Cross Timbers Invaders,75,32.7418,-97.7756,,,Other,Polygon,Uncommon,Yes,Damon Waitt,2/12/08,
+,"Weatherford, Holland Park - west of spillway, north of bridge",,,,,,,,,,,,,,,,
+2027,10/14/07,PADI3,Paspalum dilatatum,5,Cross Timbers Invaders,75,32.74158,-97.7759,,,Other,Linear,Uncommon,Yes,Damon Waitt,2/12/08,
+,"Weatherford, Holland Park, northwest of spillway",,,,,,,,,,,,,,,,
+2040,11/18/07,PADI3,Paspalum dilatatum,5,Cross Timbers Invaders,75,32.88325,-97.2232,,,Other,Point,Uncommon,Yes,Damon Waitt,2/12/08,
+,"North Richland Hills, Cross Timbers Park, 7451 Starnes Road",,,,,,,,,,,,,,,,
+2049,11/26/07,PADI3,Paspalum dilatatum,5,Cross Timbers Invaders,75,32.758,-97.3361,,,Roadside,Point,Rare,Yes,Damon Waitt,4/18/08,
+,Ft Worth - downtown - Heritage Park Taylor south of Belknap,,,,,,,,,,,,,,,,
+1820,12/7/07,PADI3,Paspalum dilatatum,30,Cross Timbers Invaders,67,32.34067,-97.30813,,,None,Polygon,Uncommon,Yes,Joe Marcus,12/17/07,
+,"Seven miles E of Cleburne, FM 4 and CR 425",,,,,,,,,,,,,,,,
+1921,12/13/07,PADI3,Paspalum dilatatum,10,Cross Timbers Invaders,44,32.31186,-97.37036,,,Roadside,Linear,Uncommon,Yes,Damon Waitt,1/12/08,
+,2500 Highway 171 SE of Cleburne.,,,,,,,,,,,,,,,,
+2062,12/17/07,PADI3,Paspalum dilatatum,5,Cross Timbers Invaders,75,32.7697,-97.363,,,Other,Polygon,Uncommon,Yes,Damon Waitt,2/12/08,
+,"Ft Worth, Rockwood Park, from lot of Ft Worth Women's Club meeting house",,,,,,,,,,,,,,,,
+2077,12/17/07,PADI3,Paspalum dilatatum,5,Cross Timbers Invaders,75,32.7683,-97.3617,,,Roadside,Linear,Common,Yes,Damon Waitt,2/12/08,
+,"Ft Worth, Rockwood Park, access road to park.  ALL Privets present!! great learning area - many invasives.",,,,,,,,,,,,,,,,
+1873,12/25/07,PADI3,Paspalum dilatatum,30,Cross Timbers Invaders,44,32.1772,-97.13814,,,Roadside,Point,Uncommon,Yes,Damon Waitt,1/12/08,
+,"6900 FM 4, N side of road",,,,,,,,,,,,,,,,
+4484,6/25/08,PADI3,Paspalum dilatatum,5,Cross Timbers Invaders,75,32.68122,-97.54008,,,Roadside,Linear,Common,Yes,Karan Rawlins,8/11/08,
+,Aledo-Iona Road @ RR tracks crossing.  Lines edges of roadway,,,,,,,,,,,,,,,,
+3956,7/19/08,PADI3,Paspalum dilatatum,30,Cross Timbers Invaders,48,32.83967,-96.71559,,,Other,Linear,Common,Yes,Joe Marcus,7/21/08,
+,White Rock Lake Park - Bath House vicinity.,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+Along water edge mostly.  Some patches in grassy areas.,,,,,,,,,,,,,,,,,
+4165,7/29/08,PADI3,Paspalum dilatatum,5,Cross Timbers Invaders,72,32.84317,-97.4681,,,Other,Linear,Rare,Yes,Joe Marcus,8/1/08,
+,On the Fort Worth Nature Center alongside the Riverbottom Trail.,,,,,,,,,,,,,,,,
+4655,9/6/08,PADI3,Paspalum dilatatum,5,Cross Timbers Invaders,72,32.84575,-97.48179,,,Roadside,Polygon,Common,Yes,Joe Marcus,9/8/08,
+,On the Fort Worth Nature Center alongside Shoreline Drive as it leads up to the Marsh.,,,,,,,,,,,,,,,,
+4663,9/6/08,PADI3,Paspalum dilatatum,5,Cross Timbers Invaders,72,32.8482,-97.47409,,,Roadside,Polygon,Common,Yes,Joe Marcus,9/8/08,
+,"On the Fort Worth Nature Center alongside the big river parking area, next to the canoe launch.",,,,,,,,,,,,,,,,
+4675,9/10/08,PADI3,Paspalum dilatatum,5,Cross Timbers Invaders,72,32.72635,-97.11107,,,Roadside,Polygon,Common,Yes,Joe Marcus,9/11/08,
+,"On the University of Texas at Arlington campus, alongside a creek. Roads and student parking border this area. ",,,,,,,,,,,,,,,,
+4682,9/10/08,PADI3,Paspalum dilatatum,5,Cross Timbers Invaders,72,32.72659,-97.11159,,,Roadside,Polygon,Common,Yes,Joe Marcus,9/11/08,
+,"On the University of Texas at Arlington campus, alongside a creek. Roads and student parking border this area. ",,,,,,,,,,,,,,,,
+4690,9/10/08,PADI3,Paspalum dilatatum,5,Cross Timbers Invaders,72,32.72616,-97.10999,,,Roadside,Polygon,Common,Yes,Joe Marcus,9/11/08,
+,"On the University of Texas at Arlington campus, alongside a creek. Roads and student parking border this area. ",,,,,,,,,,,,,,,,
+4699,9/12/08,PADI3,Paspalum dilatatum,5,Cross Timbers Invaders,72,32.75115,-97.78243,,,Other,Polygon,Common,Yes,Joe Marcus,9/26/08,
+,"This is part of the landscaping at a doctor's office in Weatherford.  There is a natural area nearby, as well as disturbance from building in progress.",,,,,,,,,,,,,,,,
+4701,9/12/08,PADI3,Paspalum dilatatum,5,Cross Timbers Invaders,72,32.75021,-97.78182,,,Roadside,Polygon,Common,Yes,Joe Marcus,9/26/08,
+,A small field in Weatherford.  It is bordered by a road and driveways for businesses.,,,,,,,,,,,,,,,,
+4792,9/12/08,PADI3,Paspalum dilatatum,5,Cross Timbers Invaders,72,32.74933,-97.78121,,,Roadside,Point,Common,Yes,Travis Gallo,12/15/08,"In Weatherford off Eureka Road.  There is a lot of development in this area, but there are still natural areas nearby."
+4797,9/12/08,PADI3,Paspalum dilatatum,5,Cross Timbers Invaders,72,32.74934,-97.77956,,,Roadside,Linear,Common,Yes,Travis Gallo,10/8/08,
+,"In Weatherford off Eureka Road.  There is a lot of development in this area, but there are still natural areas nearby.  Roadside along fields.",,,,,,,,,,,,,,,,
+4801,9/12/08,PADI3,Paspalum dilatatum,5,Cross Timbers Invaders,72,32.74942,-97.77915,,,Roadside,Linear,Common,Yes,Travis Gallo,10/8/08,
+,"In Weatherford off Eureka Road.  There is a lot of development in this area, but there are still natural areas nearby.  Roadside along fields.",,,,,,,,,,,,,,,,
+4812,9/12/08,PADI3,Paspalum dilatatum,5,Cross Timbers Invaders,72,32.74899,-97.7765,,,Roadside,Linear,Common,Yes,Travis Gallo,10/8/08,
+,"In Weatherford off Eureka Road.  There is a lot of development in this area, but there are still natural areas nearby.  Roadside along fields.",,,,,,,,,,,,,,,,
+4815,9/12/08,PADI3,Paspalum dilatatum,5,Cross Timbers Invaders,72,32.73463,-97.35919,,,Roadside,Polygon,Common,Yes,Travis Gallo,10/8/08,
+,At Papadeaux off Interstate 30 in Fort Worth.  ,,,,,,,,,,,,,,,,
+4822,9/12/08,PADI3,Paspalum dilatatum,5,Cross Timbers Invaders,72,32.89273,-97.5393,,,Roadside,Polygon,Common,Yes,Travis Gallo,10/8/08,
+,Grassy area around Brookshire's grocery store parking lot in Azle off Stewart Street.,,,,,,,,,,,,,,,,
+4825,9/12/08,PADI3,Paspalum dilatatum,5,Cross Timbers Invaders,72,32.89201,-97.53391,,,Roadside,Polygon,Common,Yes,Travis Gallo,10/8/08,
+,In Azle off Jarvis Lane.  Lawn area around apartments.,,,,,,,,,,,,,,,,
+4775,9/17/08,PADI3,Paspalum dilatatum,5,Cross Timbers Invaders,72,32.81489,-97.41839,,,Roadside,Point,Common,Yes,Travis Gallo,10/8/08,
+,In Lake Worth off Azle Avenue in the fenceline of a church.  The plants in the fenceline look like volunteers rather than landscaped additions.,,,,,,,,,,,,,,,,
+4782,9/18/08,PADI3,Paspalum dilatatum,5,Cross Timbers Invaders,72,32.83036,-97.47796,,,None,Point,Common,Yes,Travis Gallo,10/8/08,
+,On the Fort Worth Nature Center in a savanna east of the gatehouse.  Patches found occasionally throughout this area. ,,,,,,,,,,,,,,,,
+4724,9/21/08,PADI3,Paspalum dilatatum,5,Cross Timbers Invaders,72,32.84799,-97.48679,,,Other,Point,Rare,Yes,Joe Marcus,9/26/08,
+,On the Fort Worth Nature Center located in a field in the quarry off Shoreline Drive.  This area is restricted from public access.,,,,,,,,,,,,,,,,
+4829,9/27/08,PADI3,Paspalum dilatatum,5,Cross Timbers Invaders,72,32.88178,-97.5372,,,Roadside,Polygon,Common,Yes,Travis Gallo,10/8/08,
+,An empty lot in Azle along the access road for Hwy 199.,,,,,,,,,,,,,,,,
+4847,9/28/08,PADI3,Paspalum dilatatum,5,Cross Timbers Invaders,72,32.83103,-97.47977,,,Roadside,Linear,Common,Yes,Travis Gallo,10/7/08,
+,On the Fort Worth Nature Center alongside Buffalo Road.,,,,,,,,,,,,,,,,
+4852,9/28/08,PADI3,Paspalum dilatatum,5,Cross Timbers Invaders,72,32.83165,-97.47995,,,Roadside,Linear,Common,Yes,Travis Gallo,10/7/08,
+,On the Fort Worth Nature Center alongside Buffalo Road.  PADI3 lines roadways but is less visible than BOISS.,,,,,,,,,,,,,,,,
+4857,9/28/08,PADI3,Paspalum dilatatum,5,Cross Timbers Invaders,72,32.83223,-97.48005,,,Roadside,Linear,Common,Yes,Travis Gallo,10/7/08,
+,On the Fort Worth Nature Center alongside Buffalo Road.,,,,,,,,,,,,,,,,
+4878,9/28/08,PADI3,Paspalum dilatatum,5,Cross Timbers Invaders,72,32.85588,-97.51045,,,Roadside,Linear,Common,Yes,Travis Gallo,10/7/08,
+,An empty field alongside an access road for Hwy 199 in Azle.  There is a stream nearby.,,,,,,,,,,,,,,,,
+4883,9/29/08,PADI3,Paspalum dilatatum,5,Cross Timbers Invaders,72,32.75301,-97.78841,,,Roadside,Polygon,Common,Yes,Travis Gallo,10/7/08,
+,"In Weatherford alongside a creek that crosses under Sante Fe Drive.  Businesses and apartments run all along this area, so there is a high degree of disturbance.",,,,,,,,,,,,,,,,
+4896,9/29/08,PADI3,Paspalum dilatatum,5,Cross Timbers Invaders,72,32.75306,-97.788,,,Roadside,Polygon,Common,Yes,Marilyn Sallee,10/11/08,
+,"In Weatherford alongside a creek that crosses under Sante Fe Drive.  Businesses and apartments run all along this area, so there is a high degree of disturbance. Invasive grasses throughout this area.",,,,,,,,,,,,,,,,
+4902,9/29/08,PADI3,Paspalum dilatatum,5,Cross Timbers Invaders,72,32.7518,-97.78786,,,Roadside,Polygon,Common,Yes,Travis Gallo,10/3/08,
+,"In Weatherford alongside a creek that crosses under Sante Fe Drive.  Businesses and apartments run all along this area, so there is a high degree of disturbance.",,,,,,,,,,,,,,,,
+4907,9/29/08,PADI3,Paspalum dilatatum,5,Cross Timbers Invaders,72,32.75119,-97.78775,,,Roadside,Polygon,Common,Yes,Travis Gallo,10/3/08,
+,"In Weatherford alongside a creek that crosses under Sante Fe Drive.  Businesses and apartments run all along this area, so there is a high degree of disturbance.  Invasive grasses common in this area.",,,,,,,,,,,,,,,,
+4933,10/1/08,PADI3,Paspalum dilatatum,5,Cross Timbers Invaders,72,32.72786,-97.11505,,,Other,Polygon,Common,Yes,Travis Gallo,10/3/08,
+,On the campus of UT at Arlington alongside a creek west of Cooper Street.,,,,,,,,,,,,,,,,
+4979,10/4/08,PADI3,Paspalum dilatatum,5,Cross Timbers Invaders,77,32.84727,-97.47605,,,Other,Point,Common,Yes,Karan Rawlins,10/5/08,
+,Fort Worth Nature Center-Interpretive Center,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+Path side near front door on opposite side of path from Obs ID#4975.,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+New Invaders/Co-Collectors:,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+"Ann Mayo<annbmayo@hotmail.com>,",,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+"Lucurtis Williams<hudiray@yahoo.com>, ",,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+"Rob Roy<robt_+_roy@mas.com>,",,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+Tonya M,,,,,,,,,,,,,,,,,
+5024,10/5/08,PADI3,Paspalum dilatatum,5,Cross Timbers Invaders,72,32.8457,-97.48756,,,Graded,Point,Common,Yes,Marilyn Sallee,10/11/08,
+,On the Fort Worth Nature Center in the restricted quarry area.  Parts of this area have been graded and have a large number of invasive plants.  Some areas are almost untouched and are still mostly populated with native flora.,,,,,,,,,,,,,,,,
+5029,10/5/08,PADI3,Paspalum dilatatum,5,Cross Timbers Invaders,72,32.84584,-97.48815,,,Graded,Point,Common,Yes,Marilyn Sallee,10/11/08,
+,On the Fort Worth Nature Center in the restricted quarry area.  Parts of this area have been filled/graded and parts are still forested or savanna habitat. The goal is to return the whole area to a healthy habitat condition.,,,,,,,,,,,,,,,,
+5045,10/5/08,PADI3,Paspalum dilatatum,5,Cross Timbers Invaders,72,32.84495,-97.49157,,,Graded,Point,Common,Yes,Marilyn Sallee,10/11/08,
+,On the Fort Worth Nature Center in the restricted quarry area.  Parts of this area have been filled/graded and parts are still forested or savanna habitat. The goal is to return the whole area to a healthy habitat condition.,,,,,,,,,,,,,,,,
+5107,10/7/08,PADI3,Paspalum dilatatum,5,Cross Timbers Invaders,79,32.81621,-96.72549,,,Cleared brush,Polygon,Common,Yes,Karan Rawlins,10/12/08,
+,"Located in south side of White Rock Lake dam, Dallas.  PADI3 is very common on the mowed face of the dam.",,,,,,,,,,,,,,,,
+5058,10/10/08,PADI3,Paspalum dilatatum,5,Cross Timbers Invaders,72,32.81776,-97.443,,,Roadside,Linear,Common,Yes,Marilyn Sallee,10/11/08,
+,In Lake Worth along a road which leads to a small neighborhood.  There is a stream nearby.,,,,,,,,,,,,,,,,
+5062,10/10/08,PADI3,Paspalum dilatatum,5,Cross Timbers Invaders,72,32.811,-97.42899,,,Roadside,Linear,Common,Yes,Marilyn Sallee,10/11/08,
+,In Lake Worth alongside Lake Worth Blvd (Hwy 199) in front of Payless Shoe Source.,,,,,,,,,,,,,,,,
+5066,10/10/08,PADI3,Paspalum dilatatum,5,Cross Timbers Invaders,72,32.81507,-97.41679,,,Roadside,Linear,Common,Yes,Marilyn Sallee,10/11/08,
+,In Lake Worth alongside the parking lot in a new shopping center on Azle Ave.,,,,,,,,,,,,,,,,
+5094,10/10/08,PADI3,Paspalum dilatatum,5,Cross Timbers Invaders,72,32.8231,-97.44746,,,Roadside,Linear,Common,Yes,Marilyn Sallee,10/11/08,
+,On Love Circle in Fort Worth just off Hwy 199.  This neighborhood is almost surrounded by Lake Worth.,,,,,,,,,,,,,,,,
+5119,10/10/08,PADI3,Paspalum dilatatum,5,Cross Timbers Invaders,72,32.82274,-97.4529,,,Roadside,Polygon,Common,Yes,Travis Gallo,10/13/08,
+,Alongside the access road for Hwy 199 just north of Lake Worth bridge.,,,,,,,,,,,,,,,,
+5126,10/11/08,PADI3,Paspalum dilatatum,5,Cross Timbers Invaders,72,32.83361,-97.47374,,,Other,Polygon,Common,Yes,Travis Gallo,10/13/08,
+,On the Fort Worth Nature Center at the parking area for the Service Center.,,,,,,,,,,,,,,,,
+5129,10/11/08,PADI3,Paspalum dilatatum,5,Cross Timbers Invaders,72,32.83344,-97.47372,,,Other,Polygon,Common,Yes,Travis Gallo,10/13/08,
+,On the Fort Worth Nature Center in the fenced area behind the Service Center.,,,,,,,,,,,,,,,,
+5137,10/11/08,PADI3,Paspalum dilatatum,5,Cross Timbers Invaders,72,32.83324,-97.47369,,,Other,Polygon,Common,Yes,Travis Gallo,10/13/08,
+,On the Fort Worth Nature Center in the fenced area behind the Service Center.,,,,,,,,,,,,,,,,
+5150,10/18/08,PADI3,Paspalum dilatatum,5,Cross Timbers Invaders,72,32.72086,-97.35247,,,Roadside,Polygon,Common,Yes,Travis Gallo,10/20/08,
+,In Fort Worth at Tillery Park.  It is off Forest Park Blvd. east of the Fort Worth Zoo. A group of volunteers from the neighborhood and from TCU removed privet and cleaned up the park today.,,,,,,,,,,,,,,,,
+5209,10/20/08,PADI3,Paspalum dilatatum,5,Cross Timbers Invaders,79,32.80965,-96.72799,,,Other,Polygon,Common,Yes,Karan Rawlins,10/20/08,
+,"Located on south side of White Rock creek, east of Garland Road, Dallas.",,,,,,,,,,,,,,,,
+5252,10/20/08,PADI3,Paspalum dilatatum,5,Cross Timbers Invaders,72,32.72042,-97.35258,,,Roadside,Polygon,Common,Yes,Travis Gallo,10/21/08,
+,Tillery Park in Fort Worth off Forest Park Blvd.  This park has a huge amount of privet which covers more than 50% of the land in the park. The neighborhood group is interested in reclaiming the park from the privet.,,,,,,,,,,,,,,,,
+5259,10/20/08,PADI3,Paspalum dilatatum,5,Cross Timbers Invaders,72,32.72618,-97.10987,,,Roadside,Polygon,Common,Yes,Travis Gallo,10/21/08,
+,On the U.T. of Arlington campus between a creek and a parking lot. There are many invasive plants along this creek.,,,,,,,,,,,,,,,,
+5267,10/20/08,PADI3,Paspalum dilatatum,5,Cross Timbers Invaders,72,32.72615,-97.10995,,,Roadside,Polygon,Common,Yes,Travis Gallo,10/21/08,
+,On the U.T. of Arlington campus between a creek and a parking lot. There are many invasive plants along this creek.,,,,,,,,,,,,,,,,
+5278,10/20/08,PADI3,Paspalum dilatatum,5,Cross Timbers Invaders,72,32.72618,-97.10967,,,Roadside,Polygon,Common,Yes,Travis Gallo,10/23/08,
+,On the UT of Arlington campus between a creek and a student parking area.,,,,,,,,,,,,,,,,
+5288,10/26/08,PADI3,Paspalum dilatatum,5,Cross Timbers Invaders,72,32.82441,-97.46015,,,Other,Linear,Common,Yes,Travis Gallo,10/27/08,
+,"On the Fort Worth Nature Center alongside the Canyon Ridge Trail.  There are homes on private property above this trail, so many invasive plants are in this area.",,,,,,,,,,,,,,,,
+5295,10/26/08,PADI3,Paspalum dilatatum,5,Cross Timbers Invaders,72,32.82387,-97.46062,,,Other,Linear,Common,Yes,Travis Gallo,10/27/08,
+,"On the Fort Worth Nature Center alongside the Canyon Ridge Trail.  There are homes on private property above this trail, so many invasive plants are in this area.",,,,,,,,,,,,,,,,
+5388,10/28/08,PADI3,Paspalum dilatatum,5,Cross Timbers Invaders,72,32.89142,-97.53905,,,Roadside,Linear,Common,Yes,Travis Gallo,11/4/08,
+,Grass verges around the Park Place Shopping Center at the corner of N. Stewart St and Park Dr. in Azle.,,,,,,,,,,,,,,,,
+5397,10/28/08,PADI3,Paspalum dilatatum,5,Cross Timbers Invaders,72,32.89198,-97.53925,,,Roadside,Linear,Common,Yes,Travis Gallo,11/4/08,
+,Grass verges around the Park Place Shopping Center at the corner of N. Stewart St and Park Dr. in Azle.,,,,,,,,,,,,,,,,
+5400,10/28/08,PADI3,Paspalum dilatatum,5,Cross Timbers Invaders,72,32.89211,-97.53925,,,Roadside,Linear,Common,Yes,Travis Gallo,11/4/08,
+,Grass verges around the Park Place Shopping Center at the corner of N. Stewart St and Park Dr. in Azle.,,,,,,,,,,,,,,,,
+5405,10/28/08,PADI3,Paspalum dilatatum,5,Cross Timbers Invaders,72,32.89203,-97.53954,,,Roadside,Linear,Common,Yes,Travis Gallo,11/4/08,
+,Grass verges around the Park Place Shopping Center at the corner of N. Stewart St and Park Dr. in Azle.,,,,,,,,,,,,,,,,
+5371,10/29/08,PADI3,Paspalum dilatatum,90,Cross Timbers Invaders,66,32.732216,-97.005564,,,Other,Polygon,Common,Yes,Travis Gallo,10/30/08,
+,"Found adjacent to a business, in a vacant lot.  Jeffery McDaniel assisted in collection.",,,,,,,,,,,,,,,,
+5408,10/29/08,PADI3,Paspalum dilatatum,5,Cross Timbers Invaders,72,32.88358,-97.56483,,,Other,Polygon,Common,Yes,Travis Gallo,11/4/08,
+,Cross Timbers Golf Club in Azle on S. Stewart Street. This site is next to a pond.,,,,,,,,,,,,,,,,
+5419,10/29/08,PADI3,Paspalum dilatatum,5,Cross Timbers Invaders,72,32.8825,-97.56503,,,Other,Polygon,Common,Yes,Travis Gallo,11/3/08,
+,Cross Timbers Golf Club in Azle on S. Stewart Street.,,,,,,,,,,,,,,,,
+5430,10/29/08,PADI3,Paspalum dilatatum,5,Cross Timbers Invaders,72,32.88341,-97.564,,,Other,Polygon,Common,Yes,Travis Gallo,11/3/08,
+,Cross Timbers Golf Club in Azle on S. Stewart Street. Located along the banks of a stream.,,,,,,,,,,,,,,,,
+5486,10/30/08,PADI3,Paspalum dilatatum,5,Cross Timbers Invaders,72,32.88916,-97.54411,,,Roadside,Polygon,Common,Yes,Travis Gallo,11/3/08,
+,Alongside a creek on S. Stewart Street in Azle.,,,,,,,,,,,,,,,,
+5506,10/30/08,PADI3,Paspalum dilatatum,5,Cross Timbers Invaders,72,32.8889,-97.54422,,,Roadside,Polygon,Common,Yes,Travis Gallo,11/3/08,
+,Alongside a creek on S. Stewart Street in Azle.,,,,,,,,,,,,,,,,
+5525,10/30/08,PADI3,Paspalum dilatatum,5,Cross Timbers Invaders,72,32.88914,-97.54388,,,Roadside,Polygon,Common,Yes,Travis Gallo,11/3/08,
+,Alongside a creek on S. Stewart Street in Azle.,,,,,,,,,,,,,,,,
+5542,10/30/08,PADI3,Paspalum dilatatum,5,Cross Timbers Invaders,72,32.89123,-97.54217,,,Roadside,Polygon,Common,Yes,Travis Gallo,11/3/08,
+,Alongside a dry creek on S. Stewart Street in Azle.,,,,,,,,,,,,,,,,
+5548,10/30/08,PADI3,Paspalum dilatatum,5,Cross Timbers Invaders,72,32.89194,-97.5425,,,Roadside,Polygon,Common,Yes,Travis Gallo,11/3/08,
+,Alongside a dry creek on S. Stewart Street in Azle.,,,,,,,,,,,,,,,,
+5564,10/30/08,PADI3,Paspalum dilatatum,5,Cross Timbers Invaders,72,32.89135,-97.54195,,,Roadside,Polygon,Common,Yes,Travis Gallo,11/3/08,
+,Alongside a dry creek on S. Stewart Street in Azle.,,,,,,,,,,,,,,,,
+5608,11/4/08,PADI3,Paspalum dilatatum,5,Cross Timbers Invaders,72,32.88597,-97.53717,,,Other,Polygon,Common,Yes,Travis Gallo,11/6/08,
+,A community building in Azle near the Police Department where the voting was held.  The sites were collected from around soccer fields nearby.,,,,,,,,,,,,,,,,
+5616,11/4/08,PADI3,Paspalum dilatatum,5,Cross Timbers Invaders,72,32.88564,-97.53745,,,Other,Polygon,Common,Yes,Travis Gallo,11/6/08,
+,The sites were collected from around soccer fields next to a community building in Azle near the Police Department where the voting was held.  ,,,,,,,,,,,,,,,,
+5621,11/4/08,PADI3,Paspalum dilatatum,5,Cross Timbers Invaders,72,32.88545,-97.53764,,,Other,Polygon,Common,Yes,Travis Gallo,11/6/08,
+,The sites were collected from around soccer fields next to a community building in Azle near the Police Department where the voting was held.  ,,,,,,,,,,,,,,,,
+5627,11/4/08,PADI3,Paspalum dilatatum,5,Cross Timbers Invaders,72,32.88535,-97.53725,,,Other,Polygon,Common,Yes,Travis Gallo,11/6/08,
+,The sites were collected from around soccer fields next to a community building in Azle near the Police Department where the voting was held.  ,,,,,,,,,,,,,,,,
+5672,11/9/08,PADI3,Paspalum dilatatum,5,Cross Timbers Invaders,72,32.89511,-97.54044,,,Roadside,Polygon,Common,Yes,Travis Gallo,11/10/08,
+,In Azle along access road for Hwy 199 near exit for 730 North.,,,,,,,,,,,,,,,,
+5694,11/9/08,PADI3,Paspalum dilatatum,5,Cross Timbers Invaders,72,32.89475,-97.54691,,,Other,Polygon,Common,Yes,Travis Gallo,11/10/08,
+,In Central Park on Main Street in Azle.  This is a new city park in Azle.  This is a field between the park and the property next door.  It looks like several small trees were planted throughout the field.,,,,,,,,,,,,,,,,
+5811,11/19/08,PADI3,Paspalum dilatatum,5,Cross Timbers Invaders,72,32.89164,-97.53336,,,Other,Polygon,Common,Yes,Travis Gallo,11/24/08,
+,Along a fence line in a suburban neighborhood on Jarvis Lane in Azle.,,,,,,,,,,,,,,,,
+5815,11/19/08,PADI3,Paspalum dilatatum,5,Cross Timbers Invaders,72,32.89185,-97.53303,,,Other,Polygon,Common,Yes,Damon Waitt,12/15/08,Along a fence line in a suburban neighborhood on Jarvis Lane in Azle.
+5821,11/19/08,PADI3,Paspalum dilatatum,5,Cross Timbers Invaders,72,32.8919,-97.53273,,,Other,Polygon,Common,Yes,Travis Gallo,11/24/08,
+,Along a fence line in a suburban neighborhood on Jarvis Lane in Azle.  Area mowed on a regular basis.,,,,,,,,,,,,,,,,
+5845,11/19/08,PADI3,Paspalum dilatatum,5,Cross Timbers Invaders,72,32.89176,-97.53198,,,Other,Polygon,Common,Yes,Travis Gallo,11/24/08,
+,Field beside the Junior High School (East) on Jarvis Lane in Azle.  This area is mowed on a regular basis.,,,,,,,,,,,,,,,,
+5850,11/19/08,PADI3,Paspalum dilatatum,5,Cross Timbers Invaders,72,32.89161,-97.53123,,,Other,Polygon,Common,Yes,Travis Gallo,11/24/08,
+,Field beside the Junior High School (East) on Jarvis Lane in Azle.  This area is mowed on a regular basis.,,,,,,,,,,,,,,,,
+5794,11/20/08,PADI3,Paspalum dilatatum,15,Highland Lake Invaders,344,30.73406,-98.3693,,,None,Point,Rare,Yes,Travis Gallo,11/20/08,
+,"Stumph Hollow Trail, Inks Lake Park",,,,,,,,,,,,,,,,
+6061,12/2/08,PADI3,Paspalum dilatatum,5,Cross Timbers Invaders,72,32.73767,-97.39684,,,Roadside,Polygon,Common,Yes,Travis Gallo,1/7/09,In Fort Worth along Collinwood Avenue.
+6057,12/2/08,PADI3,Paspalum dilatatum,5,Cross Timbers Invaders,72,32.73821,-97.39681,,,Roadside,Polygon,Common,Yes,Travis Gallo,1/7/09,In Fort Worth along Neville Street.
+6049,12/2/08,PADI3,Paspalum dilatatum,5,Cross Timbers Invaders,72,32.73836,-97.39635,,,Roadside,Polygon,Common,Yes,Travis Gallo,1/7/09,In Fort Worth along an access road behind businesses on Collinwood Avenue.
+6026,12/2/08,PADI3,Paspalum dilatatum,5,Cross Timbers Invaders,72,32.73816,-97.39574,,,Roadside,Polygon,Common,Yes,Travis Gallo,1/7/09,In Fort Worth along the access road behind businesses on Collinwood Ave. Mixed neighborhood with homes and businesses.
+6021,12/2/08,PADI3,Paspalum dilatatum,5,Cross Timbers Invaders,72,32.73844,-97.39573,,,Roadside,Polygon,Common,Yes,Travis Gallo,1/7/09,In Fort Worth along the access road behind businesses on Collinwood Ave. Mixed neighborhood with homes and businesses.
+6016,12/2/08,PADI3,Paspalum dilatatum,5,Cross Timbers Invaders,72,32.73827,-97.3954,,,Roadside,Polygon,Common,Yes,Travis Gallo,1/7/09,In Fort Worth along the access road behind businesses on Collinwood Ave. Mixed neighborhood with homes and businesses.
+6064,12/2/08,PADI3,Paspalum dilatatum,5,Cross Timbers Invaders,72,32.73777,-97.39639,,,Roadside,Polygon,Common,Yes,Travis Gallo,1/7/09,In Fort Worth along Collinwood Avenue.
+6067,12/2/08,PADI3,Paspalum dilatatum,5,Cross Timbers Invaders,72,32.73769,-97.39585,,,Roadside,Polygon,Common,Yes,Travis Gallo,1/7/09,In Fort Worth along Collinwood Avenue.
+6071,12/2/08,PADI3,Paspalum dilatatum,5,Cross Timbers Invaders,72,32.73736,-97.39587,,,Roadside,Polygon,Common,Yes,Travis Gallo,1/7/09,In Fort Worth along Collinwood Avenue.
+6075,12/2/08,PADI3,Paspalum dilatatum,5,Cross Timbers Invaders,72,32.73682,-97.39646,,,Roadside,Polygon,Common,Yes,Travis Gallo,1/7/09,Alongside Camp Bowie and El Campo Avenue in Fort Worth.
+6080,12/2/08,PADI3,Paspalum dilatatum,5,Cross Timbers Invaders,72,32.73703,-97.3959,,,Roadside,Polygon,Common,Yes,Travis Gallo,1/7/09,Along Camp Bowie Blvd. in Fort Worth.
+6084,12/2/08,PADI3,Paspalum dilatatum,5,Cross Timbers Invaders,72,32.7373,-97.39532,,,Roadside,Polygon,Common,Yes,Travis Gallo,1/7/09,At Camp Bowie Blvd. and Penticost Street in Fort Worth.
+6088,12/2/08,PADI3,Paspalum dilatatum,5,Cross Timbers Invaders,72,32.73748,-97.39488,,,Roadside,Polygon,Common,Yes,Travis Gallo,1/7/09,Alongside Camp Bowie Blvd. and Collinwood Avenue in Fort Worth.
+7637,5/12/09,PADI3,Paspalum dilatatum,5,Cross Timbers Invaders,72,32.74632,-97.43802,,,Roadside,Point,Rare,Yes,Travis Gallo,5/29/09,In Fort Worth alongside HWY 183 near Ridgmar Mall.
+7749,5/21/09,PADI3,Paspalum dilatatum,5,Cross Timbers Invaders,72,32.89233,-97.53273,,,Roadside,Polygon,Common,Yes,Travis Gallo,6/1/09,Apartment complex off Jarvis Lane in Azle.  PADI3 found throughout the complex.
+7949,6/4/09,PADI3,Paspalum dilatatum,5,Cross Timbers Invaders,72,32.8308,-97.47583,,,None,Point,Rare,Yes,Travis Gallo,6/9/09,At the Fort Worth Nature Center off trail in a field west of the Service Center. Accompanied by Michelle Villafranca. Dallisgrass found only occasionally in this prairie habitat.
+8037,6/13/09,PADI3,Paspalum dilatatum,5,Cross Timbers Invaders,72,32.83443,-97.47034,,,Other,Polygon,Common,Yes,Travis Gallo,6/19/09,At the Fort Worth Nature Center along the Riverbottom Trail.  Heavily forested riparian area. Privet scattered throughout this area.
+8082,6/17/09,PADI3,Paspalum dilatatum,5,Cypress Basin Invaders,415,32.88084,-94.2768,,,Roadside,Linear,Common,Yes,Travis Gallo,6/24/09,"Large area from intersection of FM 248 and FM 2683 extending along FM 2683 approximately 3 miles, both sides of road."
+8400,9/19/09,PADI3,Paspalum dilatatum,5,Texas High School Invaders,1037,33.91311,-98.51364,,,Graded,Point,Rare,Yes,Travis Gallo,9/23/09,"To the side of the nature trail that runs through the forest below the River Bend Nature Center - 3rd Street Wichita Falls, TX"
+8881,10/30/09,PADI3,Paspalum dilatatum,5,Cross Timbers Invaders,763,32.658562,-97.271629,,,Other,Polygon,Common,Yes,Travis Gallo,11/6/09,"Mown field near development south of Forest Hill Circle and west of Forest Hill Drive, Forest Hill."
+8872,10/30/09,PADI3,Paspalum dilatatum,5,Cross Timbers Invaders,761,32.829732,-97.06591,,,Cleared brush,Linear,Common,Yes,Travis Gallo,11/6/09,Linear area of PADI3 about 150ft long by 25 ft wide running east/west along a cleared fence line.  Located south of a federal facility which is south of FAA Rd and east of American Blvd.  Area borders a wooded area that extends south towards Trinity Blvd.
+10901,6/26/10,PADI3,Paspalum dilatatum,15,City of Austin PARD,1011,30.28538,-97.70077,,,None,Polygon,Common,Yes,Travis Gallo,6/28/10,Pershing Blvd.
+11028,7/12/10,PADI3,Paspalum dilatatum,30,City of Austin PARD,1011,30.41258,-97.71951,,,None,Polygon,Common,Yes,Travis Gallo,7/15/10,"Balcones Community Park, north of Duval.  small invasion"
+11770,9/1/10,PADI3,Paspalum dilatatum,5,Piney Wood Lakes,1102,30.909444,-95.250556,,,Roadside,Linear,Common,Yes,Travis Gallo,9/9/10,On south side of FM 356 west of FM 355
+11994,9/14/10,PADI3,Paspalum dilatatum,5,Piney Wood Lakes,1102,30.887222,-95.223611,,,Roadside,Linear,Common,Yes,Travis Gallo,9/23/10,On west side of Barretts Landing Road
+12025,9/14/10,PADI3,Paspalum dilatatum,5,Piney Wood Lakes,1102,30.887715,-95.222872,,,Roadside,Linear,Common,Yes,Travis Gallo,9/23/10,On east side of Barretts Landing Road
+12121,9/16/10,PADI3,Paspalum dilatatum,5,Cross Timbers Invaders,75,32.672625,-97.290896,,,Roadside,Polygon,Common,Yes,Travis Gallo,9/30/10,"Tree farm entrance in Rolling Meadows Park across the road from compost pickup -- Joe Rushing Road off Campus Drive, SE Ft Worth"
+12123,9/16/10,PADI3,Paspalum dilatatum,5,Cross Timbers Invaders,75,32.672891,-97.290848,,,Roadside,Polygon,Common,Yes,Travis Gallo,9/30/10,"Tree farm entrance in Rolling Meadows Park directly in front of compost pickup - seeds getting into free compost -- Joe Rushing Road off Campus Drive, SE Ft Worth"
+12127,9/16/10,PADI3,Paspalum dilatatum,5,Cross Timbers Invaders,75,32.673118,-97.290818,,,Roadside,Polygon,Common,Yes,Travis Gallo,9/23/10,"Tree farm entrance in Rolling Meadows Park just north of compost pickup - seeds getting into free compost -- Joe Rushing Road off Campus Drive, SE Ft Worth"
+12137,9/17/10,PADI3,Paspalum dilatatum,5,Cross Timbers Invaders,75,32.44491,-97.7872,,,Other,Linear,Common,Yes,Travis Gallo,9/30/10,"Granbury Riverwalk at FM4/Houston St, at bridge across river.  Walk runs under bridge, partially landscaped, partially wild along river edge."
+12174,9/21/10,PADI3,Paspalum dilatatum,5,Piney Wood Lakes,1102,30.871389,-95.213611,,,Roadside,Linear,Common,Yes,Travis Gallo,10/6/10,On north side of Harts Creek Road
+12179,9/21/10,PADI3,Paspalum dilatatum,5,Piney Wood Lakes,1102,30.869722,-95.2175,,,Roadside,Linear,Common,Yes,Travis Gallo,10/6/10,On north side of Harts Creek Road
+12181,9/21/10,PADI3,Paspalum dilatatum,5,Piney Wood Lakes,1102,30.866944,-95.218611,,,Roadside,Linear,Common,Yes,Travis Gallo,10/6/10,On north side of Harts Creek Road
+12182,9/21/10,PADI3,Paspalum dilatatum,5,Piney Wood Lakes,1102,30.865,-95.220278,,,Roadside,Linear,Common,Yes,Travis Gallo,10/6/10,On north side of Harts Creek Road
+12184,9/21/10,PADI3,Paspalum dilatatum,5,Piney Wood Lakes,1102,30.86444,-95.220556,,,Roadside,Linear,Common,Yes,Travis Gallo,10/6/10,On north side of Harts Creek Road
+12191,9/21/10,PADI3,Paspalum dilatatum,5,Piney Wood Lakes,1102,30.865104,-95.219826,,,Roadside,Linear,Common,Yes,Travis Gallo,10/6/10,On south side of Harts Creek Road
+12193,9/21/10,PADI3,Paspalum dilatatum,5,Piney Wood Lakes,1102,30.866941,-95.218533,,,Roadside,Linear,Common,Yes,Travis Gallo,10/6/10,On south side of Harts Creek Road
+12194,9/21/10,PADI3,Paspalum dilatatum,5,Piney Wood Lakes,1102,30.8675,-95.218333,,,Cropland,Linear,Common,Yes,Travis Gallo,10/6/10,On south side of Harts Creek Road
+12195,9/21/10,PADI3,Paspalum dilatatum,5,Piney Wood Lakes,1102,30.868323,-95.217921,,,Roadside,Linear,Common,Yes,Travis Gallo,10/6/10,On south side of Harts Creek Road
+12197,9/21/10,PADI3,Paspalum dilatatum,5,Piney Wood Lakes,1102,30.870008,-95.217116,,,Roadside,Linear,Common,Yes,Travis Gallo,10/6/10,On south side of Harts Creek Road
+12200,9/21/10,PADI3,Paspalum dilatatum,5,Piney Wood Lakes,1102,30.871111,-95.214167,,,Roadside,Linear,Common,Yes,Travis Gallo,10/6/10,On south side of Harts Creek Road
+12254,9/22/10,PADI3,Paspalum dilatatum,5,Piney Wood Lakes,1102,30.872582,-95.206554,,,Roadside,Linear,Common,Yes,Travis Gallo,10/7/10,On east side of FM 356
+12259,9/22/10,PADI3,Paspalum dilatatum,5,Piney Wood Lakes,1102,30.865,-95.198333,,,Roadside,Linear,Common,Yes,Travis Gallo,10/7/10,On east side of FM 356
+12265,9/22/10,PADI3,Paspalum dilatatum,5,Piney Wood Lakes,1102,30.86282,-95.19568,,,Roadside,Linear,Common,Yes,Travis Gallo,10/7/10,On east side of FM 356
+12268,9/22/10,PADI3,Paspalum dilatatum,5,Piney Wood Lakes,1102,30.860099,-95.192429,,,Roadside,Linear,Common,Yes,Travis Gallo,10/7/10,On east side of FM 356
+12272,9/22/10,PADI3,Paspalum dilatatum,5,Piney Wood Lakes,1102,30.854817,-95.18603,,,Roadside,Linear,Common,Yes,Travis Gallo,10/7/10,On east side of FM 356
+12273,9/22/10,PADI3,Paspalum dilatatum,5,Piney Wood Lakes,1102,30.852054,-95.182725,,,Roadside,Linear,Common,Yes,Travis Gallo,10/7/10,On east side of FM 356
+12277,9/22/10,PADI3,Paspalum dilatatum,5,Piney Wood Lakes,1102,30.849544,-95.179689,,,Roadside,Linear,Common,Yes,Travis Gallo,10/7/10,On east side of FM 356
+12282,9/22/10,PADI3,Paspalum dilatatum,5,Piney Wood Lakes,1102,30.848889,-95.179167,,,Roadside,Linear,Common,Yes,Travis Gallo,10/7/10,On west side of FM 356
+12293,9/22/10,PADI3,Paspalum dilatatum,5,Piney Wood Lakes,1102,30.859385,-95.191813,,,Roadside,Linear,Common,Yes,Travis Gallo,10/7/10,On west side of FM 356
+12300,9/22/10,PADI3,Paspalum dilatatum,5,Piney Wood Lakes,1102,30.863611,-95.196944,,,Roadside,Linear,Common,Yes,Travis Gallo,10/7/10,On west side of FM 356
+12358,9/27/10,PADI3,Paspalum dilatatum,5,City of Austin PARD,1011,30.2888,-97.52698,,,None,Polygon,Common,Yes,Travis Gallo,10/7/10,Travis County Metropolitan Park
+13106,9/29/10,PADI3,Paspalum dilatatum,5,Cross Timbers Invaders,75,31.735977,-95.636483,,,Roadside,Linear,Common,Yes,Travis Gallo,1/24/11,"Palestine, TX, 256 & WillowCreek Parkway.  On bank of drainage ditch along east side of parkway.  Many invasives in this plant community."
+13122,9/29/10,PADI3,Paspalum dilatatum,5,Cross Timbers Invaders,75,31.7123031,-95.707677,,,Roadside,Linear,Common,Yes,Travis Gallo,1/24/11,"SW of Palestine, TX, along Rt84/79/Oak St. Along roadside. NE of FM645 by ETA store.  Along roadside curb."
+12411,10/10/10,PADI3,Paspalum dilatatum,5,Piney Wood Lakes,1102,30.45024602,-99.79975104,,,Other,Point,Rare,Yes,Travis Gallo,11/1/10,On south end of Buck Lake in South Llano River State Park
+12431,10/11/10,PADI3,Paspalum dilatatum,5,Piney Wood Lakes,1102,29.602222,-99.738056,,,Other,Polygon,Rare,Yes,Travis Gallo,10/20/10,By campsite 345 in Garner State Park
+12437,10/11/10,PADI3,Paspalum dilatatum,5,Piney Wood Lakes,1102,29.707335,-99.762962,,,Roadside,Linear,Rare,Yes,Travis Gallo,10/20/10,On east side of Hwy 83 in Leakey
+12455,10/14/10,PADI3,Paspalum dilatatum,15,Piney Wood Lakes,1102,30.910988,-95.247989,,,Roadside,Linear,Common,Yes,Travis Gallo,10/20/10,On north side of FM 355
+12463,10/14/10,PADI3,Paspalum dilatatum,5,Piney Wood Lakes,1102,30.921546,-95.239722,,,Roadside,Linear,Common,Yes,Travis Gallo,10/20/10,On north side of FM 355
+12469,10/14/10,PADI3,Paspalum dilatatum,5,Piney Wood Lakes,1102,30.926944,-95.234444,,,Roadside,Linear,Common,Yes,Travis Gallo,10/20/10,On north side of FM 355
+12471,10/14/10,PADI3,Paspalum dilatatum,5,Piney Wood Lakes,1102,30.9275,-95.233611,,,Roadside,Linear,Common,Yes,Travis Gallo,10/20/10,On north side of FM 355
+12500,10/14/10,PADI3,Paspalum dilatatum,5,Piney Wood Lakes,1102,30.911218,-95.247281,,,Roadside,Linear,Common,Yes,Travis Gallo,10/20/10,On south side of FM 355
+12523,10/27/10,PADI3,Paspalum dilatatum,5,Piney Wood Lakes,1102,30.931389,-95.220833,,,Roadside,Linear,Common,Yes,Travis Gallo,11/1/10,On north side of FM 355
+12534,10/27/10,PADI3,Paspalum dilatatum,5,Piney Wood Lakes,1102,30.937222,-95.207778,,,Roadside,Linear,Common,Yes,Travis Gallo,11/1/10,On north side of FM 355
+12550,10/27/10,PADI3,Paspalum dilatatum,5,Piney Wood Lakes,1102,30.946053,-95.198658,,,Roadside,Linear,Common,Yes,Travis Gallo,11/1/10,On south side of FM 355
+12555,10/27/10,PADI3,Paspalum dilatatum,5,Piney Wood Lakes,1102,30.939167,-95.204444,,,Roadside,Linear,Common,Yes,Travis Gallo,11/1/10,On south side of FM 355
+12560,10/27/10,PADI3,Paspalum dilatatum,5,Piney Wood Lakes,1102,30.9375,-95.206389,,,Roadside,Linear,Common,Yes,Travis Gallo,11/1/10,On south side of FM 355
+12567,10/27/10,PADI3,Paspalum dilatatum,5,Piney Wood Lakes,1102,30.933889,-95.212222,,,Roadside,Linear,Common,Yes,Travis Gallo,11/1/10,On south side of FM 355
+12570,10/27/10,PADI3,Paspalum dilatatum,5,Piney Wood Lakes,1102,30.933333,-95.213333,,,Roadside,Linear,Common,Yes,Travis Gallo,11/1/10,On south side of FM 355
+12572,10/27/10,PADI3,Paspalum dilatatum,5,Piney Wood Lakes,1102,30.933056,-95.214167,,,Roadside,Linear,Common,Yes,Travis Gallo,11/1/10,On south side of FM 355
+12575,10/27/10,PADI3,Paspalum dilatatum,5,Piney Wood Lakes,1102,30.932222,-95.215833,,,Roadside,Linear,Common,Yes,Travis Gallo,11/1/10,On south side of FM 355
+12634,11/9/10,PADI3,Paspalum dilatatum,45,Piney Wood Lakes,1102,30.933151,-95.374074,,,Roadside,Linear,Common,Yes,Travis Gallo,11/29/10,On the East side of Hwy 19 in Trionity
+12640,11/9/10,PADI3,Paspalum dilatatum,5,Piney Wood Lakes,1102,30.930278,-95.373611,,,Roadside,Linear,Common,Yes,Travis Gallo,11/29/10,On the east side of Hwy 19
+12643,11/9/10,PADI3,Paspalum dilatatum,5,Piney Wood Lakes,1102,30.928889,-95.373611,,,Roadside,Linear,Common,Yes,Travis Gallo,11/29/10,On the east side of Hwy 19
+12645,11/9/10,PADI3,Paspalum dilatatum,5,Piney Wood Lakes,1102,30.927778,-95.373889,,,Roadside,Linear,Common,Yes,Travis Gallo,11/29/10,On the east side of Hwy 19
+12661,11/9/10,PADI3,Paspalum dilatatum,5,Piney Wood Lakes,1102,30.924997,-95.373881,,,Roadside,Linear,Common,Yes,Travis Gallo,11/29/10,On the east side of Hwy 19
+12671,11/9/10,PADI3,Paspalum dilatatum,5,Piney Wood Lakes,1102,30.923056,-95.374167,,,Roadside,Linear,Common,Yes,Travis Gallo,11/29/10,On the east side of Hwy 19
+12674,11/9/10,PADI3,Paspalum dilatatum,5,Piney Wood Lakes,1102,30.922659,-95.374074,,,Roadside,Linear,Common,Yes,Travis Gallo,11/29/10,On the east side of Hwy 19
+12682,11/9/10,PADI3,Paspalum dilatatum,5,Piney Wood Lakes,1102,30.918205,-95.374503,,,Cropland,Linear,Common,Yes,Travis Gallo,11/29/10,On the east side of Hwy 19
+12684,11/9/10,PADI3,Paspalum dilatatum,5,Piney Wood Lakes,1102,30.916667,-95.374722,,,Roadside,Linear,Common,Yes,Travis Gallo,11/29/10,On the east side of Hwy 19
+12687,11/9/10,PADI3,Paspalum dilatatum,5,Piney Wood Lakes,1102,30.915556,-95.374722,,,Roadside,Linear,Common,Yes,Travis Gallo,11/29/10,On the east side of Hwy 19
+12699,11/9/10,PADI3,Paspalum dilatatum,5,Piney Wood Lakes,1102,30.91,-95.375833,,,Roadside,Linear,Common,Yes,Travis Gallo,11/29/10,On the west side of Hwy 19
+12702,11/9/10,PADI3,Paspalum dilatatum,5,Piney Wood Lakes,1102,30.911111,-95.375556,,,Roadside,Linear,Common,Yes,Travis Gallo,11/29/10,On the west side of Hwy 19
+12707,11/9/10,PADI3,Paspalum dilatatum,5,Piney Wood Lakes,1102,30.912778,-95.375556,,,Roadside,Linear,Common,Yes,Travis Gallo,11/29/10,On west side of Hwy 19
+12708,11/9/10,PADI3,Paspalum dilatatum,5,Piney Wood Lakes,1102,30.913333,-95.375556,,,Roadside,Linear,Common,Yes,Travis Gallo,11/29/10,On west side of Hwy 19
+12725,11/9/10,PADI3,Paspalum dilatatum,5,Piney Wood Lakes,1102,30.920156,-95.374782,,,Roadside,Linear,Common,Yes,Travis Gallo,11/29/10,On west side of Hwy 19
+12733,11/9/10,PADI3,Paspalum dilatatum,5,Piney Wood Lakes,1102,30.927778,-95.374167,,,Roadside,Linear,Common,Yes,Travis Gallo,11/29/10,On west side of Hwy 10
+12738,11/9/10,PADI3,Paspalum dilatatum,5,Piney Wood Lakes,1102,30.93,-95.373889,,,Roadside,Linear,Common,Yes,Travis Gallo,11/29/10,On west side of Hwey 19
+12742,11/12/10,PADI3,Paspalum dilatatum,15,Piney Wood Lakes,1102,30.909167,-95.375833,,,Roadside,Linear,Common,Yes,Travis Gallo,11/29/10,On west side of Hwy 19
+12745,11/12/10,PADI3,Paspalum dilatatum,5,Piney Wood Lakes,1102,30.909444,-95.375278,,,Roadside,Linear,Common,Yes,Travis Gallo,11/29/10,On east side of Hwy 19
+12747,11/12/10,PADI3,Paspalum dilatatum,5,Piney Wood Lakes,1102,30.908611,-95.375556,,,Roadside,Linear,Common,Yes,Travis Gallo,11/29/10,On east side of Hwy 19
+12750,11/12/10,PADI3,Paspalum dilatatum,5,Piney Wood Lakes,1102,30.905833,-95.375833,,,Roadside,Linear,Common,Yes,Travis Gallo,11/29/10,On east side of Hwy 19
+12752,11/12/10,PADI3,Paspalum dilatatum,5,Piney Wood Lakes,1102,30.905,-95.375833,,,Roadside,Linear,Common,Yes,Travis Gallo,11/29/10,On east side of Hwy 19
+12753,11/12/10,PADI3,Paspalum dilatatum,5,Piney Wood Lakes,1102,30.902778,-95.376111,,,Roadside,Linear,Common,Yes,Travis Gallo,11/29/10,On east side of Hwy 19
+12755,11/12/10,PADI3,Paspalum dilatatum,5,Piney Wood Lakes,1102,30.902222,-95.376111,,,Roadside,Linear,Common,Yes,Travis Gallo,11/29/10,On east side of Hwy 19
+12757,11/12/10,PADI3,Paspalum dilatatum,5,Piney Wood Lakes,1102,30.901944,-95.376111,,,Roadside,Linear,Common,Yes,Travis Gallo,11/29/10,On east side of Hwy 19
+12760,11/12/10,PADI3,Paspalum dilatatum,5,Piney Wood Lakes,1102,30.901488,-95.376048,,,Roadside,Linear,Common,Yes,Travis Gallo,11/29/10,On east side of Hwy 19
+12762,11/12/10,PADI3,Paspalum dilatatum,5,Piney Wood Lakes,1102,30.900678,-95.376112,,,Roadside,Linear,Common,Yes,Travis Gallo,11/29/10,On east side of Hwy 19
+12768,11/12/10,PADI3,Paspalum dilatatum,5,Piney Wood Lakes,1102,30.895278,-95.376389,,,Roadside,Linear,Common,Yes,Travis Gallo,11/29/10,On east side of Hwy 19
+12775,11/12/10,PADI3,Paspalum dilatatum,5,Piney Wood Lakes,1102,30.888889,-95.376111,,,Roadside,Linear,Common,Yes,Travis Gallo,11/29/10,On east side of Hwy 19
+12777,11/12/10,PADI3,Paspalum dilatatum,5,Piney Wood Lakes,1102,30.886667,-95.376111,,,Roadside,Linear,Common,Yes,Travis Gallo,11/29/10,On east side of Hwy 19
+12808,11/12/10,PADI3,Paspalum dilatatum,5,Piney Wood Lakes,1102,30.864989,-95.394716,,,Roadside,Linear,Common,Yes,Travis Gallo,11/29/10,On west side of Hwy 19
+12818,11/12/10,PADI3,Paspalum dilatatum,5,Piney Wood Lakes,1102,30.880165,-95.378838,,,Roadside,Linear,Common,Yes,Travis Gallo,11/29/10,On west side of Hwy 19
+12831,11/12/10,PADI3,Paspalum dilatatum,5,Piney Wood Lakes,1102,30.895278,-95.376667,,,Roadside,Linear,Common,Yes,Travis Gallo,11/29/10,On west side of Hwy 19
+12833,11/12/10,PADI3,Paspalum dilatatum,5,Piney Wood Lakes,1102,30.885278,-95.376667,,,Roadside,Linear,Common,Yes,Travis Gallo,11/29/10,On west side of Hwy 19
+12868,11/15/10,PADI3,Paspalum dilatatum,15,El Camino Real Invaders,878,30.65710167,-97.03006983,,,Roadside,Linear,Common,Yes,Travis Gallo,11/29/10,Cady Road near intersection of Skyles Road
+13018,12/12/10,PADI3,Paspalum dilatatum,5,Piney Wood Lakes,1102,30.935783,-95.375597,,,Roadside,Linear,Common,Yes,Travis Gallo,1/24/11,On east side of FM 1617
+13020,12/12/10,PADI3,Paspalum dilatatum,5,Piney Wood Lakes,1102,30.935278,-95.376111,,,Roadside,Linear,Common,Yes,Travis Gallo,1/24/11,On east side of FM 1617 at junction of Pecan St.
+13028,12/12/10,PADI3,Paspalum dilatatum,5,Piney Wood Lakes,1102,30.913611,-95.375278,,,Roadside,Linear,Common,Yes,Travis Gallo,1/24/11,On east side of FM 1617
+13030,12/12/10,PADI3,Paspalum dilatatum,5,Piney Wood Lakes,1102,30.9175,-95.377778,,,Roadside,Linear,Common,Yes,Travis Gallo,1/24/11,On west side of FM 1617
+13145,12/16/10,PADI3,Paspalum dilatatum,5,Piney Wood Lakes,1102,30.898487,-95.352863,,,Roadside,Linear,Common,Yes,Marilyn Sallee,12/20/10,On east side of Pinecrest Rd. at junction of Estate Dr.
+14565,7/15/11,PADI3,Paspalum dilatatum,5,Piney Wood Lakes,1102,30.947323,-95.369847,,,Roadside,Linear,Common,Yes,Travis Gallo,7/25/11,On north side of Hwy 94 east of Emory St
+14574,7/16/11,PADI3,Paspalum dilatatum,5,Piney Wood Lakes,1102,30.949476,-95.362487,,,Roadside,Linear,Common,Yes,Travis Gallo,7/26/11,On north side of Hwy 94
+14579,7/16/11,PADI3,Paspalum dilatatum,5,Piney Wood Lakes,1102,30.95,-95.361389,,,Roadside,Linear,Common,Yes,Travis Gallo,7/26/11,On north side of Hwy 94
+14637,7/16/11,PADI3,Paspalum dilatatum,5,Piney Wood Lakes,1102,30.953333,-95.356111,,,Roadside,Linear,Common,Yes,Travis Gallo,7/25/11,On south side of Hwy 94
+14644,7/16/11,PADI3,Paspalum dilatatum,5,Piney Wood Lakes,1102,30.950278,-95.360833,,,Roadside,Linear,Common,Yes,Travis Gallo,7/25/11,On south side of Hwy 94
+14647,7/16/11,PADI3,Paspalum dilatatum,5,Piney Wood Lakes,1102,30.949722,-95.361667,,,Roadside,Linear,Common,Yes,Travis Gallo,7/25/11,On south side of Hwy 94
+14649,7/16/11,PADI3,Paspalum dilatatum,5,Piney Wood Lakes,1102,30.948611,-95.363337,,,Roadside,Linear,Common,Yes,Travis Gallo,7/25/11,On south side of Hwy 94
+14662,7/21/11,PADI3,Paspalum dilatatum,5,Piney Wood Lakes,1102,30.968865,-95.332419,,,Roadside,Linear,Common,Yes,Travis Gallo,7/26/11,On south side of Hwy 94 east of boat ramp
+14679,7/21/11,PADI3,Paspalum dilatatum,5,Piney Wood Lakes,1102,30.971667,-95.328335,,,Roadside,Linear,Common,Yes,Travis Gallo,7/26/11,On south side of Hwy 94
+14680,7/21/11,PADI3,Paspalum dilatatum,5,Piney Wood Lakes,1102,30.972222,-95.3275,,,Roadside,Linear,Common,Yes,Travis Gallo,7/26/11,On south side of Hwy 94
+14690,7/21/11,PADI3,Paspalum dilatatum,5,Piney Wood Lakes,1102,30.9725,-95.326944,,,Roadside,Linear,Common,Yes,Travis Gallo,7/26/11,On south side of Hwy 94 south of FM 3188
+14758,7/22/11,PADI3,Paspalum dilatatum,5,Piney Wood Lakes,1102,30.961389,-95.343889,,,Roadside,Linear,Common,Yes,Travis Gallo,7/26/11,On south side of Hwy 94
+14761,7/22/11,PADI3,Paspalum dilatatum,5,Piney Wood Lakes,1102,30.958962,-95.347622,,,Roadside,Linear,Common,Yes,Travis Gallo,7/26/11,On south side of Hwy 94
+14771,7/22/11,PADI3,Paspalum dilatatum,5,Piney Wood Lakes,1102,30.960756,-95.345149,,,Roadside,Linear,Common,Yes,Travis Gallo,7/26/11,On north side of Hwy 94
+14797,8/1/11,PADI3,Paspalum dilatatum,5,Hays County Invaders,1318,29.89398,-97.92769,,,Other,Polygon,Common,Yes,Travis Gallo,8/25/11,large patch along Sink Creek on the TSU golf course in San Marcos.
+14983,10/9/11,PADI3,Paspalum dilatatum,5,Piney Wood Lakes,1102,30.972955,-95.325,,,Roadside,Polygon,Common,Yes,Travis Gallo,10/26/11,On south side of Fm 3188
+15066,10/12/11,PADI3,Paspalum dilatatum,5,Piney Wood Lakes,1102,30.969722,-95.320556,,,Roadside,Polygon,Common,Yes,Travis Gallo,10/26/11,On north side of Fm 3188
+15072,10/13/11,PADI3,Paspalum dilatatum,5,Piney Wood Lakes,1102,30.969063,-95.319614,,,Roadside,Polygon,Common,Yes,Travis Gallo,10/26/11,On north side of Fm 3188
+15121,10/13/11,PADI3,Paspalum dilatatum,5,Piney Wood Lakes,1102,30.962243,-95.31189,,,Roadside,Polygon,Common,Yes,Travis Gallo,10/26/11,On north side of FM 3188
+15122,10/13/11,PADI3,Paspalum dilatatum,5,Piney Wood Lakes,1102,30.9625,-95.311944,,,Roadside,Polygon,Common,Yes,Travis Gallo,10/26/11,On north side of FM 3188
+15165,10/14/11,PADI3,Paspalum dilatatum,5,Piney Wood Lakes,1102,30.97,-95.321111,,,Roadside,Polygon,Common,Yes,Travis Gallo,10/26/11,On south side of FM 3188
+15256,10/17/11,PADI3,Paspalum dilatatum,5,Piney Wood Lakes,1102,30.953889,-95.298333,,,Roadside,Polygon,Select Abundance,Yes,Travis Gallo,11/21/11,On south side of FM 3188
+15263,10/17/11,PADI3,Paspalum dilatatum,5,Piney Wood Lakes,1102,30.954089,-95.298221,,,Roadside,Polygon,Common,Yes,Travis Gallo,11/21/11,On north side of FM 3188
+15266,10/18/11,PADI3,Paspalum dilatatum,5,Piney Wood Lakes,1102,30.954049,-95.299155,,,Roadside,Polygon,Common,Yes,Travis Gallo,11/23/11,On north side of FM 3188
+15270,10/18/11,PADI3,Paspalum dilatatum,5,Piney Wood Lakes,1102,30.954049,-95.299734,,,Roadside,Polygon,Common,Yes,Travis Gallo,11/23/11,On north side of FM 3188
+15272,10/18/11,PADI3,Paspalum dilatatum,5,Piney Wood Lakes,1102,30.954113,-95.300024,,,Roadside,Polygon,Common,Yes,Travis Gallo,11/23/11,On north side of FM 3188
+15527,10/20/11,PADI3,Paspalum dilatatum,15,Cross Timbers Invaders,763,32.70562558,-97.32419953,,,Roadside,Point,Common,Yes,Travis Gallo,11/23/11,little spots of dallisgrass in mown area near sidewalk and Stuart Drive (running under railroad underpass at Berry between I-35 and Hemphill.
+15377,10/23/11,PADI3,Paspalum dilatatum,5,Piney Wood Lakes,1102,30.951944,-95.29,,,Roadside,Polygon,Common,Yes,Travis Gallo,12/1/11,On north side of FM 3188
+15381,10/23/11,PADI3,Paspalum dilatatum,5,Piney Wood Lakes,1102,30.951667,-95.289722,,,Roadside,Polygon,Common,Yes,Travis Gallo,12/1/11,On north side of FM 3188
+15390,10/24/11,PADI3,Paspalum dilatatum,5,Piney Wood Lakes,1102,30.951003,-95.288372,,,Roadside,Polygon,Common,Yes,Travis Gallo,11/30/11,On north side of FM 3188
+15422,10/24/11,PADI3,Paspalum dilatatum,5,Piney Wood Lakes,1102,30.950278,-95.286111,,,Roadside,Polygon,Common,Yes,Travis Gallo,11/30/11,On south side of FM 3188
+15429,10/24/11,PADI3,Paspalum dilatatum,5,Piney Wood Lakes,1102,30.950556,-95.286389,,,Roadside,Polygon,Common,Yes,Travis Gallo,11/30/11,On south side of Fm 3188
+15442,10/24/11,PADI3,Paspalum dilatatum,5,Piney Wood Lakes,1102,30.951923,-95.290389,,,Roadside,Polygon,Common,Yes,Travis Gallo,12/1/11,On south side of FM 3188
+15450,10/25/11,PADI3,Paspalum dilatatum,5,Piney Wood Lakes,1102,30.953889,-95.293337,,,Roadside,Polygon,Common,Yes,Travis Gallo,11/30/11,On south side of FM 3188
+15828,4/18/12,PADI3,Paspalum dilatatum,5,Piney Wood Lakes,1102,30.944875,-95.277579,,m,Roadside,Linear,Common,Yes,JDS,5/8/12,On north side of FM 3188
+15829,4/18/12,PADI3,Paspalum dilatatum,5,Piney Wood Lakes,1102,30.945133,-95.271635,,m,Roadside,Linear,Common,Yes,JDS,5/8/12,On north side of FM 3188
+15937,5/14/12,PADI3,Paspalum dilatatum,5,Piney Wood Lakes,1102,31.007222,-95.303333,3,m,Roadside,Linear,Common,Yes,JDS,5/15/12,On west side of Hwy 94
+15939,5/14/12,PADI3,Paspalum dilatatum,5,Piney Wood Lakes,1102,31.008611,-95.302778,3,m,Roadside,Linear,Common,Yes,JDS,5/15/12,On west side of Hwy 94
+15941,5/14/12,PADI3,Paspalum dilatatum,5,Piney Wood Lakes,1102,31.010278,-95.301944,3,m,Roadside,Linear,Common,Yes,JDS,5/15/12,On west side of Hwy 94
+15966,5/14/12,PADI3,Paspalum dilatatum,5,Piney Wood Lakes,1102,31.0175,-95.301389,3,m,Roadside,Linear,Common,Yes,JDS,5/15/12,On east side of Hwy 94
+15971,5/14/12,PADI3,Paspalum dilatatum,5,Piney Wood Lakes,1102,31.017339,-95.301676,3,m,Roadside,Linear,Common,Yes,JDS,5/15/12,On east side of Hwy 94
+15973,5/14/12,PADI3,Paspalum dilatatum,5,Piney Wood Lakes,1102,31.016897,-95.301676,3,m,Roadside,Linear,Common,Yes,JDS,5/15/12,On east side of Hwy 94
+15977,5/14/12,PADI3,Paspalum dilatatum,5,Piney Wood Lakes,1102,31.010556,-95.302222,3,m,Roadside,Linear,Common,Yes,JDS,5/15/12,On east side of Hwy 94
+15985,5/14/12,PADI3,Paspalum dilatatum,5,Piney Wood Lakes,1102,31.009167,-95.303778,3,m,Roadside,Linear,Common,Yes,JDS,5/15/12,On east side of Hwy 94
+15990,5/14/12,PADI3,Paspalum dilatatum,5,Piney Wood Lakes,1102,31.008401,-95.303044,3,m,Roadside,Linear,Common,Yes,JDS,5/15/12,On east side of Hwy 94
+15991,5/14/12,PADI3,Paspalum dilatatum,5,Piney Wood Lakes,1102,31.007776,-95.303435,3,m,Roadside,Linear,Common,Yes,JDS,5/15/12,On east side of Hwy 94
+16797,10/23/12,PADI3,Paspalum dilatatum,5,Piney Wood Lakes,1102,30.857216,-95.39993,9,f,Roadside,Linear,Common,Yes,PA Turner,11/28/12,On south side of Hwy 19 in Riverside
+16801,10/23/12,PADI3,Paspalum dilatatum,5,Piney Wood Lakes,1102,30.857041,-95.400041,9,f,Roadside,Linear,Common,Yes,PA Turner,11/28/12,On south side of Hwy 19 in Riverside
+16804,10/23/12,PADI3,Paspalum dilatatum,5,Piney Wood Lakes,1102,30.856802,-95.400381,9,f,Roadside,Polygon,Common,Yes,PA Turner,11/28/12,On south side of Hwy 19 in Riverside
+16807,10/23/12,PADI3,Paspalum dilatatum,5,Piney Wood Lakes,1102,30.8567,-95.400381,9,f,Roadside,Linear,Common,Yes,PA Turner,11/28/12,On south side of Hwy 19 in Riverside
+16810,10/23/12,PADI3,Paspalum dilatatum,5,Piney Wood Lakes,1102,30.856544,-95.400488,9,f,Roadside,Linear,Common,Yes,PA Turner,11/28/12,On south side of Hwy 19 in Riverside
+16813,10/23/12,PADI3,Paspalum dilatatum,5,Piney Wood Lakes,1102,30.856277,-95.400714,9,f,Roadside,Linear,Common,Yes,PA Turner,11/28/12,In south side of Hwy 19 in Riverside
+16817,10/23/12,PADI3,Paspalum dilatatum,5,Piney Wood Lakes,1102,30.856083,-95.400864,9,f,Roadside,Polygon,Common,Yes,PA Turner,11/28/12,On south side of Hwy 19 in Riverside
+16826,10/23/12,PADI3,Paspalum dilatatum,5,Piney Wood Lakes,1102,30.854748,-95.401829,9,f,Roadside,Linear,Common,Yes,PA Turner,11/28/12,On south side of Hwy 19 in Riverside
+16834,10/23/12,PADI3,Paspalum dilatatum,5,Piney Wood Lakes,1102,30.853569,-95.403214,9,f,Roadside,Polygon,Common,Yes,PA Turner,11/27/12,On north side of Hwy 19 in Riverside
+16836,10/23/12,PADI3,Paspalum dilatatum,5,Piney Wood Lakes,1102,30.853974,-95.402913,9,f,Roadside,Linear,Common,Yes,PA Turner,11/27/12,On north side of Hwy 19 in Riverside
+16840,10/23/12,PADI3,Paspalum dilatatum,5,Piney Wood Lakes,1102,30.854389,-95.402666,9,f,Roadside,Polygon,Common,Yes,PA Turner,11/9/12,On north side of Hwy 19 in Riverside
+16846,10/23/12,PADI3,Paspalum dilatatum,5,Piney Wood Lakes,1102,30.855181,-95.402023,9,f,Roadside,Polygon,Common,Yes,PA Turner,11/9/12,On north side of Hwy 19 in Riverside
+16860,10/23/12,PADI3,Paspalum dilatatum,5,Piney Wood Lakes,1102,30.858358,-95.399802,9,f,Roadside,Polygon,Common,Yes,PA Turner,11/9/12,On north side of Hwy 19 in Riverside
+16895,10/24/12,PADI3,Paspalum dilatatum,5,Piney Wood Lakes,1102,30.852987,-95.403947,8,f,Roadside,Polygon,Common,Yes,PA Turner,11/27/12,On west side of Hwy 19 and junction of FM 980 in Riverside
+16921,10/25/12,PADI3,Paspalum dilatatum,5,Piney Wood Lakes,1102,30.848606,-95.407154,8,f,Roadside,Polygon,Common,Yes,PA Turner,11/16/12,On west side of Hwy19 in Riverside
+16922,10/25/12,PADI3,Paspalum dilatatum,5,Piney Wood Lakes,1102,30.847309,-95.408084,8,f,Roadside,Linear,Common,Yes,PA Turner,11/16/12,On west side of Hwy19 in Riverside
+16930,10/25/12,PADI3,Paspalum dilatatum,5,Piney Wood Lakes,1102,30.846875,-95.408939,8,f,Roadside,Polygon,Common,Yes,PA Turner,11/16/12,On west side of Hwy19 in Riverside
+16936,10/25/12,PADI3,Paspalum dilatatum,5,Piney Wood Lakes,1102,30.84569,-95.409577,8,f,Roadside,Polygon,Common,Yes,PA Turner,11/16/12,On west side of Hwy19 in Riverside
+16941,10/25/12,PADI3,Paspalum dilatatum,5,Piney Wood Lakes,1102,30.844621,-95.410536,8,f,Roadside,Linear,Common,Yes,PA Turner,11/16/12,On west side of Hwy19 in Riverside
+16943,10/25/12,PADI3,Paspalum dilatatum,5,Piney Wood Lakes,1102,30.843206,-95.411674,8,f,Roadside,Polygon,Common,Yes,PA Turner,11/16/12,On west side of Hwy19 in Riverside
+16950,10/25/12,PADI3,Paspalum dilatatum,5,Piney Wood Lakes,1102,30.840542,-95.413826,8,f,Roadside,Point,Common,Yes,PA Turner,11/16/12,On west side of Hwy19 in Riverside
+16954,10/25/12,PADI3,Paspalum dilatatum,5,Piney Wood Lakes,1102,30.838436,-95.415131,8,f,Roadside,Linear,Common,Yes,PA Turner,11/16/12,On east side of Hwy19 in Riverside
+16955,10/25/12,PADI3,Paspalum dilatatum,5,Piney Wood Lakes,1102,30.838902,-95.414781,8,f,Roadside,Linear,Common,Yes,PA Turner,11/16/12,On east side of Hwy19 in Riverside
+16959,10/25/12,PADI3,Paspalum dilatatum,5,Piney Wood Lakes,1102,30.840232,-95.413707,8,f,Roadside,Polygon,Common,Yes,PA Turner,11/16/12,On east side of Hwy19 in Riverside
+16962,10/25/12,PADI3,Paspalum dilatatum,5,Piney Wood Lakes,1102,30.840666,-95.413342,8,f,Roadside,Polygon,Common,Yes,PA Turner,11/16/12,Oneast side of Hwy19 in Riverside
+16966,10/25/12,PADI3,Paspalum dilatatum,5,Piney Wood Lakes,1102,30.842829,-95.411506,8,f,Roadside,Polygon,Common,Yes,PA Turner,11/27/12,On east side of Hwy19 in Riverside
+16971,10/25/12,PADI3,Paspalum dilatatum,5,Piney Wood Lakes,1102,30.843492,-95.411002,8,f,Roadside,Polygon,Common,Yes,PA Turner,11/27/12,On east side of Hwy19 in Riverside
+16974,10/25/12,PADI3,Paspalum dilatatum,5,Piney Wood Lakes,1102,30.844334,-95.410294,8,f,Roadside,Polygon,Common,Yes,PA Turner,11/27/12,On east side of Hwy19 in Riverside
+17031,11/6/12,PADI3,Paspalum dilatatum,5,Piney Wood Lakes,1102,30.912943,-95.293861,8,f,Roadside,Polygon,Common,Yes,PA Turner,11/9/12,On west side of Lakewood Dr in Lakewood subdivision
+17555,7/4/13,PADI3,Paspalum dilatatum,15,Walnut Creek Wild,1440,30.3967134,-97.68381117,10,m,Flood,Point,Rare,Yes,Kathryn D'Amico,7/29/13,
+17556,7/4/13,PADI3,Paspalum dilatatum,15,Walnut Creek Wild,1440,30.39574315,-97.68452179,10,m,Flood,Point,Rare,Yes,Kathryn D'Amico,7/29/13,At edge of main trail and creek on on-leash bank
+17578,7/23/13,PADI3,Paspalum dilatatum,5,Voyager,2055,30.27384892,-97.73810929,9,m,Other,Polygon,Common,Yes,Kathryn D'Amico,7/29/13,"San Jacinto, between 12th & 13th Streets, east side of State Archives."
+17612,7/30/13,PADI3,Paspalum dilatatum,5,Piney Wood Lakes,1102,30.918279,-95.297947,6,f,Roadside,Linear,Common,Yes,,8/14/13,On south side of FM 356
+17614,7/30/13,PADI3,Paspalum dilatatum,5,Piney Wood Lakes,1102,30.918457,-95.29864,6,f,Roadside,Linear,Common,Yes,Kathryn D'Amico,8/14/13,On south side of FM 356
+17626,7/30/13,PADI3,Paspalum dilatatum,5,Piney Wood Lakes,1102,30.919608,-95.306591,6,f,Roadside,Linear,Common,Yes,Kathryn D'Amico,8/14/13,On south side of FM356
+17627,7/30/13,PADI3,Paspalum dilatatum,5,Piney Wood Lakes,1102,30.919728,-95.306835,6,f,Roadside,Linear,Common,Yes,Kathryn D'Amico,8/14/13,On south side of FM 356
+17630,7/30/13,PADI3,Paspalum dilatatum,5,Piney Wood Lakes,1102,30.91989,-95.307469,6,f,Roadside,Linear,Common,Yes,Kathryn D'Amico,8/14/13,On south side of FM 356
+17634,7/30/13,PADI3,Paspalum dilatatum,5,Piney Wood Lakes,1102,30.920296,-95.308882,6,f,Roadside,Linear,Common,Yes,Kathryn D'Amico,8/14/13,On south side of FM 356
+17637,7/30/13,PADI3,Paspalum dilatatum,5,Piney Wood Lakes,1102,30.920552,-95.30942,6,f,Roadside,Linear,Common,Yes,Kathryn D'Amico,8/14/13,On south side of FM 356
+17639,7/30/13,PADI3,Paspalum dilatatum,5,Piney Wood Lakes,1102,30.920939,-95.310019,6,f,Roadside,Linear,Common,Yes,Kathryn D'Amico,8/14/13,On south side of FM 356
+17642,7/30/13,PADI3,Paspalum dilatatum,5,Piney Wood Lakes,1102,30.921166,-95.310472,6,f,Roadside,Linear,Common,Yes,Kathryn D'Amico,8/14/13,On south side of FM 356
+17651,7/30/13,PADI3,Paspalum dilatatum,5,Piney Wood Lakes,1102,30.922327,-95.313204,6,f,Roadside,Linear,Common,Yes,Kathryn D'Amico,8/14/13,ON south side of FM 356
+17652,7/30/13,PADI3,Paspalum dilatatum,5,Piney Wood Lakes,1102,30.922327,-95.313204,6,f,Roadside,Linear,Common,Yes,Kathryn D'Amico,8/14/13,On south side of FM 356
+17653,7/30/13,PADI3,Paspalum dilatatum,5,Piney Wood Lakes,1102,30.922327,-95.313204,6,f,Cropland,Linear,Common,Yes,Kathryn D'Amico,8/14/13,On south side of FM 356
+17673,7/30/13,PADI3,Paspalum dilatatum,5,Piney Wood Lakes,1102,30.917837,-95.296143,6,f,Roadside,Linear,Common,Yes,Kathryn D'Amico,8/14/13,On north side of FM 356
+17686,7/31/13,PADI3,Paspalum dilatatum,5,Piney Wood Lakes,1102,30.919745,-95.306542,6,f,Roadside,Linear,Common,Yes,Kathryn D'Amico,8/14/13,On north side of FM 356
+17687,7/31/13,PADI3,Paspalum dilatatum,5,Piney Wood Lakes,1102,30.920325,-95.308554,6,f,Roadside,Linear,Common,Yes,Kathryn D'Amico,8/14/13,On north side of FM 356
+17691,7/31/13,PADI3,Paspalum dilatatum,5,Piney Wood Lakes,1102,30.92196,-95.311377,6,f,Roadside,Linear,Common,Yes,Kathryn D'Amico,8/14/13,On north side of FM 356
+17694,7/31/13,PADI3,Paspalum dilatatum,5,Piney Wood Lakes,1102,30.92224,-95.311812,6,f,Roadside,Linear,Common,Yes,Kathryn D'Amico,8/14/13,On north side of FM 356
+17695,7/31/13,PADI3,Paspalum dilatatum,5,Piney Wood Lakes,1102,30.922455,-95.314243,6,f,Roadside,Linear,Common,Yes,Kathryn D'Amico,8/14/13,On north side of FM 356
+17699,7/31/13,PADI3,Paspalum dilatatum,5,Piney Wood Lakes,1102,30.922387,-95.315017,6,f,Roadside,Linear,Common,Yes,Kathryn D'Amico,8/14/13,On north side of FM 356
+18074,8/31/13,PADI3,Paspalum dilatatum,15,Voyager,2089,30.40814982,-97.75455375,5,m,None,Polygon,Common,Yes,Kathryn D'Amico,10/10/13,City of Austin Invasive Plant Monitoring. Great Hills Park.  Common in clearing.
+18260,10/26/13,PADI3,Paspalum dilatatum,10,Walnut Creek Wild,1440,30.30399781,-97.71023395,5,m,Roadside,Linear,Rare,Yes,Kathryn D'Amico,11/8/13,Small patches Scattered along the south side of the crushed granite path.
+18262,10/26/13,PADI3,Paspalum dilatatum,15,Walnut Creek Wild,1440,30.30313812,-97.70948242,5,m,Cleared brush,Point,Rare,Yes,Kathryn D'Amico,11/8/13,Another of those widely scattered patches.
+18267,10/26/13,PADI3,Paspalum dilatatum,10,Walnut Creek Wild,1440,30.30111339,-97.70874021,5,m,Cleared brush,Point,Rare,Yes,Kathryn D'Amico,11/8/13,Another of the widely scattered patches.
+18280,10/26/13,PADI3,Paspalum dilatatum,15,Walnut Creek Wild,1440,30.3001141,-97.70897012,5,m,Cleared brush,Point,Rare,Yes,Kathryn D'Amico,11/8/13,Occasional patches in area south of paved walk.
+22549,12/7/15,PADI3,Paspalum dilatatum,5,Voyager,3028,32.76040844,-98.90754037,0,m,Other,Linear,Rare,Yes,TNL,12/10/15,"Around a greenhouse, crummy rocky soil."

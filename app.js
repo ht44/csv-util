@@ -1,5 +1,4 @@
-//
-'use strict';
+//'use strict';
 const fs = require('fs');
 
 fs.readdir('./csv_files', 'utf8', (err, files) => {
