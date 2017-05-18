@@ -1,0 +1,177 @@
+Invaders of Texas,,,,,,,,,,,,,,,,,
+www.texasinvasives.org,,,,,,,,,,,,,,,,,
+Exported: 2017-05-17 16:34 ,,,,,,,,,,,,,,,,,
+Obs_ID,Date,USDA,Species,Time_Spent,Satellite,Collector,Lat,Long,Location_Error,Loc_Err_Units, Disturbance,Patch_Type,Abundance,Validated,Valid_Name,Valid_Date,Notes
+475,9/1/06,PICH4,Pistacia chinensis,90,Hill Country Invaders,117,30.0136,-99.19437,,,Cleared brush,Point,Rare,Yes,Phyllis Muska,9/10/06,
+,"From intersection of Landmark Rd and Honor Rd, 25 m south on right side of Honor.",,,,,,,,,,,,,,,,
+488,9/11/06,PICH4,Pistacia chinensis,120,Hill Country Invaders,117,30.04856,-99.15195,,,Flood,Point,Rare,Yes,Phyllis Muska,9/12/06,
+,"Francisco Lemos Rd, between Thompson Dr and low water crossing.",,,,,,,,,,,,,,,,
+495,9/11/06,PICH4,Pistacia chinensis,60,Hill Country Invaders,117,30.04824,-99.14392,,,None,Point,Rare,Yes,Phyllis Muska,9/12/06,
+,Around the edges of Butt-Holdsworth Library upper parking lot.,,,,,,,,,,,,,,,,
+538,9/13/06,PICH4,Pistacia chinensis,60,Hill Country Invaders,117,30.05033,-99.14268,,,None,Point,Uncommon,Yes,Phyllis Muska,9/15/06,
+,Alley and parking area behind Radio Shack (between Main and Jefferson Sts).,,,,,,,,,,,,,,,,
+601,9/14/06,PICH4,Pistacia chinensis,10,Hill Country Invaders,133,30.01368,-99.19402,,,Other,Linear,Rare,Yes,Phyllis Muska,9/27/06,
+,"Home in The HOrizon subdivision in Kerrville, on Honor Drive",,,,,,,,,,,,,,,,
+603,9/14/06,PICH4,Pistacia chinensis,10,Hill Country Invaders,133,30.03113,-99.17331,,,Other,Point,Rare,Yes,Phyllis Muska,9/28/06,
+,"Homesite in The Horizon subdivision, Kerrville; located on Horizon Blvd.",,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+9/27: UTM Northing missing final numeral. This is necessary in order to validate.,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+9/28: Northing was missing one of the '2's - OK now - pgm,,,,,,,,,,,,,,,,,
+605,9/14/06,PICH4,Pistacia chinensis,10,Hill Country Invaders,133,30.04776,-99.15867,,,Other,Point,Uncommon,Yes,Phyllis Muska,9/27/06,
+,"Home on north side of Gus Thompson at the intersection with Sheppard Rees Road, Kerrville",,,,,,,,,,,,,,,,
+1787,12/8/07,PICH4,Pistacia chinensis,30,Cross Timbers Invaders,43,32.69027,-97.42023,,,None,Point,Common,Yes,Joe Marcus,12/10/07,
+,"6405 Country Day Trail, Ft. Worth, 76132.  Backyard.",,,,,,,,,,,,,,,,
+5200,10/19/08,PICH4,Pistacia chinensis,15,Cross Timbers Invaders,79,32.83056,-96.73356,,,Other,Point,Rare,Yes,TravisGallo,10/20/08,
+,"Located just outside of Lakewood Park to the east along abandoned railroad right-of-way, Dallas.",,,,,,,,,,,,,,,,
+5314,10/26/08,PICH4,Pistacia chinensis,5,Cross Timbers Invaders,79,32.91351,-96.77643,,,Other,Linear,Common,Yes,Travis Gallo,10/27/08,
+,"White Rock Creek Trail, south end of Anderson Bonner Park, Dallas.",,,,,,,,,,,,,,,,
+5866,11/24/08,PICH4,Pistacia chinensis,5,Highland Lake Invaders,348,30.55762,-98.30317,,,Other,Point,Rare,Yes,Travis Gallo,11/26/08,
+,"Meadowlakes Dr, Meadowlakes.  My backyard (I didn't know it was invasive!)",,,,,,,,,,,,,,,,
+8145,6/24/09,PICH4,Pistacia chinensis,60,San Antonio Invaders,331,29.61026,-98.68082,,,Cleared brush,Point,Rare,Yes,Travis Gallo,7/7/09,Eradicated 12 small specimens. Did not eradicate 30 foot specimen (10 inches in diameter)as it was located five feet over the fenceline on private property. This tree is the mother tree of numerous saplings on park property.  Also observed a row of nandina on private property at the edge of the fence. Assisted by Lonnie Shockley and Elyzabeth Earnley at Menchaca and Scenic Loop Rd.
+8150,7/1/09,PICH4,Pistacia chinensis,60,San Antonio Invaders,331,29.61038,-98.68062,,,Cleared brush,Point,Rare,Yes,Travis Gallo,7/7/09,Eradicated 1 specimen; Assisted by Lonnie Shockley and Diane Fey at Menchaca and Scenic Loop Rd.
+8167,7/8/09,PICH4,Pistacia chinensis,60,San Antonio Invaders,331,29.610424,-98.680776,,,Cleared brush,Point,Rare,Yes,Travis Gallo,8/26/09,Eradicated; Assisted by Lonnie Shockley and Patty Gaskins at Menchaca Rd. and Scenic Loop Rd.
+8286,8/11/09,PICH4,Pistacia chinensis,15,San Antonio Invaders,331,29.61024,-98.68069,,,Cleared brush,Point,Rare,Yes,Travis Gallo,8/26/09,"Eradicated 2 specimens. Assisted by Lonnie Shockley, Diane Fey, Matthew Fey, Maribel Velez, Richard Garcia, Jayne Neal and 5 college students from South America. Menchaca and Scenic Loop."
+8609,9/26/09,PICH4,Pistacia chinensis,30,City of Austin Invaders,518,30.26361,-97.77715,,,Roadside,Polygon,Common,Yes,Travis Gallo,10/30/09,"One large tree and a large patch behind it to the Northwest. We were not sure of the ID, Travis."
+8583,10/11/09,PICH4,Pistacia chinensis,5,Rolling Plains Invaders,610,33.85271,-98.54667,,,Other,Point,Common,Yes,Travis Gallo,10/30/09,Home Landscape at Joy Ct.
+8589,10/11/09,PICH4,Pistacia chinensis,5,Rolling Plains Invaders,610,33.85682,-98.49913,,,Other,Point,Common,Yes,Travis Gallo,10/30/09,Home landscape on Greenbriar
+9430,11/19/09,PICH4,Pistacia chinensis,5,High Plains Invaders,590,35.23528,-101.93971,,,None,Point,Rare,Yes,Travis Gallo,11/30/09,"On N side of Visitor Center at Wildcat Bluff Nature Center, Amarillo, TX"
+9724,12/20/09,PICH4,Pistacia chinensis,15,Stewards of Mayfield Preserve-Austin,554,30.31257,-97.77114,,,None,Point,Rare,Yes,Travis Gallo,2/2/10,"Section O, two plants, 20' and 25' tall"
+9725,12/20/09,PICH4,Pistacia chinensis,5,Stewards of Mayfield Preserve-Austin,554,30.31243,-97.7712,,,None,Point,Rare,Yes,Travis Gallo,2/2/10,"Section O, single plant 15' tall"
+9728,12/20/09,PICH4,Pistacia chinensis,15,Stewards of Mayfield Preserve-Austin,554,30.31227,-97.77164,,,None,Point,Rare,Yes,Travis Gallo,2/2/10,"Section O, single tree 20\' tall"
+9732,12/20/09,PICH4,Pistacia chinensis,5,Stewards of Mayfield Preserve-Austin,554,30.31249,-97.77175,,,None,Point,Rare,Yes,Travis Gallo,2/2/10,"Section O, two plants 1' and 3' tall"
+9735,12/20/09,PICH4,Pistacia chinensis,5,Stewards of Mayfield Preserve-Austin,554,30.31248,-97.77175,,,None,Point,Rare,Yes,Travis Gallo,2/2/10,"Section O, single plant 2\' tall"
+9738,12/20/09,PICH4,Pistacia chinensis,5,Stewards of Mayfield Preserve-Austin,554,30.31248,-97.77198,,,None,Polygon,Rare,Yes,Travis Gallo,2/2/10,"Section O, 15' polygon, seven plants 1' to 15' tall"
+9736,12/20/09,PICH4,Pistacia chinensis,5,Stewards of Mayfield Preserve-Austin,554,30.31248,-97.77185,,,None,Point,Rare,Yes,Travis Gallo,2/2/10,"Section O, single plant 6"" tall"
+9740,12/20/09,PICH4,Pistacia chinensis,5,Stewards of Mayfield Preserve-Austin,554,30.31266,-97.77203,,,None,Point,Rare,Yes,Travis Gallo,2/2/10,"Section O, two plants 4' and 8' tall"
+9741,12/20/09,PICH4,Pistacia chinensis,5,Stewards of Mayfield Preserve-Austin,554,30.31258,-97.77166,,,Other,Point,Rare,Yes,Travis Gallo,2/2/10,"Section O, disturbance is edge along parking lot or trail, single plant 4' tall"
+9744,12/20/09,PICH4,Pistacia chinensis,15,Stewards of Mayfield Preserve-Austin,554,30.31261,-97.77151,,,Other,Linear,Rare,Yes,Travis Gallo,2/2/10,"Section O, disturbance is edge along trail or parking lot, 50' long line of thirty plants from 6"" to 30' tall"
+9746,12/20/09,PICH4,Pistacia chinensis,5,Stewards of Mayfield Preserve-Austin,554,30.31208,-97.77116,,,Cleared brush,Polygon,Rare,Yes,Travis Gallo,2/2/10,"Section O, 25' polygon with six plants, heights not recorded"
+9752,12/20/09,PICH4,Pistacia chinensis,5,Stewards of Mayfield Preserve-Austin,554,30.31201,-97.77161,,,Cleared brush,Polygon,Rare,Yes,Travis Gallo,2/2/10,"Section O, 25' polygon with several plants 2' to 6' tall"
+9753,12/20/09,PICH4,Pistacia chinensis,5,Stewards of Mayfield Preserve-Austin,554,30.31204,-97.77172,,,Cleared brush,Polygon,Rare,Yes,Travis Gallo,2/2/10,"Section O, 20' polygon with four plants 3' to 6' tall"
+9754,12/20/09,PICH4,Pistacia chinensis,5,Stewards of Mayfield Preserve-Austin,554,30.31207,-97.77204,,,Cleared brush,Polygon,Rare,Yes,Travis Gallo,2/2/10,"Section O, 50' polygon with ten plants 6"" to 4' tall"
+9795,12/20/09,PICH4,Pistacia chinensis,5,Stewards of Mayfield Preserve-Austin,554,30.31232,-97.77182,,,None,Point,Rare,Yes,Travis Gallo,2/2/10,"Section O, single plant 6' tall"
+9798,12/20/09,PICH4,Pistacia chinensis,5,Stewards of Mayfield Preserve-Austin,554,30.31234,-97.77195,,,None,Point,Rare,Yes,Travis Gallo,2/2/10,"Section O, single plant 8' tall"
+9800,12/20/09,PICH4,Pistacia chinensis,5,Stewards of Mayfield Preserve-Austin,554,30.31229,-97.77098,,,None,Point,Rare,Yes,Travis Gallo,2/2/10,"Section O, single plant 7' tall"
+9802,12/20/09,PICH4,Pistacia chinensis,5,Stewards of Mayfield Preserve-Austin,554,30.31201,-97.77103,,,Cleared brush,Point,Rare,Yes,Travis Gallo,1/14/10,"Section O, two plants 30' tall "
+9756,1/9/10,PICH4,Pistacia chinensis,5,Stewards of Mayfield Preserve-Austin,554,30.31229,-97.77091,,,None,Point,Rare,Yes,Travis Gallo,2/10/10,"Section O, single plant 6' tall"
+9757,1/9/10,PICH4,Pistacia chinensis,5,Stewards of Mayfield Preserve-Austin,554,30.31225,-97.77097,,,None,Point,Rare,Yes,Travis Gallo,2/10/10,"Section O, single plant 3"" tall, removed"
+9758,1/9/10,PICH4,Pistacia chinensis,5,Stewards of Mayfield Preserve-Austin,554,30.3123,-97.77101,,,None,Point,Rare,Yes,Travis Gallo,2/10/10,"Section O, single plant 2' tall"
+9759,1/9/10,PICH4,Pistacia chinensis,5,Stewards of Mayfield Preserve-Austin,554,30.31221,-97.77106,,,Cleared brush,Polygon,Rare,Yes,Travis Gallo,2/10/10,"Section O, 3' polygon with two plants 3' and 7' tall"
+9762,1/9/10,PICH4,Pistacia chinensis,5,Stewards of Mayfield Preserve-Austin,554,30.31196,-97.77097,,,Cleared brush,Point,Rare,Yes,Travis Gallo,2/10/10,"Section O, single plant 3' tall"
+9763,1/9/10,PICH4,Pistacia chinensis,5,Stewards of Mayfield Preserve-Austin,554,30.31189,-97.77095,,,Cleared brush,Point,Rare,Yes,Travis Gallo,2/10/10,"Section O, two plants 5' and 6' tall"
+9764,1/9/10,PICH4,Pistacia chinensis,5,Stewards of Mayfield Preserve-Austin,554,30.31189,-97.77096,,,Cleared brush,Point,Rare,Yes,Travis Gallo,2/10/10,"Section O, single plant 4"" tall, sprouts growing from a cut stump"
+9766,1/9/10,PICH4,Pistacia chinensis,5,Stewards of Mayfield Preserve-Austin,554,30.31185,-97.77116,,,None,Point,Rare,Yes,Travis Gallo,2/10/10,"Section O, single plant 3' tall"
+9769,1/9/10,PICH4,Pistacia chinensis,5,Stewards of Mayfield Preserve-Austin,554,30.3118,-97.77126,,,None,Polygon,Rare,Yes,Travis Gallo,2/10/10,"Section O, 10' polygon with two plants 3' and 4' tall"
+9770,1/9/10,PICH4,Pistacia chinensis,5,Stewards of Mayfield Preserve-Austin,554,30.31216,-97.77188,,,Cleared brush,Point,Rare,Yes,Travis Gallo,2/10/10,"Section O, single plant 1' tall growing from a cut stump"
+9778,1/9/10,PICH4,Pistacia chinensis,5,Stewards of Mayfield Preserve-Austin,554,30.31202,-97.77081,,,Cleared brush,Polygon,Rare,Yes,Travis Gallo,2/10/10,"Section O, 15' polygon with three plants, no height recorded"
+9779,1/9/10,PICH4,Pistacia chinensis,5,Stewards of Mayfield Preserve-Austin,554,30.31198,-97.77108,,,Cleared brush,Point,Rare,Yes,Travis Gallo,2/10/10,"Section O, single plant 4' tall"
+9780,1/9/10,PICH4,Pistacia chinensis,5,Stewards of Mayfield Preserve-Austin,554,30.31185,-97.77113,,,None,Point,Rare,Yes,Travis Gallo,2/10/10,"Section O, single plant 2' tall, re-sprouting stump"
+9786,1/9/10,PICH4,Pistacia chinensis,5,Stewards of Mayfield Preserve-Austin,554,30.31191,-97.77151,,,Cleared brush,Point,Rare,Yes,Travis Gallo,2/10/10,"Section O, single plant 18"" tall, re-sprouting stump"
+9788,1/9/10,PICH4,Pistacia chinensis,5,Stewards of Mayfield Preserve-Austin,554,30.31193,-97.77168,,,Cleared brush,Polygon,Rare,Yes,Travis Gallo,2/10/10,"Section O, polygon size unrecorded, four plants, 3' tall"
+9791,1/9/10,PICH4,Pistacia chinensis,5,Stewards of Mayfield Preserve-Austin,554,30.31236,-97.77193,,,None,Point,Rare,Yes,Travis Gallo,2/10/10,"Section O, single plant 2' tall"
+9875,1/24/10,PICH4,Pistacia chinensis,15,Stewards of Mayfield Preserve-Austin,554,30.31148,-97.77088,,,None,Point,Common,Yes,Travis Gallo,1/27/10,"Mayfield, Area O, single plant, stump 1' tall with sprouts, SPROUTS removed"
+10372,5/1/10,PICH4,Pistacia chinensis,5,City of Austin PARD,997,30.27241,-97.77683,,,Flood,Point,Common,Yes,Travis Gallo,5/5/10,Along stream bank. Austin Nature Center Road and Stafford Drive. Id confirmed by Rene Barrera.
+10682,6/8/10,PICH4,Pistacia chinensis,60,Balcones Invaders,331,29.61042,-98.68062,,,Other,Polygon,Rare,Yes,Travis Gallo,6/10/10,Flagged three specimens; hand pulled 603 seedlings of varying sizes. Assisted by Lonnie Shockley. Menchaca and Scenic Loop Rd.
+10686,6/8/10,PICH4,Pistacia chinensis,30,Balcones Invaders,331,29.610504,-98.68066,,,Other,Polygon,Rare,Yes,Travis Gallo,6/10/10,Hand-pulled 25 seedlings of varying sizes. Assisted by Lonnie Shockley. Menchaca and Scenic Loop Rd.
+11064,7/15/10,PICH4,Pistacia chinensis,5,Piney Wood Lakes,1105,30.87844,-95.38235,,,None,Point,Rare,Yes,Travis Gallo,7/15/10,North side of house & west side of porch.  About 70' from the Trinity River.  Single tree planted to shade the porch.
+11216,7/23/10,PICH4,Pistacia chinensis,5,Pineywoods Invaders,685,30.92280671,-93.99875522,,,Other,Point,Rare,Yes,Travis Gallo,8/10/10,"South side of East Milan Street, between Zavalla and North Austin Streets in Jasper, Texas."
+13640,3/22/11,PICH4,Pistacia chinensis,90,Balcones Invaders,1136,29.61038,-98.68067,,,None,Point,Rare,Yes,Travis Gallo,4/1/11,"Four specimens eradicated.  Assisted by C. Hamilton, L. Shockley, N. Thoss, D. Harris, G. Cooper, K. Wegner, and S. Mellard.  Rancho Diana, near houses on Hilltop Dr."
+13784,3/29/11,PICH4,Pistacia chinensis,5,Balcones Invaders,541,29.60975,-98.66991,,,Other,Select Patch,Rare,Yes,Travis Gallo,4/21/11,"Eradicated 1, multi-branched specimen. Assisted by Cheryl Hamilton, David Harris, Nancy Thuss, Gail Cooper, Kermit Wegner and Brenda Holland.  Rancho Diana at  Menchaca and Scenic Loop Rd."
+14046,4/16/11,PICH4,Pistacia chinensis,5,Balcones Invaders,1378,29.54951,-98.63212,,,Other,Point,Rare,Yes,Travis Gallo,4/25/11,babcock rd and oxbow trail on leon creek greenway
+14031,4/17/11,PICH4,Pistacia chinensis,5,Balcones Invaders,1378,29.55343,-98.62927,,,Other,Point,Rare,Yes,Travis Gallo,4/25/11,babcock rd and oxbow trail on leon creek greenway
+14044,4/17/11,PICH4,Pistacia chinensis,5,Balcones Invaders,1378,29.55034,-98.63147,,,Other,Linear,Rare,Yes,Travis Gallo,4/25/11,babcock rd and  oxbow trail on leon creek greenway
+14544,7/1/11,PICH4,Pistacia chinensis,5,Blackland Prairies Invaders,1448,32.74052,-97.36257,,,None,Point,Rare,Yes,Travis Gallo,7/25/11,Existing landscape tree
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+16034,5/15/12,PICH4,Pistacia chinensis,90,Balcones Invaders,331,29.61031,-98.68073,15,f,Other,Polygon,Common,Yes,JDS,8/13/12,"Eradicated 471 seedlings by hand pulling. Assisted by K.Wegner,A.Kuentz,G.Cooper,K.Porter. Leon Creek Greenway, Access via Village Creek Tennis Court Parking Lot. "
+16232,6/14/12,PICH4,Pistacia chinensis,15,Walnut Creek Wild,1440,30.384935,-97.654846,10,f,None,Polygon,Common,Yes,JDS,10/6/12,"As you travel south on the trail that begins at the Yager entrance, you will pass a gravel trail that comes in at a 90 degree angle from the west. This pistache is in a copse that includes Ashe juniper, ligustrum, and Japanese honeysuckle. Lots to map here!"
+16231,6/14/12,PICH4,Pistacia chinensis,15,Walnut Creek Wild,1440,30.387983,-97.653697,10,f,None,Polygon,Common,Yes,JDS,10/6/12,"Almost as common as the glossy privet in this area. This specimen is along the fenceline, farther back from Yager than the first ligustrums."
+16233,6/14/12,PICH4,Pistacia chinensis,15,Walnut Creek Wild,1440,30.384981,-97.654827,10,f,None,Polygon,Common,Yes,JDS,10/6/12,"Another pistache off to your right after you pass the first gravel trail on your right proceeding south from the Yager trailhead. As with the others in this area, this seems to have sprouted from a seed planted by a bird sitting in a juniper."
+16239,6/14/12,PICH4,Pistacia chinensis,15,Walnut Creek Wild,1440,30.385214,-97.654615,10,f,None,Polygon,Common,Yes,JDS,10/6/12,"On the fenceline, mixed in with hackberries, south of the LCRA power lines and north of the first gravel trail to the right. Closer to the gravel trail than to the power lines."
+16240,6/14/12,PICH4,Pistacia chinensis,15,Walnut Creek Wild,1440,30.38536,-97.654597,3,m,Other,Polygon,Common,Yes,JDS,10/6/12,"Along the eastern fenceline of the Copperfield greenbelt, perhaps 50 feet south of the powerlines. Intermixed with hackberries."
+16245,6/14/12,PICH4,Pistacia chinensis,15,Walnut Creek Wild,1440,30.386208,-97.654275,4,m,Other,Polygon,Common,Yes,JDS,10/6/12,Another of the many individual specimens scattered along and within about 30 feet west of the eastern fenceline of Copperfield greenbelt as it runs south from the Yager trailhead.
+16247,6/14/12,PICH4,Pistacia chinensis,15,Walnut Creek Wild,1440,30.386287,-97.654251,4,m,Other,Polygon,Common,Yes,JDS,10/6/12,"A stunningly tall specimen along the eastern fenceline of the Copperfield greenbelt just north of the LCRA power lines. Unfortunately, dense hedges of honeysuckle, dewberry, and poison ivy did not permit a closer approach."
+16249,6/14/12,PICH4,Pistacia chinensis,15,Walnut Creek Wild,1440,30.386472,-97.654177,3,m,Other,Polygon,Common,Yes,JDS,10/6/12,"Another of the individuals so common along this, the eastern fenceline of the Copperfield greenbelt, north of the LCRA powerlines."
+16251,6/14/12,PICH4,Pistacia chinensis,15,Walnut Creek Wild,1440,30.386666,-97.654134,3,m,Other,Polygon,Common,Yes,JDS,10/6/12,"Another of the individuals growing along the eastern fenceline of the Copperfield greenbelt, north of the LCRA power lines and south of Yager. This particular one is at the edge of the canopy of an Ashe juniper."
+16252,6/14/12,PICH4,Pistacia chinensis,15,Walnut Creek Wild,1440,30.386847,-97.654086,4,m,Other,Polygon,Common,Yes,JDS,10/6/12,Along the eastern fenceline of Copperfield greenbelt between Yager Lane and the LCRA power lines.
+16253,6/14/12,PICH4,Pistacia chinensis,15,Walnut Creek Wild,1440,30.387208,-97.654005,3,m,Other,Polygon,Common,Yes,JDS,10/6/12,Along the eastern fenceline of the Copperfield greenbelt between Yager Lane and the LCRA power lines.
+16254,6/14/12,PICH4,Pistacia chinensis,15,Walnut Creek Wild,1440,30.387522,-97.654091,4,m,None,Polygon,Common,Yes,JDS,9/13/12,"In the Copperfield greenbelt, south of Yager, west of the trail that parallels the eastern fenceline."
+16255,6/14/12,PICH4,Pistacia chinensis,15,Walnut Creek Wild,1440,30.387562,-97.653909,4,m,Other,Polygon,Common,Yes,JDS,9/13/12,"Growing among junipers, bumelia, and hackberries between the eastern fenceline of the Copperfield greenbelt and the trail that parallels it."
+16256,6/14/12,PICH4,Pistacia chinensis,15,Walnut Creek Wild,1440,30.387595,-97.65393,4,m,Other,Polygon,Common,Yes,JDS,9/13/12,Growing from the edge of the canopy of an Ashe juniper between the eastern fenceline of the Copperfield greenbelt and the trail that parallels it.
+16257,6/14/12,PICH4,Pistacia chinensis,15,Walnut Creek Wild,1440,30.387737,-97.654001,3,m,None,Polygon,Common,Yes,Amylia Williams,9/13/12,"Nestled into the canopy of an Ashe juniper west of the path that parallels the eastern fence of the Copperfield greenbelt, about 100 feet south of the Yager trailhead."
+16440,7/22/12,PICH4,Pistacia chinensis,45,Walnut Creek Wild,1440,30.405799,-97.685808,2,m,Roadside,Point,Common,Yes,JDS,10/11/12,"One of two saplings and many seedlings in this patch of juniper, oaks, and others to the south of the intersection at the entrance to the park off Old Cedar Lane."
+16442,7/22/12,PICH4,Pistacia chinensis,5,Walnut Creek Wild,1440,30.405674,-97.685752,2,m,Other,Point,Common,Yes,JDS,10/11/12,Small sapling at the edge of the woods due south of the entrance to Walnut Creek Park from Old Cedar Lane.
+16444,7/22/12,PICH4,Pistacia chinensis,5,Walnut Creek Wild,1440,30.405676,-97.685926,1,m,Roadside,Point,Common,Yes,PA Turner,10/10/12,"An intentionally planted specimen, planted perhaps 15 to 20 years ago, to the left as you enter the park from Old Cedar Lane."
+16445,7/22/12,PICH4,Pistacia chinensis,5,Walnut Creek Wild,1440,30.405938,-97.685961,1,m,Roadside,Point,Common,Yes,JDS,10/10/12,"Another intentionally planted specimen, planted perhaps 15 to 20 years ago, when pistache was still said to not be invasive. This is the first tree on the right as you enter the park from Old Cedar Lane. Of the three trees of comparable size in this area, this seems to be the only femaleâ€”only it had berries on this mid-July day."
+16446,7/22/12,PICH4,Pistacia chinensis,5,Walnut Creek Wild,1440,30.405304,-97.686353,1,m,Roadside,Point,Common,Yes,JDS,10/10/12,A third intentionally planted specimen from 15 to 20 years ago. This is the second pistache on the right as you enter the park from Old Cedar Lane. Three clumps of juniperâ€”perhaps three individual treesâ€”are between it and the first.
+16534,7/28/12,PICH4,Pistacia chinensis,5,Walnut Creek Wild,1440,30.40269,-97.687051,2,m,Other,Point,Rare,Yes,Eric Knight,10/12/12,In grove between fence for maintenance area and path into off-leash area from parking lot for softball fields. This grove is opposite the first side path intersecting that path in.
+16537,7/28/12,PICH4,Pistacia chinensis,5,Walnut Creek Wild,1440,30.403564,-97.689024,2,m,Roadside,Point,Rare,Yes,Eric Knight,10/12/12,"West of Point Six Loop as it reconnects with Tar Branch Trail. Many other Pistacia chinensis seedlings in this line of junipers, but also many flameleaf sumacs. "
+16540,7/28/12,PICH4,Pistacia chinensis,15,Walnut Creek Wild,1440,30.403751,-97.690971,2,m,Other,Point,Rare,Yes,Eric Knight,10/12/12,"In first juniper cluster isolated from line of junipers and along northeast side of trail in this area. Note: Many soapberries, pecans, sumacs, and even walnuts in this general area."
+16588,7/29/12,PICH4,Pistacia chinensis,5,Walnut Creek Wild,1440,30.396911,-97.680886,50,m,Other,Point,Rare,Yes,Eric Knight,10/12/12,"Because of the sheer volume of other species in this area, I did not take a lot of notes. So I know that this seedling is somewhere along Severe Consequences Loopâ€”hence the error in location of 60 meters (the land within this bend of Wells Branch is roughly 100 by 125 meters). So the good news is that pistache seems to be rare here; the bad news is that we need to keep our eyes out for it as we work on removing other species."
+16621,8/11/12,PICH4,Pistacia chinensis,15,Walnut Creek Wild,1440,30.401284,-97.681853,4,m,Flood,Point,Rare,Yes,JDS,2/22/13,"Technically, they're rare, but as we continue north along Wells Branch from the park road bridge, we occasionally do encounter a seedling of Chinese pistache. Like this one, they're more common in the cedar scrub on a little higher ground rather than right down in the creek bottoms. Pulling these would be best left to an expert, though; there are also about as many seedlings of flameleaf sumac in the area."
+16624,8/11/12,PICH4,Pistacia chinensis,15,Walnut Creek Wild,1440,30.401363,-97.681895,4,m,Flood,Point,Rare,Yes,PA Turner,10/22/12,"Up here beneath the cedars, not all of the young pistache are just seedlings. Here's one that has been around a couple of years or so."
+16626,8/11/12,PICH4,Pistacia chinensis,15,Walnut Creek Wild,1440,30.401454,-97.681819,4,m,Flood,Point,Rare,Yes,Eric Knight,10/12/12,"Yes, there's nandina, but the real news down here in the creek bottoms is the pistache seedling. This might be the leading edge of a new invasion. :-/ Moving steadily upstream."
+16608,8/12/12,PICH4,Pistacia chinensis,15,Walnut Creek Wild,1440,30.402409,-97.685787,5,m,Roadside,Point,Rare,Yes,PA Turner,11/1/12,Small sapling growing at the edge of the woods along the park road in Walnut Creek Metropolitan Park. Between area cleared for volleyball or badminton court and first entrance to horseshoe-shaped parking lot for softball fields.
+16671,8/21/12,PICH4,Pistacia chinensis,15,Balcones Invaders,331,29.52245,-98.62877,11,f,Flood,Polygon,Rare,Yes,PA Turner,11/1/12,"Cut and sprayed one specimen and flagged three for later eradication. Assisted by P.York,R.Adams,K.Wegner,R.Baker,A.Kuentz. Leon Creek Greenway Mainland Trail head."
+16673,8/21/12,PICH4,Pistacia chinensis,15,Balcones Invaders,331,29.52154,-98.62896,11,f,Flood,Point,Rare,Yes,PA Turner,10/22/12,"Flagged one specimen for future eradication. Assisted by P.York,R.Adams,K.Wegner,R.Baker,A.Kuentz. Leon Creek Greenway Mainland Trail head."
+17547,6/29/13,PICH4,Pistacia chinensis,30,Walnut Creek Wild,1440,30.40109395,-97.69211286,5,m,,,,Yes,Kathryn D'Amico,7/29/13,1/2-in dbh; 7 feet tall
+17735,8/18/13,PICH4,Pistacia chinensis,15,Walnut Creek Wild,1440,30.40336293,-97.68870201,5,m,Other,Point,Rare,Yes,Kathryn D'Amico,8/26/13,
+17741,8/20/13,PICH4,Pistacia chinensis,5,Voyager,2089,30.438811,-97.811659,0,m,Other,Point,Rare,Yes,PA Turner,8/28/13,City of Austin Invasive Plant Monitoring.
+Pickfair Pocket Park. ,,,,,,,,,,,,,,,,,
+17744,8/20/13,PICH4,Pistacia chinensis,5,Voyager,2089,30.43874325,-97.81204405,10,m,Other,Point,Rare,Yes,PA Turner,8/28/13,City of Austin Invasive Plant Monitoring.
+Pickfair Pocket Park. ,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+Cultivated landscape plant.,,,,,,,,,,,,,,,,,
+18003,8/24/13,PICH4,Pistacia chinensis,15,Walnut Creek Wild,1440,30.40206482,-97.68732755,10,m,Flood,Point,Rare,Yes,PA Turner,8/28/13,One of several seedlings or root suckers in this backside of Tar Branch.
+18009,8/24/13,PICH4,Pistacia chinensis,15,Walnut Creek Wild,1440,30.40259087,-97.68840873,10,m,None,Point,Rare,Yes,PA Turner,8/28/13,One foot tall.
+18070,8/31/13,PICH4,Pistacia chinensis,15,Voyager,2089,30.4082159,-97.75442152,10,m,Other,Point,Rare,Yes,Kathryn D'Amico,9/20/13,City of Austin Invasive Plant Monitoring. Great Hills Park.
+18077,8/31/13,PICH4,Pistacia chinensis,15,Voyager,2089,30.40896844,-97.75429359,5,m,Other,Point,Common,Yes,Kathryn D'Amico,9/20/13,City of Austin Invasive Plant Monitoring. Great Hills Park.
+18079,8/31/13,PICH4,Pistacia chinensis,15,Voyager,2089,30.4090574,-97.75474771,10,m,Other,Point,Common,Yes,Kathryn D'Amico,9/20/13,City of Austin Invasive Plant Monitoring. Great Hills Park.
+18080,8/31/13,PICH4,Pistacia chinensis,15,Voyager,2089,30.4092343,-97.75435784,10,m,Other,Point,Common,Yes,Kathryn D'Amico,9/20/13,City of Austin Invasive Plant Monitoring. Great Hills Park.
+18083,8/31/13,PICH4,Pistacia chinensis,15,Voyager,2089,30.40914992,-97.7544875,10,m,Other,Point,Common,Yes,Kathryn D'Amico,9/20/13,City of Austin Invasive Plant Monitoring. Great Hills Park.
+18088,8/31/13,PICH4,Pistacia chinensis,15,Voyager,2089,30.40891919,-97.75441825,10,m,None,Point,Common,Yes,Kathryn D'Amico,9/20/13,City of Austin Invasive Plant Monitoring. Great Hills Park.
+18093,8/31/13,PICH4,Pistacia chinensis,15,Voyager,2089,30.40799391,-97.75411253,10,m,Other,Point,Common,Yes,Kathryn D'Amico,9/20/13,City of Austin Invasive Plant Monitoring. Great Hills Park.  Immature specimen growing in small clearing.
+18168,9/21/13,PICH4,Pistacia chinensis,10,Walnut Creek Wild,1440,30.39840206,-97.68140808,5,m,None,Point,Rare,Yes,Kathryn D'Amico,10/10/13,6 feet tall. Have also seen and pulled 2 seedlings today.
+18282,10/26/13,PICH4,Pistacia chinensis,15,Walnut Creek Wild,1440,30.29881838,-97.70948913,5,m,None,Point,Rare,Yes,Kathryn D'Amico,11/8/13,Sprout in flowerbed at fire station.
+18283,10/26/13,PICH4,Pistacia chinensis,15,Walnut Creek Wild,1440,30.29880552,-97.70944211,5,m,Other,Point,Rare,Yes,Kathryn D'Amico,11/8/13,Sprout in hedges at fire station 14.
+18284,10/26/13,PICH4,Pistacia chinensis,30,Walnut Creek Wild,1440,30.2985352,-97.7090288,5,m,Other,Point,Rare,Yes,Kathryn D'Amico,11/8/13,15-20 feet tall and about 25 foot spread.
+18485,12/8/13,PICH4,Pistacia chinensis,30,Walnut Creek Wild,1440,30.4048262,-97.690211,5,m,None,Point,Common,Yes,Kathryn D'Amico,12/13/13,"One of dozens of saplings, from a foot tall to 8 feet tall, seen in these juniper woods along the south bank of Tar Branch."
+18486,12/8/13,PICH4,Pistacia chinensis,30,Walnut Creek Wild,1440,30.40232173,-97.68931808,5,m,Other,Point,Rare,Yes,Kathryn D'Amico,12/13/13,8 feet tall. At the west edge of the power line right-of-way
+18637,1/19/14,PICH4,Pistacia chinensis,15,Walnut Creek Wild,1440,30.40260684,-97.6823632,5,m,None,Point,Rare,Yes,K. D'Amico,1/27/14,At edge of high bank above west side of Wells Branch. 2 inches DBH; 12-15 feet tall.
+18918,3/31/14,PICH4,Pistacia chinensis,15,Walnut Creek Wild,1440,30.4047296,-97.68572174,5,m,Cleared brush,Point,Common,Yes,JDB,4/2/14,6 feet tall. The half-inch DBH tree in the foreground. Sprouted from between another two telephone poles lying on the ground.
+18919,3/31/14,PICH4,Pistacia chinensis,15,Walnut Creek Wild,1440,30.4047161,-97.68570774,5,m,Cleared brush,Point,Common,Yes,JDB,4/2/14,"Still hasn\\\'t leafed out, but buds are just starting to break. Sprouted from between two telephone poles lying on the ground; now about 12â€“15 feet tall."
+18922,3/31/14,PICH4,Pistacia chinensis,15,Walnut Creek Wild,1440,30.40471463,-97.68571964,5,m,Cleared brush,Point,Common,Yes,JDB,4/2/14,Three-foot sapling between two telephone poles and at the end of a row of mostly invasives.
+19094,5/4/14,PICH4,Pistacia chinensis,15,Walnut Creek Wild,1440,30.40331813,-97.68869312,5,m,Other,Point,Common,Yes,JDB,5/15/14,Alongside Tar Branch Trail; lopped off just above 2 feet tall.
+19095,5/4/14,PICH4,Pistacia chinensis,10,Walnut Creek Wild,1440,30.40329394,-97.68872146,5,m,Other,Polygon,Common,Yes,JDB,5/15/14,Loose cluster of at least a dozen saplings beside Tar Branch Trail.
+19096,5/4/14,PICH4,Pistacia chinensis,15,Walnut Creek Wild,1440,30.40332051,-97.68871509,5,m,Other,Point,Common,Yes,JDB,5/10/14,Sapling about 5 feet tall alongside Tar Branch Trail.
+19097,5/4/14,PICH4,Pistacia chinensis,10,Walnut Creek Wild,1440,30.40335501,-97.68869983,5,m,None,Polygon,Common,Yes,JDB,5/10/14,More of the infestation of saplings at the woods' edge along Tar Branch Trail.
+19098,5/4/14,PICH4,Pistacia chinensis,15,Walnut Creek Wild,1440,30.40322605,-97.688671,5,m,Other,Point,Common,Yes,JDB,5/10/14,"Cluster of seedlings and saplings, this one as tall as 10 feet although less than 1 inch DBH. Alongside Tar Branch Trail. Infestation, mixed with a few flame leaf sumacs and toothache trees, extends along the edge of and back into the woods."
+19099,5/4/14,PICH4,Pistacia chinensis,30,Walnut Creek Wild,1440,30.4034773,-97.69069741,5,m,Cleared brush,Point,Common,Yes,JDB,5/10/14,Alongside maintenance area for power lines
+19100,5/4/14,PICH4,Pistacia chinensis,10,Walnut Creek Wild,1440,30.40344905,-97.6907047,5,m,Other,Point,Common,Yes,JDB,5/7/14,In right of way for power lines. Next to a slightly larger western soapberry.
+19101,5/4/14,PICH4,Pistacia chinensis,15,Walnut Creek Wild,1440,30.40250181,-97.68956317,5,m,Other,Polygon,Common,Yes,JDB,5/7/14,Cluster of saplings alongside the power line right of way.
+19389,6/20/14,PICH4,Pistacia chinensis,5,Balcones Invaders,1379,29.677438,-98.472118,10,f,Graded,Point,Common,Yes,JDB,7/8/14,Behind my house at the edge of the 11th fairway of Canyon Springs Golf course.
+19532,7/6/14,PICH4,Pistacia chinensis,5,Cypress Basin Invaders,2420,32.75373336,-94.34479237,,,Roadside,Select Patch,Common,Yes,JDB,7/26/14,Large clump just inside corps of engineer park on lake of the pines.
+19542,7/6/14,PICH4,Pistacia chinensis,15,Walnut Creek Wild,1440,30.40459775,-97.68955822,5,m,None,Point,Common,Yes,JDB,7/19/14,Sapling about 18 inches tall halfway up the high bank of Tar Branch next to a >1-foot CDBH slippery elm.
+19546,7/6/14,PICH4,Pistacia chinensis,10,Walnut Creek Wild,1440,30.40479057,-97.69028284,5,m,None,Point,Common,Yes,JDB,7/19/14,Breast-height sapling on east side of utility pole 320314.
+19547,7/6/14,PICH4,Pistacia chinensis,15,Walnut Creek Wild,1440,30.40480901,-97.69031729,5,m,None,Point,Common,Yes,JDB,7/19/14,2 inches DBH and at least 15 feet tall. In the understory of a juniper.
+19584,7/12/14,PICH4,Pistacia chinensis,15,Walnut Creek Wild,1440,37.37648849,-121.9209536,5,m,Other,Linear,Rare,Yes,JDB,7/26/14,Row of 5 trees at eBay HQ
+19721,8/2/14,PICH4,Pistacia chinensis,10,Walnut Creek Wild,1440,30.31517747,-97.67458219,5,m,Other,Linear,Rare,Yes,JDB,8/13/14,"Row of 4 trees, 3 female, above bank of Little Walnut Creek in Dottie Jordan Park"
+20917,6/1/15,PICH4,Pistacia chinensis,5,San Antonio Invaders,327,29.4633873,-98.4874206,32,m,Other,Point,Rare,Yes,HFL,10/2/15,
+22417,11/7/15,PICH4,Pistacia chinensis,45,Voyager,2999,32.84827113,-96.70293152,15,m,Cleared brush,Linear,Common,Yes,TNL,1/19/16,Dixon Branch Greenbelt Park near playground
+23551,4/10/16,PICH4,Pistacia chinensis,5,Walnut Creek Wild,1440,30.40525556,-97.68521111,3,m,None,Point,Common,Yes,mab,12/23/16,"In Walnut Creek Metropolitan Park, near the Willow Wild entrance."
+23553,4/10/16,PICH4,Pistacia chinensis,5,Walnut Creek Wild,1440,30.40551111,-97.68537778,3,m,None,Point,Common,Yes,mab,12/23/16,"In Walnut Creek Metropolitan Park, near the Willow Wild entrance."
+23554,4/10/16,PICH4,Pistacia chinensis,5,Walnut Creek Wild,1440,30.40569111,-97.68521944,3,m,None,Point,Common,Yes,mab,12/23/16,"In Walnut Creek Metropolitan Park, near the Willow Wild entrance."
+23555,4/10/16,PICH4,Pistacia chinensis,5,Walnut Creek Wild,1440,30.40572722,-97.68534222,3,m,None,Point,Common,Yes,mab,12/23/16,"In Walnut Creek Metropolitan Park, near the Willow Wild entrance."
+23556,4/10/16,PICH4,Pistacia chinensis,5,Walnut Creek Wild,1440,30.40579846,-97.68550466,3,m,None,Point,Common,Yes,mab,12/23/16,"In Walnut Creek Metropolitan Park, near the Willow Wild entrance."
+23557,4/10/16,PICH4,Pistacia chinensis,5,Walnut Creek Wild,1440,30.40588697,-97.6855427,3,m,None,Point,Common,Yes,mab,12/23/16,"In Walnut Creek Metropolitan Park, near the Willow Wild entrance."
+23558,4/10/16,PICH4,Pistacia chinensis,5,Walnut Creek Wild,1440,30.40583333,-97.6857,3,m,None,Point,Common,Yes,mab,12/23/16,"In Walnut Creek Metropolitan Park, near the Willow Wild entrance."
+23559,4/10/16,PICH4,Pistacia chinensis,5,Walnut Creek Wild,1440,30.40583889,-97.68582778,3,m,None,Point,Common,Yes,mab,12/23/16,"In Walnut Creek Metropolitan Park, near the Willow Wild entrance."
+23560,4/10/16,PICH4,Pistacia chinensis,5,Walnut Creek Wild,1440,30.40572222,-97.68576111,3,m,None,Point,Common,Yes,mab,12/23/16,"In Walnut Creek Metropolitan Park, near the Willow Wild entrance."
+23561,4/10/16,PICH4,Pistacia chinensis,5,Walnut Creek Wild,1440,30.40528611,-97.68601111,3,m,None,Point,Common,Yes,mab,12/23/16,"In Walnut Creek Metropolitan Park, near the Willow Wild entrance."
+23562,4/10/16,PICH4,Pistacia chinensis,5,Walnut Creek Wild,1440,30.40529444,-97.68605,3,m,None,Point,Common,Yes,mab,12/23/16,"In Walnut Creek Metropolitan Park, near the Willow Wild entrance."
+23563,4/10/16,PICH4,Pistacia chinensis,5,Walnut Creek Wild,1440,30.40510889,-97.68625222,3,,None,Point,Common,Yes,mab,12/23/16,"In Walnut Creek Metropolitan Park, near the Willow Wild entrance."
+23688,5/4/16,PICH4,Pistacia chinensis,5,San Antonio Invaders,327,29.5101248,-98.5595009,23,m,Other,Polygon,Common,Yes,mab,12/28/16,
+23944,8/31/16,PICH4,Pistacia chinensis,19,Walnut Creek Wild,1440,30.40031988,-97.68521455,10,m,None,Point,Rare,Yes,mab,12/28/16,Seems to be a lone seedling.
