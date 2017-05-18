@@ -1,5 +1,4 @@
-//
-'use strict';
+//'use strict';
 const fs = require('fs');
 
 fs.readdir('./csv_files', 'utf8', (err, files) => {
@@ -17,7 +16,7 @@ fs.readdir('./csv_files', 'utf8', (err, files) => {
         contents.split('\n').forEach(record => {
             if (/^\d+$/.test((record.split(',')[0]))) {
                 let id = record.split(',')[0];
-                // if (id > 6000)
+                if (id > 6000)
                     ids.push(id);
                 }
             });

@@ -1,0 +1,27 @@
+Invaders of Texas,,,,,,,,,,,,,,,,,
+www.texasinvasives.org,,,,,,,,,,,,,,,,,
+Exported: 2017-05-18 13:58 ,,,,,,,,,,,,,,,,,
+Obs_ID,Date,USDA,Species,Time_Spent,Satellite,Collector,Lat,Long,Location_Error,Loc_Err_Units, Disturbance,Patch_Type,Abundance,Validated,Valid_Name,Valid_Date,Notes
+2763,4/2/08,PIST2,Pistia stratiotes,240,Houston-Galveston Invaders,161,29.5828,-95.08958,,,Other,Linear,Common,Yes,Damon Waitt,4/18/08,
+,"Located on Horsepen Bayou East of Middlebrook Rd.,and about 1/4 mile from Mud Lake and entrance to Horsepen Bayou on the right of Bayou.",,,,,,,,,,,,,,,,
+6637,2/16/09,PIST2,Pistia stratiotes,5,Cradle of Texas Invaders,352,29.16402,-95.49974,,,None,Point,Rare,Yes,Travis Gallo,2/23/09,"Scoby Lake at Hudson Woods, near TX35 & FM521"
+6668,2/16/09,PIST2,Pistia stratiotes,5,Cradle of Texas Invaders,379,29.1635,-95.4988,,,None,Point,Rare,Yes,Travis Gallo,2/23/09,"Angleton, Hudson Woods, Scoby Lake trail on right side towards end of land bridge to island in the mud; only one seen that day"
+11209,7/23/10,PIST2,Pistia stratiotes,5,Piney Wood Lakes,1102,30.90696559,-95.29142976,,,Other,Point,Rare,Yes,Travis Gallo,8/10/10,At base of fishing pier in lakewood subdivision
+11213,7/23/10,PIST2,Pistia stratiotes,5,Piney Wood Lakes,1102,30.90673545,-95.29225588,,,Roadside,Point,Rare,Yes,Travis Gallo,8/10/10,at base of bulkhead in lakewood subdivision
+11304,7/26/10,PIST2,Pistia stratiotes,30,Pineywoods Invaders,685,30.12635171,-94.01310503,,,None,Point,Rare,Yes,Travis Gallo,8/10/10,"Northeast corner of intersection of FM 105 and Camp Street in Vidor, Texas.  Growing in water fountain."
+11850,9/5/10,PIST2,Pistia stratiotes,5,Piney Wood Lakes,1102,30.904167,-95.236667,,,Other,Point,Common,Yes,Travis Gallo,9/9/10,On north side of FM 356
+11851,9/5/10,PIST2,Pistia stratiotes,5,Piney Wood Lakes,1102,30.903889,-95.236389,,,Other,Point,Common,Yes,Travis Gallo,9/9/10,On north side of FM 356
+11872,9/5/10,PIST2,Pistia stratiotes,5,Piney Wood Lakes,1102,30.90159,-95.230565,,,Other,Polygon,Common,Yes,Travis Gallo,9/9/10,On north side of FM 356
+13507,3/5/11,PIST2,Pistia stratiotes,15,Hays County Invaders,1318,29.89371,-97.92747,,,Flood,Polygon,Common,Yes,Travis Gallo,3/28/11,"Sink Creek on Laurel Road, San Marcos"
+13813,4/3/11,PIST2,Pistia stratiotes,45,Hays County Invaders,1320,29.878594,-97.931958,,,None,Point,Rare,Yes,Travis Gallo,4/21/11,"Found along banks of Rio Vista Park, along side where River Pub Bar & Grill located, at Cheatham St & Riverside Dr intersection, was clearing alligator weed and came across these plants"
+17821,12/31/11,PIST2,Pistia stratiotes,5,Texas Parks and Wildlife Department,2114,28.04391,-97.86721,0,m,,Polygon,,Yes,Earl Chilton,12/31/11,Corpus Christi
+17828,12/31/11,PIST2,Pistia stratiotes,5,Texas Parks and Wildlife Department,2114,29.65377045,-98.0661087,0,m,,Polygon,,Yes,Earl Chilton,12/31/11,Dunlap
+17831,12/31/11,PIST2,Pistia stratiotes,5,Texas Parks and Wildlife Department,2114,29.566365,-96.343231,0,m,,Polygon,,Yes,Earl Chilton,12/31/11,Eagle lake
+17844,12/31/11,PIST2,Pistia stratiotes,5,Texas Parks and Wildlife Department,2114,29.49607086,-97.62330627,0,m,,Polygon,,Yes,Earl Chilton,12/31/11,H-4
+17846,12/31/11,PIST2,Pistia stratiotes,5,Texas Parks and Wildlife Department,2114,25.895847,-97.494586,0,m,,Polygon,,Yes,Earl Chilton,12/31/11,Fort Brown Resaca
+17883,12/31/11,PIST2,Pistia stratiotes,5,Texas Parks and Wildlife Department,2114,29.59425926,-98.04049683,0,m,,Polygon,,Yes,Earl Chilton,12/31/11,McQueeney
+17904,12/31/11,PIST2,Pistia stratiotes,5,Texas Parks and Wildlife Department,2114,29.54854012,-97.9992981,0,m,,Polygon,,Yes,Earl Chilton,12/31/11,Placid
+17966,12/31/11,PIST2,Pistia stratiotes,5,Texas Parks and Wildlife Department,2114,28.7236,-97.1662,0,m,,Polygon,,Yes,Earl Chilton,12/31/11,Coleto Creek
+16408,5/24/12,PIST2,Pistia stratiotes,15,Heartwood Invaders,1682,29.375223,-95.59502,2,m,Other,Linear,Common,Yes,JDS,8/14/12,"On trail to Observatory where boardwalk crosses over Creekfield Lake wetlands. In water closest to boardwalk, spreading out all along both sides of boardwalk. Brazos Bend State Park."
+18735,2/19/14,PIST2,Pistia stratiotes,5,Texas Parks and Wildlife Department,2114,29.051968,-95.478616,20,m,None,Point,Rare,Yes,JDB,3/6/14,Buffalo Camp Bayou
+20387,1/4/15,PIST2,Pistia stratiotes,15,Texas Gulf Region CWMA,2216,29.89127477,-97.93075025,3,f,Flood,Polygon,Common,Yes,HFL,1/25/15,50X20' area
