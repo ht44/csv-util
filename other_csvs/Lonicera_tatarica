@@ -1,0 +1,10 @@
+Invaders of Texas,,,,,,,,,,,,,,,,,
+www.texasinvasives.org,,,,,,,,,,,,,,,,,
+Exported: 2017-05-18 20:21 ,,,,,,,,,,,,,,,,,
+Obs_ID,Date,USDA,Species,Time_Spent,Satellite,Collector,Lat,Long,Location_Error,Loc_Err_Units, Disturbance,Patch_Type,Abundance,Validated,Valid_Name,Valid_Date,Notes
+6875,3/6/09,LOTA,Lonicera tatarica,5,Cross Timbers Invaders,79,32.72649,-96.74808,,,Other,Point,Rare,Yes,Karan Rawlins,4/5/09,"Dallas, Buckeye Trail.  Along the south leg of the Buckeye Grove Loop about 30 m north of the trail.  Inside an area of apprx 25 m x 25 m that has been cleared of the dense stand of LISI, on one mature specimen of LOTA was found."
+7135,3/31/09,LOTA,Lonicera tatarica,5,Cross Timbers Invaders,79,32.71548,-96.66755,,,Other,Point,Rare,Yes,Karan Rawlins,4/5/09,"Located in northen half of Crawford Park, Dallas.  3 mature specimens in 30 meters at edge of mowed area west of the soccer fields."
+7138,3/31/09,LOTA,Lonicera tatarica,5,Cross Timbers Invaders,79,32.71746,-96.66745,,,Other,Point,Rare,Yes,Karan Rawlins,4/5/09,"Located in northen half of Crawford Park, Dallas.  Two mature specimens within 30 meters at edge of mowed area west of the soccer fields."
+7141,3/31/09,LOTA,Lonicera tatarica,5,Cross Timbers Invaders,79,32.71899,-96.66839,,,Other,Point,Rare,Yes,Karan Rawlins,4/5/09,"Located in northen half of Crawford Park, Dallas.  Three mature specimens within 30 meters at edge of mowed area west of the soccer field."
+7169,4/4/09,LOTA,Lonicera tatarica,15,Blackland Prairies Invaders,400,32.8336547,-96.71076089,,,None,Point,Common,Yes,Karan Rawlins,4/11/09,"Dallas, E side of White Rock Lake.  Next to footpath E of parking lot.  Mature honeysuckle bush amongst huge invasion of privet.  I am not an expert on LOTA or LOFR"
+7171,4/4/09,LOTA,Lonicera tatarica,15,Blackland Prairies Invaders,400,32.83695859,-96.70595706,,,None,Polygon,Common,Yes,Karan Rawlins,4/11/09,"Dallas, E side of White Rock Lake.  At edge of mowed grassy area and forest.  Many bush honeysuckles amongst large privet investation.  Mature honeysuckle bush amongst huge invasion of privet.  I am not an expert on LOTA or LOFR"

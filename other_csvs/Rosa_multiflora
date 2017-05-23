@@ -1,0 +1,33 @@
+Invaders of Texas,,,,,,,,,,,,,,,,,
+www.texasinvasives.org,,,,,,,,,,,,,,,,,
+Exported: 2017-05-18 20:38 ,,,,,,,,,,,,,,,,,
+Obs_ID,Date,USDA,Species,Time_Spent,Satellite,Collector,Lat,Long,Location_Error,Loc_Err_Units, Disturbance,Patch_Type,Abundance,Validated,Valid_Name,Valid_Date,Notes
+755,10/22/06,ROMU,Rosa multiflora,30,Pineywoods Invaders,236,31.61451,-94.64306,,,Other,Point,Rare,Yes,Sam Hermitte,7/31/07,
+,"Site is the La nana Creek Trail which is approximately 2.2 mi. in length and follows the west bank of the La Nana Creek in Nacagdoches, TX.  The GPS location below is approx. at the halfway point of the trail and is in Pecan Park, SEC of Starr Ave. and Mo",,,,,,,,,,,,,,,,
+1734,12/5/07,ROMU,Rosa multiflora,30,Cross Timbers Invaders,69,32.918583,-97.384056,,,None,Point,Rare,Yes,Joe Marcus,12/7/07,
+,Site is along south edge of Fossil Creek.  To the south of this site is open prairie and then houses.  This area is not mowed due to proximity to creek.,,,,,,,,,,,,,,,,
+1736,12/5/07,ROMU,Rosa multiflora,45,Cross Timbers Invaders,69,32.919333,-97.384306,,,None,Point,Rare,Yes,Joe Marcus,12/7/07,
+,Site is located along Fossil Creek in a housing addition.  Each house contains about 2.5 to 5 acres of land which is generally fenced and mowed by the owner.  Fossil Creek runs through the center of the housing addition.,,,,,,,,,,,,,,,,
+2590,2/14/08,ROMU,Rosa multiflora,15,Houston-Galveston Invaders,166,30.14063,-95.46396,,,Roadside,Polygon,Common,Yes,Damon Waitt,4/10/08,
+,Lonestar College property - West side of west parking lot,,,,,,,,,,,,,,,,
+2598,2/27/08,ROMU,Rosa multiflora,15,Houston-Galveston Invaders,166,30.19417,-95.48546,,,Roadside,Linear,Common,Yes,Damon Waitt,4/10/08,
+,By hike/bike trail.  Behind suburban fence.  Extends along trail for 50 feet.,,,,,,,,,,,,,,,,
+2599,2/27/08,ROMU,Rosa multiflora,15,Houston-Galveston Invaders,166,30.19377,-95.49229,,,Roadside,Linear,Common,Yes,Damon Waitt,4/10/08,
+,Behind brick wall on Research Forest just beyond the light for Bear Branch Sports fields.,,,,,,,,,,,,,,,,
+2600,2/27/08,ROMU,Rosa multiflora,15,Houston-Galveston Invaders,166,30.21031,-95.4698,,,Roadside,Polygon,Common,Yes,Damon Waitt,4/10/08,
+,By bridge on Research Forest Drive between the lights on Shadowbend and Bear Branch Sports Field.,,,,,,,,,,,,,,,,
+2341,3/8/08,ROMU,Rosa multiflora,30,Houston-Galveston Invaders,161,29.5917,-95.993333,,,Roadside,Linear,Common,Yes,,3/31/08,
+,"Pine Gully Park, Seabrook. Wooded area right of road going to pier, approximately 25 yards from main road. This ID-1624 should indicate Invasive as Rosa bracteata code ROBR.",,,,,,,,,,,,,,,,
+2360,3/9/08,ROMU,Rosa multiflora,15,Houston-Galveston Invaders,161,29.589767,-95.002533,,,Other,Linear,Common,Yes,Travis Gallo,12/15/08,"Along side hike/bike trail, Pine Gully, Todville Rd. Next to Pine Gully Creek. New blossoms."
+3725,6/29/08,ROMU,Rosa multiflora,5,Cross Timbers Invaders,72,32.83744,-97.47,,,Roadside,Point,Rare,Yes,Joe Marcus,7/8/08,
+,"On the Fort Worth Nature Center alongside Shoreline Drive. This is a plant I would have expected to see more of on this property, but I have only seen two so far.  And I can't find the other one again to record it!",,,,,,,,,,,,,,,,
+10445,1/31/10,ROMU,Rosa multiflora,15,Travis County BCP,835,30.45044,-97.85359,,,Other,Polygon,Rare,Yes,Travis Gallo,6/2/10,"Bunten tract - multiflora rose exists in large patch on this tract, however it is rare on the preserve; this patch is approx. 33 sq ft; disturbance is old homesite on the preserve"
+10446,1/31/10,ROMU,Rosa multiflora,15,Travis County BCP,835,30.4497,-97.85303,,,Other,Polygon,Rare,Yes,Travis Gallo,6/2/10,Bunten tract - multiflora rose is rare on the preserve; disturbance is old homesite on the preserve; estimated patch size is 2181 sq ft
+14488,5/10/11,ROMU,Rosa multiflora,5,Voyager,1226,32.52939294,-94.66238737,,,Roadside,Linear,Select Abundance,Yes,Travis Gallo,6/22/11,"South side of Lori Small Lane in Longview, TX (Macedonia)."
+15553,11/22/11,ROMU,Rosa multiflora,5,Voyager,1620,30.05661418,-95.62911987,,,Other,Point,Select Abundance,Yes,JDS,5/14/12,"The species is found in new neighborhood, as landscapers bring the species to decorate new home, by using many unique plants species. "
+23819,5/5/16,ROMU,Rosa multiflora,5,Voyager,3071,30.04335,-95.40547,13,f,None,Point,Common,Yes,HFL,7/27/16,Cypress Creek Park at Timberlane; Jasmine Terrace Dr. at Naplechase Crest Dr.
+,,,,,,,,,,,,,,,,,
+"******MISIDENTIFIED.  Not multiflora rose.  Flowers not in clusters ("multiflora"), leaves wrong shape and too small.""*****MISIDENTIFIED.  Not multiflora rose.  Flow",,,,,,,,,,,,,,,,,
+23820,5/5/16,ROMU,Rosa multiflora,5,Voyager,3071,30.04303,-95.40477,13,f,None,Linear,Common,Yes,HFL,7/27/16,Cypress Creek Park at Timberlane; Jasmine Terrace Dr. at Naplechase Crest Dr.
+,,,,,,,,,,,,,,,,,
+"******MISIDENTIFIED.  Not multiflora rose.  Flowers not in clusters ("multiflora"), leaves wrong shape and too small.""*****MISIDENTIFIED.  Not multiflora rose.  Flow",,,,,,,,,,,,,,,,,

@@ -1,0 +1,6 @@
+Invaders of Texas,,,,,,,,,,,,,,,,,
+www.texasinvasives.org,,,,,,,,,,,,,,,,,
+Exported: 2017-05-18 20:08 ,,,,,,,,,,,,,,,,,
+Obs_ID,Date,USDA,Species,Time_Spent,Satellite,Collector,Lat,Long,Location_Error,Loc_Err_Units, Disturbance,Patch_Type,Abundance,Validated,Valid_Name,Valid_Date,Notes
+17445,5/16/13,EUES,Euphorbia esula,15,Voyager,345,40.564321,-105.093205,0,m,Other,Polygon,Common,Yes,Kathryn D'Amico,5/17/13,"Grassy vacant lot at Shields and Stuart. Fort Collins, CO"
+17513,6/5/13,EUES,Euphorbia esula,15,Voyager,345,39.969406,-108.243901,0,m,None,Polygon,Rare,Yes,Kathryn D'Amico,7/29/13,"Hwy 5, Rio Blanco County, CO on BLM land. 25x10m polygon an bottom of pour off"

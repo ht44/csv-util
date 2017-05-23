@@ -1,0 +1,6 @@
+Invaders of Texas,,,,,,,,,,,,,,,,,
+www.texasinvasives.org,,,,,,,,,,,,,,,,,
+Exported: 2017-05-18 20:27 ,,,,,,,,,,,,,,,,,
+Obs_ID,Date,USDA,Species,Time_Spent,Satellite,Collector,Lat,Long,Location_Error,Loc_Err_Units, Disturbance,Patch_Type,Abundance,Validated,Valid_Name,Valid_Date,Notes
+17757,8/19/13,MYSP2,Myriophyllum spicatum,5,Texas Parks and Wildlife Department,2003,30.39827,-97.89736,15,m,None,Polygon,Common,Yes,Kathryn D'Amico,9/3/13,~95% coverage of river bottom as far as I can see in both directions
+17758,8/19/13,MYSP2,Myriophyllum spicatum,5,Texas Parks and Wildlife Department,2003,30.3377,-97.90355,15,m,None,Polygon,Common,Yes,Kathryn D'Amico,9/3/13,Selma Hughes Park

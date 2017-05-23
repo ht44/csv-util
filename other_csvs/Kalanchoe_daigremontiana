@@ -1,0 +1,10 @@
+Invaders of Texas,,,,,,,,,,,,,,,,,
+www.texasinvasives.org,,,,,,,,,,,,,,,,,
+Exported: 2017-05-18 20:12 ,,,,,,,,,,,,,,,,,
+Obs_ID,Date,USDA,Species,Time_Spent,Satellite,Collector,Lat,Long,Location_Error,Loc_Err_Units, Disturbance,Patch_Type,Abundance,Validated,Valid_Name,Valid_Date,Notes
+1592,11/16/07,KADA,Kalanchoe daigremontiana,30,Mid Coast Invaders,205,27.65488,-97.40619,,,None,Polygon,Uncommon,Yes,Kris Kirkwood,11/18/07,
+,South Texas Botanical Gardens and Nature Center on South Staples.  Three site locations on Nature/Bird Trail.  Specific GPS readings for each: 27.65473/97.40618 (King Ranch Bluestem); 27.65483/97.40605 (Guineagrass); 27.65493/97.40651 (Mother of Thousands,,,,,,,,,,,,,,,,
+8801,10/27/09,KADA,Kalanchoe daigremontiana,5,Pineywoods Invaders,688,31.081,-94.0428,,,Other,Point,Rare,Yes,Travis Gallo,11/6/09,"potted plant at 118 Beechwood Dr., Rayburn Country"
+10852,6/22/10,KADA,Kalanchoe daigremontiana,15,Texas Middle School Invaders,1076,27.6548,-97.40615,,,None,Polygon,Common,Yes,Travis Gallo,6/23/10,Arid garden display at South Texas Botanical Garden
+10853,6/22/10,KADA,Kalanchoe daigremontiana,5,Texas High School Invaders,1075,27.65485,-97.40618,,,None,Polygon,Common,Yes,Travis Gallo,6/23/10,next to arid garden sign
+19632,7/18/14,KADA,Kalanchoe daigremontiana,15,Mid Coast Invaders,2460,27.90363582,-97.18615453,5,m,Cleared brush,Point,Common,Yes,HFL,8/4/14,Started accidentally in flower bed. Removed and burned

@@ -1,0 +1,6 @@
+Invaders of Texas,,,,,,,,,,,,,,,,,
+www.texasinvasives.org,,,,,,,,,,,,,,,,,
+Exported: 2017-05-18 19:45 ,,,,,,,,,,,,,,,,,
+Obs_ID,Date,USDA,Species,Time_Spent,Satellite,Collector,Lat,Long,Location_Error,Loc_Err_Units, Disturbance,Patch_Type,Abundance,Validated,Valid_Name,Valid_Date,Notes
+16133,6/13/12,CALA20,Carthamus lanatus,5,Hill Country Invaders,116,30.388347,-98.435525,100,f,Roadside,Polygon,Common,Yes,JDB,2/13/14,"This species is Carthamus lanatus, USDA CALA20. It is not in the drop-down box for choosing an invasive species. You may want to consider adding it, since this thistle is a baddie. Common names range among distaff thistle, woolly saffron, saffron thistle, woolly distaff thistle, etc. "
+http://plants.usda.gov/java/profile?symbol=CALA20 ,,,,,,,,,,,,,,,,,

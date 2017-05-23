@@ -1,0 +1,8 @@
+Invaders of Texas,,,,,,,,,,,,,,,,,
+www.texasinvasives.org,,,,,,,,,,,,,,,,,
+Exported: 2017-05-18 19:55 ,,,,,,,,,,,,,,,,,
+Obs_ID,Date,USDA,Species,Time_Spent,Satellite,Collector,Lat,Long,Location_Error,Loc_Err_Units, Disturbance,Patch_Type,Abundance,Validated,Valid_Name,Valid_Date,Notes
+6805,3/2/09,COVA2,Coronilla varia,30,Cradle of Texas Invaders,379,29.2018,-95.5635,,,Cleared brush,Point,Common,Yes,Travis Gallo,3/16/09,"Brazos River County Park, near the end of the river board walk trail"
+6806,3/2/09,COVA2,Coronilla varia,5,Cradle of Texas Invaders,379,29.201,-95.5638,,,Cleared brush,Linear,Common,Yes,Travis Gallo,3/16/09,"Brazos River County Park, around of edge of playground area"
+6812,3/2/09,COVA2,Coronilla varia,5,Cradle of Texas Invaders,379,29.2003,-95.5607,,,Roadside,Polygon,Common,Yes,Travis Gallo,3/16/09,"Brqzos River County Park, along roadside across from pond"
+10402,5/6/10,COVA2,Coronilla varia,15,Blackland Prairies Invaders,406,32.9967,-96.6328,,,Graded,Polygon,Rare,Yes,Travis Gallo,5/12/10,"In field in Breckenridge Park, Richardson, TX."

@@ -1,0 +1,14 @@
+Invaders of Texas,,,,,,,,,,,,,,,,,
+www.texasinvasives.org,,,,,,,,,,,,,,,,,
+Exported: 2017-05-18 20:06 ,,,,,,,,,,,,,,,,,
+Obs_ID,Date,USDA,Species,Time_Spent,Satellite,Collector,Lat,Long,Location_Error,Loc_Err_Units, Disturbance,Patch_Type,Abundance,Validated,Valid_Name,Valid_Date,Notes
+8355,8/22/09,ELPU2,Elaeagnus pungens,120,Cypress Basin Invaders,361,32.8102,-94.15924,,,Roadside,Polygon,Common,Yes,Travis Gallo,9/1/09,"Marion CR 3416 near Hwy 49 Smithland, TX.  A large patch that was growing next to the roadside and under a powerline.  No homes immediately nearby."
+8356,8/22/09,ELPU2,Elaeagnus pungens,120,Cypress Basin Invaders,361,32.80999,-94.15923,,,Roadside,Point,Rare,Yes,Travis Gallo,9/1/09,"Marion Cr 3416 near Hwy 49 Smithland, TX.  This is a small patch that is growing along the roadside and the fence line."
+8800,10/27/09,ELPU2,Elaeagnus pungens,5,Pineywoods Invaders,688,31.081,-94.0428,,,Other,Polygon,Common,Yes,Travis Gallo,11/6/09,"3 plants in landscape at 118 Beechwood Dr., Rayburn Country"
+8864,10/29/09,ELPU2,Elaeagnus pungens,15,Pineywoods Invaders,686,29.96277978,-94.02485847,,,Roadside,Polygon,Common,Yes,Travis Gallo,11/6/09," in Nederland, TX, at intersection of Ford & Holmes "
+10167,3/28/10,ELPU2,Elaeagnus pungens,5,Cypress Basin Invaders,361,32.78829,-94.07488,,,Roadside,Point,Rare,Yes,Travis Gallo,4/12/10,"Plant is growing near a gate, but no home is nearby.  It is along Hwy 49 roadside near the intersection of FM 727 in Gray, TX in Marion County.  This plant could have been planted at one time.  The fence is heavily overgrown with trees and vines along with more of spots of this plant and nandina."
+10179,3/28/10,ELPU2,Elaeagnus pungens,5,Cypress Basin Invaders,361,32.7884,-94.07529,,,Roadside,Point,Common,Yes,Travis Gallo,4/12/10,"Plants are growing on an overgrown fenceline alongside Hwy 49 near FM 727 near Gray, TX, Marion Co.,I do not see a home, but these bushes could have been planted."
+10180,3/28/10,ELPU2,Elaeagnus pungens,5,Cypress Basin Invaders,361,32.78861,-94.07583,,,Roadside,Point,Common,Yes,Travis Gallo,4/12/10,"Plants are growing on an overgrown fenc row along side Hwy 49 near FM 727 in Gray, TX, Marion Co.  these plants may have been planted originally, but you cannot see a home from the road."
+10181,3/28/10,ELPU2,Elaeagnus pungens,45,Cypress Basin Invaders,361,32.78885,-94.07638,,,Roadside,Point,Common,Yes,Travis Gallo,4/12/10,"Growing on an overgrown fence row along side Hwy 49 near FM 727 in Gray, Texas, Marion Co.  these plants may have been purposely planted.  No home is visible from the road."
+11116,7/19/10,ELPU2,Elaeagnus pungens,5,Piney Wood Lakes,1102,30.9108962,-95.29278159,,,Roadside,Point,Common,Yes,Travis Gallo,8/10/10,At junction of Paradise and Paradise drive in Lakewood subdivision
+19108,4/12/14,ELPU2,Elaeagnus pungens,5,Voyager,2267,30.91489108,-95.29232025,50,m,Roadside,Point,Common,Yes,JDB,5/7/14,

@@ -1,0 +1,5 @@
+Invaders of Texas,,,,,,,,,,,,,,,,,
+www.texasinvasives.org,,,,,,,,,,,,,,,,,
+Exported: 2017-05-18 20:14 ,,,,,,,,,,,,,,,,,
+Obs_ID,Date,USDA,Species,Time_Spent,Satellite,Collector,Lat,Long,Location_Error,Loc_Err_Units, Disturbance,Patch_Type,Abundance,Validated,Valid_Name,Valid_Date,Notes
+14865,8/19/11,LECU,Lespedeza cuneata,5,Cross Timbers Invaders,396,32.74196435,-97.36398742,,,Other,Polygon,Rare,Yes,Travis Gallo,8/25/11,"USA, Texas, Tarrant County, Fort Worth. On property of Botanical Research Institute of Texas, growing from root balls of newly planted Ulmus rubra at N end of parking lot."

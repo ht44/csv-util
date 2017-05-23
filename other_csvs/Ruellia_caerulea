@@ -1,0 +1,28 @@
+Invaders of Texas,,,,,,,,,,,,,,,,,
+www.texasinvasives.org,,,,,,,,,,,,,,,,,
+Exported: 2017-05-18 20:40 ,,,,,,,,,,,,,,,,,
+Obs_ID,Date,USDA,Species,Time_Spent,Satellite,Collector,Lat,Long,Location_Error,Loc_Err_Units, Disturbance,Patch_Type,Abundance,Validated,Valid_Name,Valid_Date,Notes
+6155,12/9/08,RUCA19,Ruellia caerulea,5,San Antonio Invaders,359,29.2813,-98.2807,,,Flood,Polygon,Common,Yes,Travis Gallo,1/7/09,"In ephemeral drainage about 10 m west of Blue Hole (over the small rise). Drainage has large downed live oak in it, left of the patch if the Blue Hole is behind you. Drainage and patch of ruellia extend towards Olmos creek mainstem. In Headwaters Sanctuary, owned by Headwaters Coalition."
+7602,5/5/09,RUCA19,Ruellia caerulea,5,Cross Timbers Invaders,72,32.85702,-97.47861,,,Roadside,Polygon,Rare,Yes,Travis Gallo,5/29/09,On the Fort Worth Nature Center alongside an access road to the Crosstimbers Trail. A few plants in this area.
+7859,5/27/09,RUCA19,Ruellia caerulea,15,Texas High School Invaders,1036,30.27252,-97.76949,,,Flood,Point,Common,Yes,Travis Gallo,6/1/09,"Near edge of water of town lake, next to the running trail. "
+10761,6/15/10,RUCA19,Ruellia caerulea,15,Texas Middle School Invaders,1042,27.70857,-97.33786,,,Other,Point,Rare,Yes,Travis Gallo,6/17/10,In the butterfly garden near the trail to the left in Hans Suter Park.
+10762,6/15/10,RUCA19,Ruellia caerulea,15,Texas High School Invaders,1044,27.70857,-97.33783,,,Other,Point,Rare,Yes,Travis Gallo,6/17/10,Hans Suter Park @ the Butterfly Garden sign
+10782,6/15/10,RUCA19,Ruellia caerulea,5,Voyager,1053,27.70861,-97.33786,,,Other,Point,Rare,Yes,Travis Gallo,6/23/10,"Hans Suter Park Butterfly Garden Corpus Christi, TX"
+10812,6/16/10,RUCA19,Ruellia caerulea,5,Voyager,345,30.26695,-97.7503,,,Flood,Polygon,Rare,Yes,Damon Waitt,7/10/10,Along Shoal Creek in downtown Austin. 4 clumps in middle of creek.
+10813,6/16/10,RUCA19,Ruellia caerulea,5,Voyager,345,30.26787,-97.75034,,,Flood,Polygon,Rare,Yes,Damon Waitt,7/10/10,Along Shoal Creek in downtown Austin. Approx. 20ft diameter polygon along the edge of the creek.
+11162,7/19/10,RUCA19,Ruellia caerulea,15,Pineywoods Invaders,685,30.9149302,-93.99751335,,,Other,Point,Rare,Yes,Travis Gallo,7/21/10,"Growing in flower bed at Garden Center on Curtis Street in Jasper, Texas."
+18243,10/21/13,RUCA19,Ruellia caerulea,30,Walnut Creek Wild,1440,30.3,-97.7,5,f,Flood,Point,Common,Yes,Kathryn D'Amico,11/8/13,"Immediately downstream of the Hancock Street bridge over this branch, a tributary of Shoal Creek."
+18244,10/21/13,RUCA19,Ruellia caerulea,30,Walnut Creek Wild,1440,30.3,-97.7,5,f,Flood,Point,Common,Yes,Kathryn D'Amico,11/8/13,"Immediately downstream of the Hancock Street bridge over this branch, a tributary of Shoal Creek."
+18245,10/21/13,RUCA19,Ruellia caerulea,30,Walnut Creek Wild,1440,30.3,-97.7,5,f,Flood,Point,Common,Yes,Kathryn D'Amico,11/8/13,"Immediately downstream of the Hancock Street bridge over this branch, a tributary of Shoal Creek."
+19365,6/20/14,RUCA19,Ruellia caerulea,15,UT Invaders,2411,30.40472813,-97.79322862,5,m,Other,Point,Rare,Yes,JDB,7/8/14,St. Edwards Park
+19378,6/20/14,RUCA19,Ruellia caerulea,15,UT Invaders,2410,30.40471229,-97.79324873,5,m,Other,Point,Rare,Yes,JDB,7/8/14,St Edwards disturbed area
+19387,6/20/14,RUCA19,Ruellia caerulea,15,UT Invaders,2414,30.40475851,-97.79325485,5,m,Other,Point,Rare,Yes,JDB,7/8/14,St Edwards park trail disturbed area
+19454,6/20/14,RUCA19,Ruellia caerulea,15,UT Invaders,2395,30.4047265,-97.79325142,5,m,Other,Point,Rare,Yes,JDB,7/8/14,St. edwards park. Near water
+19470,6/20/14,RUCA19,Ruellia caerulea,15,Voyager,2415,30.40481685,-97.79326424,5,m,Other,Point,Rare,Yes,JDB,7/7/14,St. Edwards park disturbed area
+19577,6/20/14,RUCA19,Ruellia caerulea,15,UT Invaders,2412,30.40476815,-97.79322317,5,m,Other,Point,Rare,Yes,JDB,7/22/14,St Edwards Park disturbed area
+19438,6/27/14,RUCA19,Ruellia caerulea,15,UT Invaders,2411,30.3129115,-97.76972727,5,m,Flood,Point,Common,Yes,JDB,7/22/14,Mayfield Preserve
+19443,6/27/14,RUCA19,Ruellia caerulea,15,UT Invaders,2414,30.31290145,-97.76974864,5,m,Flood,Point,Common,Yes,JDB,7/22/14,mayfield park and preserve
+19448,6/27/14,RUCA19,Ruellia caerulea,15,UT Invaders,2410,30.31289767,-97.7697416,5,m,Flood,Linear,Common,Yes,JDB,7/22/14,Mayfield preserve
+19475,6/27/14,RUCA19,Ruellia caerulea,15,Voyager,2415,30.31292538,-97.76971788,5,m,Flood,Point,Common,Yes,JDB,7/19/14,Mayfield preserve
+19493,6/27/14,RUCA19,Ruellia caerulea,15,UT Invaders,2408,30.31295061,-97.76979323,5,m,Flood,Point,Common,Yes,JDB,7/22/14,Mayfield park
+19583,6/27/14,RUCA19,Ruellia caerulea,15,UT Invaders,2412,30.31297165,-97.76973347,5,m,None,Point,Common,Yes,JDB,7/22/14,Nature preserve

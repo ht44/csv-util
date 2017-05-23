@@ -1,0 +1,9 @@
+Invaders of Texas,,,,,,,,,,,,,,,,,
+www.texasinvasives.org,,,,,,,,,,,,,,,,,
+Exported: 2017-05-18 20:42 ,,,,,,,,,,,,,,,,,
+Obs_ID,Date,USDA,Species,Time_Spent,Satellite,Collector,Lat,Long,Location_Error,Loc_Err_Units, Disturbance,Patch_Type,Abundance,Validated,Valid_Name,Valid_Date,Notes
+6709,2/21/09,SATR12,Salsola tragus,5,Llano Estacado Invaders,392,32.03322,-102.07016,,,Cleared brush,Polygon,Common,Yes,Travis Gallo,3/3/09,pipeline right-of-way
+very common,,,,,,,,,,,,,,,,,
+"Other collectors: Nina McCart, Taffy Armstrong, Sammy Hunnicutt",,,,,,,,,,,,,,,,,
+9595,12/16/09,SATR12,Salsola tragus,15,High Plains Invaders,590,35.24025,-101.94007,,,Other,Polygon,Common,Yes,Travis Gallo,1/5/10,"About 0.3 mi N of Visitor Center at Wildcat Bluff Nature Center, 2301 N. Soncy, Amarillo, TX.  Polygon is on W side of road, roughly 400 feet square."
+9596,12/17/09,SATR12,Salsola tragus,5,High Plains Invaders,590,35.23511,-101.93979,,,Graded,Point,Rare,Yes,Travis Gallo,1/5/10,"Two plants along side walk on W side of Visitor Center at Wildcat Bluff Nature Center, 2301 N. Soncy, Amarillo, TX"

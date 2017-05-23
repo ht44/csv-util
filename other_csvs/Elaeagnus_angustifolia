@@ -1,0 +1,8 @@
+Invaders of Texas,,,,,,,,,,,,,,,,,
+www.texasinvasives.org,,,,,,,,,,,,,,,,,
+Exported: 2017-05-18 20:06 ,,,,,,,,,,,,,,,,,
+Obs_ID,Date,USDA,Species,Time_Spent,Satellite,Collector,Lat,Long,Location_Error,Loc_Err_Units, Disturbance,Patch_Type,Abundance,Validated,Valid_Name,Valid_Date,Notes
+9428,11/19/09,ELAN,Elaeagnus angustifolia,5,High Plains Invaders,590,35.23522,-101.93985,,,None,Point,Rare,Yes,Travis Gallo,11/30/09,"Group of 3 trees behind Visitor Center at Wildcat Bluff Nature Center, 2301 N. Soncy, Amarillo, TX"
+9429,11/19/09,ELAN,Elaeagnus angustifolia,5,High Plains Invaders,590,35.23499,-101.93985,,,None,Point,Rare,Yes,Travis Gallo,11/30/09,"One tree behind Visitor Center at Wildcat Bluff Nature Center, 2301 N. Soncy, Amarillo, TX "
+11065,7/15/10,ELAN,Elaeagnus angustifolia,15,Pineywoods Invaders,685,30.91932069,-93.97354245,,,Other,Linear,Common,Yes,Travis Gallo,7/21/10,"North side US Highway 190, East of Jasper, Texas."
+13712,4/2/11,ELAN,Elaeagnus angustifolia,5,Pineywoods Invaders,1366,30.90035,-94.0102,,,None,Point,Rare,Yes,Travis Gallo,4/21/11,Found by pine tree on mowed grounds of Angelina College

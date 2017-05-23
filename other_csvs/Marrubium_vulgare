@@ -1,0 +1,20 @@
+Invaders of Texas,,,,,,,,,,,,,,,,,
+www.texasinvasives.org,,,,,,,,,,,,,,,,,
+Exported: 2017-05-18 20:22 ,,,,,,,,,,,,,,,,,
+Obs_ID,Date,USDA,Species,Time_Spent,Satellite,Collector,Lat,Long,Location_Error,Loc_Err_Units, Disturbance,Patch_Type,Abundance,Validated,Valid_Name,Valid_Date,Notes
+1947,12/29/07,MAVU,Marrubium vulgare,30,Cross Timbers Invaders,44,30.42064,-99.17149,,,Roadside,Linear,Uncommon,Yes,Damon Waitt,1/12/08,
+,"Six miles S of Doss, TX in Gillespie County",,,,,,,,,,,,,,,,
+5753,11/14/08,MAVU,Marrubium vulgare,15,Highland Lake Invaders,351,30.61464,-98.10887,,,Roadside,Point,Rare,Yes,Karan Rawlins,11/16/08,
+,"2 plants on side of Balcones Ridgeway, Bertram, TX",,,,,,,,,,,,,,,,
+7362,4/13/09,MAVU,Marrubium vulgare,5,Highland Lake Invaders,351,30.62181,-98.10546,,,Roadside,Linear,Common,Yes,Karan Rawlins,4/20/09,"Along Spring Hollow Drive, Bertram, TX."
+7364,4/13/09,MAVU,Marrubium vulgare,5,Highland Lake Invaders,351,30.62548,-98.11589,,,Roadside,Point,Rare,Yes,Karan Rawlins,4/20/09,"Along Whitewater Drive, Bertram, TX."
+7557,4/26/09,MAVU,Marrubium vulgare,5,Cross Timbers Invaders,72,32.84753,-97.48962,,,Graded,Polygon,Rare,Yes,Travis Gallo,5/14/09,"FWNC in the old gravel pit which is being restored to native habitat.  Collection sites are from edges and islands of the ungraded habitat which retain trees, shrubs, vines, forbs, etc.  Much is native flora but there are non-natives as well.  Melilotus indica also present."
+7776,5/23/09,MAVU,Marrubium vulgare,15,Highland Lake Invaders,351,30.61281,-98.09023,,,Cleared brush,Point,Rare,Yes,Karan Rawlins,5/30/09,large clump in cleared lot on south side of Ashe Juniper
+8012,6/6/09,MAVU,Marrubium vulgare,30,Cross Timbers Invaders,72,32.8321,-97.47248,,,None,Linear,Common,Yes,Travis Gallo,6/9/09,At the Fort Worth Nature Center off trail near the Canyon Ridge Trail. MAVU almost encircles this small glade.
+8416,9/9/09,MAVU,Marrubium vulgare,30,Voyager,345,29.87261533,-100.9911776,,,Other,Point,Rare,Yes,Marilyn Sallee,10/4/09,Located on Dolan Falls Preserve (TNC property). Near the Devil\'s River. Located near an old homestead.
+14491,5/21/10,MAVU,Marrubium vulgare,5,Cross Timbers Invaders,396,32.81533005,-100.8743083,,,Grazed,Polygon,Common,Yes,Travis Gallo,7/20/11,"Texas, Scurry Co.: approx. 7 mi N of Snyder on private property off N Ennis Creek Rd. Large patch of horehound in old south pasture."
+13590,3/17/11,MAVU,Marrubium vulgare,5,Hays County Invaders,1321,29.903502,-97.967215,,,Grazed,Linear,Common,Yes,Travis Gallo,4/21/11,Common horehound is abundant along the trails.
+13697,3/28/11,MAVU,Marrubium vulgare,15,Hays County Invaders,1321,29.903959,-97.96727,,,Grazed,Polygon,Common,Yes,Travis Gallo,4/1/11,horehound in an open area of grasses and prickly pear cactus
+13698,3/28/11,MAVU,Marrubium vulgare,5,Hays County Invaders,1321,29.903799,-97.966983,,,Grazed,Polygon,Common,Yes,Travis Gallo,4/1/11,horehound
+13701,3/28/11,MAVU,Marrubium vulgare,5,Hays County Invaders,1321,29.903431,-97.967165,,,Grazed,Polygon,Common,Yes,Travis Gallo,4/1/11,horehound on the Berms trail at Ringtail Ridge natural area San Marcos.
+19675,7/21/14,MAVU,Marrubium vulgare,15,Highland Lake Invaders,351,30.62042048,-98.0730919,10,m,Cleared brush,Point,Rare,Yes,JDB,8/8/14,

@@ -1,0 +1,5 @@
+Invaders of Texas,,,,,,,,,,,,,,,,,
+www.texasinvasives.org,,,,,,,,,,,,,,,,,
+Exported: 2017-05-18 20:17 ,,,,,,,,,,,,,,,,,
+Obs_ID,Date,USDA,Species,Time_Spent,Satellite,Collector,Lat,Long,Location_Error,Loc_Err_Units, Disturbance,Patch_Type,Abundance,Validated,Valid_Name,Valid_Date,Notes
+18994,4/17/14,LOAR10,Lolium arundinaceum,5,Connemara Conservancy,2330,33.08517289,-96.70354307,3,f,None,Polygon,Common,Yes,JDB,4/18/14,"Growth of grasses in wet to mesic soil conditions on this preserved grasslands.  No ground disturbances in many decades, but areas are mowed once to twice a year.  One 10-acre area was sucessfully herbicided and mowed several times in 2013 to kill Lolium sp. and other grasses as part of a prairie restoration project."

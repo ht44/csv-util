@@ -1,0 +1,19 @@
+Invaders of Texas,,,,,,,,,,,,,,,,,
+www.texasinvasives.org,,,,,,,,,,,,,,,,,
+Exported: 2017-05-18 20:43 ,,,,,,,,,,,,,,,,,
+Obs_ID,Date,USDA,Species,Time_Spent,Satellite,Collector,Lat,Long,Location_Error,Loc_Err_Units, Disturbance,Patch_Type,Abundance,Validated,Valid_Name,Valid_Date,Notes
+1448,9/6/07,SCAT,Scabiosa atropurpurea,30,Cross Timbers Invaders,54,33.01026,-96.64243,,,Cleared brush,Polygon,Abundant,Yes,Damon Waitt,9/13/07,
+,14th Street between Los Rios Blvd and Dublin Road in East Plano on golf course (Pecan Hollow) south an east of Rowlett Creek,,,,,,,,,,,,,,,,
+2962,4/19/08,SCAT,Scabiosa atropurpurea,15,Cross Timbers Invaders,85,33.25519,-97.52391,,,Other,Point,Common,Yes,Damon Waitt,5/7/08,
+,,,,,,,,,,,,,,,,,
+2958,5/2/08,SCAT,Scabiosa atropurpurea,15,Cross Timbers Invaders,56,33.048174,-96.845793,,,Graded,Point,Rare,Yes,Damon Waitt,5/7/08,
+,"Open field area of Arbor Hills Nature Preserve.  Originally graded, but no disturbance for several years.  I help to manage this area and will return to eradicate.",,,,,,,,,,,,,,,,
+3505,6/15/08,SCAT,Scabiosa atropurpurea,30,Cross Timbers Invaders,75,32.73533,-97.356517,,,Roadside,Polygon,Rare,Yes,Karan Rawlins,6/16/08,
+,"Ft Worth - I-30 near University - turn around by entrance ramp.  mowed field along interstae but with many SCAT growing fast throughout field. Note - close photo against trees for best contrast, but whole grass field has SCAT plants throughout.",,,,,,,,,,,,,,,,
+7348,4/10/09,SCAT,Scabiosa atropurpurea,15,Blackland Prairies Invaders,406,32.9828,-96.6526,,,Cleared brush,Polygon,Common,Yes,Karan Rawlins,4/16/09,"This was found along the fence line in a field off Lookout Drive at the Richardson, Collin County/Garland Dallas County border."
+10846,6/18/10,SCAT,Scabiosa atropurpurea,30,Cross Timbers Invaders,763,32.74182899,-97.28611887,,,Roadside,Polygon,Common,Yes,Travis Gallo,6/23/10,Profusive growth on south side of E. Lancaster on west slope of Conner underpass.
+14964,5/3/11,SCAT,Scabiosa atropurpurea,30,Cross Timbers Invaders,763,32.65845383,-97.2717905,,,Other,Polygon,Common,Yes,Travis Gallo,10/26/11,"an occasionally mown field along West edge of grocery store parking lot south of Forest Hill Circle, a road that runs parallel and south of the service road for I-20 between Wichita and Forest Hill."
+18999,4/17/14,SCAT,Scabiosa atropurpurea,5,Voyager,2330,33.08780221,-96.69593096,3,f,None,Polygon,Common,Yes,JDB,4/18/14,Dense areas of Scabiosa overgrowth on grasslands
+19240,5/21/14,SCAT,Scabiosa atropurpurea,5,Blackland Prairies Invaders,1749,33.006127,-96.824995,5,f,Roadside,Polygon,Common,Yes,JDB,5/26/14,"Coordinates from Google Earth. In 2 adjoining mowed fields on Pear Ridge south of Haverwood, Dallas, TX."
+19259,5/22/14,SCAT,Scabiosa atropurpurea,5,Blackland Prairies Invaders,1749,32.85577,-96.7151,5,f,Other,Point,Rare,Yes,JDB,5/26/14,"Coordinated from Google Earth. Fortunately this is the only scabiosa we saw in this area, though there are reports of more in other parts of Norbuck park, and this is an area where Dallas Parks dept. mows - surely what's spreading this species. Only 3 plants found - and eradicated (pulled) - at the site."
+20486,3/8/15,SCAT,Scabiosa atropurpurea,5,Connemara Conservancy,2330,33.08584708,-96.7041412,10,f,None,Polygon,Common,Yes,JDB,3/12/15,"Area of Scabiosa overgrowth in a polygon area, plus distribution along mowed pathway.  Some have been removed by hand along path over the last 2 years; treatment with herbicides has not yet been effective."
